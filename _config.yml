@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily
+title: Location Fake
 subtitle: 'Enjoy life easier but more creative!'
-description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
-keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
-author: TechiDaily
+description: 'Location Fake is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
+keywords: 'fake location, location fake, fake,Tools, File explorer, Convert, Repair tools, data recovery'
+author: Mia
 language: en
 timezone: ''
 
@@ -102,6 +102,7 @@ theme: redefine
 sitemap:
   path: 
     - sitemap.txt
+    - sitemap.xml
   rel: false
   tags: false
   categories: false
