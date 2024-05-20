@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Fake GPS Without Root On Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T13:30:05.066Z
-updated: 2024-05-01T13:30:05.066Z
+date: 2024-05-19T02:57:32.620Z
+updated: 2024-05-20T02:57:32.620Z
 tags: 
   - virtual location chang
   - location changer
@@ -349,4 +349,5 @@ Trying a GPS spoofing app like [Dr. Fone - Virtual Location](https://tools.techi
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-11-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 11 Pro Max without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oppo-reno-11-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Oppo Reno 11 Pro 5G</u></a></li>
 </ul></div>
+
 

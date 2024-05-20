@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Change Location on Facebook Marketplace for Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T13:28:49.454Z
-updated: 2024-05-01T13:28:49.454Z
+date: 2024-05-19T02:57:31.465Z
+updated: 2024-05-20T02:57:31.465Z
 tags: 
   - virtual location chang
   - location changer
@@ -493,4 +493,5 @@ Knowing the telltale signs of a fake GPS is a must to ensure you will not be dec
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-14-pro-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 14 Pro on MetroPCS</u></a></li>
 </ul></div>
+
 

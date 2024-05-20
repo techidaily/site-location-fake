@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Fake GPS Without Root On Samsung Galaxy S23 Tactical Edition | Dr.fone
-date: 2024-04-30T13:30:03.185Z
-updated: 2024-05-01T13:30:03.185Z
+date: 2024-05-19T02:57:32.607Z
+updated: 2024-05-20T02:57:32.607Z
 tags: 
   - virtual location chang
   - location changer
@@ -436,4 +436,5 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-nord-3-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus Nord 3 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme C53? | Dr.fone</u></a></li>
 </ul></div>
+
 

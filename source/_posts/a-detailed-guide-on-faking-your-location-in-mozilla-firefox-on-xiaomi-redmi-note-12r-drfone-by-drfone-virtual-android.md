@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 12R | Dr.fone
-date: 2024-04-30T13:40:30.197Z
-updated: 2024-05-01T13:40:30.197Z
+date: 2024-05-19T02:57:39.692Z
+updated: 2024-05-20T02:57:39.692Z
 tags: 
   - virtual location chang
   - location changer
@@ -496,4 +496,5 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/7-best-real-time-video-translation-apps/"><u>7 Best Real Time Video Translation Apps</u></a></li>
 </ul></div>
+
 
