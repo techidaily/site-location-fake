@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Itel A05s | Dr.fone
-date: 2024-06-15T11:11:45.980Z
-updated: 2024-06-16T11:11:45.980Z
+date: 2024-06-30T12:17:18.956Z
+updated: 2024-07-01T12:17:18.956Z
 tags: 
   - virtual location chang
   - location changer
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Itel A05s  X and 11, the steps are slightly different. For other Itel A05s  models, press the Power button and wait until the slider appears. For Itel A05s  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Itel A05s ](https://www.virtuallocation.com/images/pokemon-go/restart-Itel A05s .jpg)
+![restart Itel A05s](https://www.virtuallocation.com/images/pokemon-go/restart-Itel A05s .jpg)
 
 Drag the Power slider to the right side and wait for the Itel A05s device to shut down. Wait for a minute before you restart the Itel A05s device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -347,7 +347,7 @@ Sometimes we want our location to be kept secret and send a fake one to our frie
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

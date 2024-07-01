@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi 12 5G | Dr.fone
-date: 2024-05-19T02:57:38.824Z
-updated: 2024-05-20T02:57:38.824Z
+date: 2024-06-30T12:17:21.153Z
+updated: 2024-07-01T12:17:21.153Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi 12 5G
 excerpt: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi 12 5G
 keywords: fake location on Redmi 12 5G,change gps location on android,fake location on android,change location on android,fake gps location on android,change location on Redmi 12 5G
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Xiaomi Redmi 12 5G
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Xiaomi Redmi 12 5G  X and 11, the steps are slightly different. For other Xiaomi Redmi 12 5G  models, press the Power button and wait until the slider appears. For Xiaomi Redmi 12 5G  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Xiaomi Redmi 12 5G ](https://www.virtuallocation.com/images/pokemon-go/restart-Xiaomi Redmi 12 5G .jpg)
+![restart Xiaomi Redmi 12 5G](https://www.virtuallocation.com/images/pokemon-go/restart-Xiaomi Redmi 12 5G .jpg)
 
 Drag the Power slider to the right side and wait for the Xiaomi Redmi 12 5G device to shut down. Wait for a minute before you restart the Xiaomi Redmi 12 5G device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -303,7 +303,7 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 
 If you are experiencing issues in the app and thinking iToolab AnyGo not working how to fix it? This is the answer. But if you are looking for an alternative, look no other than [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS/Android). The app is very easy to use, teleports you in one click, and lets you use any location-based apps and games that are otherwise impossible to play.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 12 5G
 
@@ -313,7 +313,7 @@ Do you know how to avoid such a situation? It is simple, try to trick the locati
 
 You can also make use of this app to spoof your location while playing location related games like Pokemon. This could give a chance to explore unique and more Pokemons around the globe. Those who make use of social media and play games online should know how to spoof location using an incredible app. Just scroll down to discover the techniques.
 
-![spoof your location ](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-1.jpg)
+![spoof your location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-1.jpg)
 
 ## Part 1: About Fake GPS GO Location Spoofer
 
@@ -512,7 +512,7 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

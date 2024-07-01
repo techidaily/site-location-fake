@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone
-date: 2024-06-15T11:11:35.676Z
-updated: 2024-06-16T11:11:35.676Z
+date: 2024-06-30T12:17:17.218Z
+updated: 2024-07-01T12:17:17.218Z
 tags: 
   - virtual location chang
   - location changer
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Sony Xperia 5 V  X and 11, the steps are slightly different. For other Sony Xperia 5 V  models, press the Power button and wait until the slider appears. For Sony Xperia 5 V  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Sony Xperia 5 V ](https://www.virtuallocation.com/images/pokemon-go/restart-Sony Xperia 5 V .jpg)
+![restart Sony Xperia 5 V](https://www.virtuallocation.com/images/pokemon-go/restart-Sony Xperia 5 V .jpg)
 
 Drag the Power slider to the right side and wait for the Sony Xperia 5 V device to shut down. Wait for a minute before you restart the Sony Xperia 5 V device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -301,7 +301,7 @@ On the other hand, if you're looking for an alternative to Fake GPS Mod, read ou
 
 ![introduction to fake gps mod](https://images.wondershare.com/drfone/article/2022/12/best-gps-mod-introduction.jpg)
 
-## Part 1: What is the [Fake GPS Mod](https://divyanet.com/fake-gps-mod-apk/) and How Does It Work?
+## Part 1: What is the Fake GPS Mod
 
 A lot of smartphone users wonder how to hide their current GPS location as everything is tracked nowadays. [Fake GPS Mod](https://divyanet.com/fake-gps-mod-apk/) allows you to create fake locations for you to mask your current and previous location with the touch of a button.
 
@@ -317,7 +317,7 @@ Here are the drawbacks you might encounter if you're using Fake GPS Mod APK on y
 - You need to go to your phone's development section and do some tinkering to allow Fake GPS Mod to work on your smartphone.
 - Fake GPS Mod APK is not available for iOS users.
 
-## Part 3: The Best Alternative to Fake GPS Mod APK - [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+## Part 3: The Best Alternative to Fake GPS Mod APK - Dr.Fone - Virtual Location
 
 Some of the obvious drawbacks of using Fake GPS Mod include putting your smartphone at risk of APKs and being exclusive on Android, essentially leaving out iOS users. Downloading a great alternative in [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves all your problems from location-based apps and games to make your life easier whether you're on iOS or Android.
 
@@ -336,7 +336,7 @@ If you want to learn more about how to fake your GPS location effectively, here'
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/V0gNpNucOvA"></iframe>
 
-### Steps to Fake GPS Location Using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Steps to Fake GPS Location Using Dr.Fone - Virtual Location
 
 Simply follow the steps below to start spoofing your GPS Location with Dr.Fone - Virtual Location.
 

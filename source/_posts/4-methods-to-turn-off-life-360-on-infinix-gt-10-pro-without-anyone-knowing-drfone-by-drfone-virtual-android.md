@@ -1,7 +1,7 @@
 ---
 title: 4 Methods to Turn off Life 360 On Infinix GT 10 Pro without Anyone Knowing | Dr.fone
-date: 2024-05-19T02:57:33.864Z
-updated: 2024-05-20T02:57:33.864Z
+date: 2024-06-30T12:17:22.261Z
+updated: 2024-07-01T12:17:22.261Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 4 Methods to Turn off Life 360 On Infinix GT 10 Pro without Anyone Knowing
 excerpt: This article describes 4 Methods to Turn off Life 360 On Infinix GT 10 Pro without Anyone Knowing
 keywords: fake location on GT 10 Pro,fake location on android,change gps location on android,fake gps location on android,change location on GT 10 Pro,change location on android
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## 4 Methods to Turn off Life 360 On Infinix GT 10 Pro without Anyone Knowing
@@ -100,7 +100,7 @@ Fortunately, you have another effective option, and that is by faking your GPS l
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

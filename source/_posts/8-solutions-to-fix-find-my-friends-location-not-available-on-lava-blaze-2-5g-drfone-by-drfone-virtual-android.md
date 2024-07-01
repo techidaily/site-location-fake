@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze 2 5G | Dr.fone
-date: 2024-05-19T02:57:38.303Z
-updated: 2024-05-20T02:57:38.303Z
+date: 2024-06-30T12:17:17.586Z
+updated: 2024-07-01T12:17:17.586Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze 2 5G
 excerpt: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze 2 5G
 keywords: fake gps location on android,fake location on android,change location on Blaze 2 5G,change gps location on android,fake location on Blaze 2 5G,change location on android
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Lava Blaze 2 5G
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Lava Blaze 2 5G  X and 11, the steps are slightly different. For other Lava Blaze 2 5G  models, press the Power button and wait until the slider appears. For Lava Blaze 2 5G  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Lava Blaze 2 5G ](https://www.virtuallocation.com/images/pokemon-go/restart-Lava Blaze 2 5G .jpg)
+![restart Lava Blaze 2 5G](https://www.virtuallocation.com/images/pokemon-go/restart-Lava Blaze 2 5G .jpg)
 
 Drag the Power slider to the right side and wait for the Lava Blaze 2 5G device to shut down. Wait for a minute before you restart the Lava Blaze 2 5G device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

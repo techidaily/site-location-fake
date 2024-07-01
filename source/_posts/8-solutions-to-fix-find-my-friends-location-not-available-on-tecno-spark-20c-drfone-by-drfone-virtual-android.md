@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 20C | Dr.fone
-date: 2024-05-19T02:57:38.710Z
-updated: 2024-05-20T02:57:38.710Z
+date: 2024-06-30T12:17:21.769Z
+updated: 2024-07-01T12:17:21.769Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 20C
 excerpt: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 20C
 keywords: fake location on android,change gps location on android,fake location on Spark 20C,change location on android,fake gps location on android,change location on Spark 20C
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Tecno Spark 20C
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Tecno Spark 20C  X and 11, the steps are slightly different. For other Tecno Spark 20C  models, press the Power button and wait until the slider appears. For Tecno Spark 20C  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Tecno Spark 20C ](https://www.virtuallocation.com/images/pokemon-go/restart-Tecno Spark 20C .jpg)
+![restart Tecno Spark 20C](https://www.virtuallocation.com/images/pokemon-go/restart-Tecno Spark 20C .jpg)
 
 Drag the Power slider to the right side and wait for the Tecno Spark 20C device to shut down. Wait for a minute before you restart the Tecno Spark 20C device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -217,7 +217,7 @@ The Wondershare’s Dr. Fone is a very good application that lets you change loc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

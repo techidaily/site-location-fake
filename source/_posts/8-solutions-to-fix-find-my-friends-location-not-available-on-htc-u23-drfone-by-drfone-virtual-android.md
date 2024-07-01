@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On HTC U23 | Dr.fone
-date: 2024-06-08T04:59:15.937Z
-updated: 2024-06-09T04:59:15.937Z
+date: 2024-06-30T12:17:15.137Z
+updated: 2024-07-01T12:17:15.137Z
 tags: 
   - virtual location chang
   - location changer
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for HTC U23  X and 11, the steps are slightly different. For other HTC U23  models, press the Power button and wait until the slider appears. For HTC U23  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart HTC U23 ](https://www.virtuallocation.com/images/pokemon-go/restart-HTC U23 .jpg)
+![restart HTC U23](https://www.virtuallocation.com/images/pokemon-go/restart-HTC U23 .jpg)
 
 Drag the Power slider to the right side and wait for the HTC U23 device to shut down. Wait for a minute before you restart the HTC U23 device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -213,7 +213,7 @@ Try all of these tricks that we have shared and get that temporary issue in Fone
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 The best Foneazy MockGo alternative to fake location!
 
@@ -262,7 +262,7 @@ You can use the GPS **location changer app for iPhone and Android** devices to a
 
 ## Top 1 location changer for iOS and Android
 
-### [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location (iOS)
 
 iOS system does not contain GPS location spoofing settings, and Apple does not allow GPS spoofer apps in the App Store. Anything you can find in the App Store is not authentic or reliable. There are two viable solutions to [changing iPhone GPS](https://drfone.wondershare.com/virtual-location/fake-gps-location-ios.html) on the market:
 
@@ -326,7 +326,7 @@ IMoveGo is a location changer tool that allows you to modify your GPS location o
 - Regular updates are required.
 - Potential app compatibility issues.
 
-### 2\. [iSpoofer Location Spoofer](https://drfone.wondershare.com/virtual-location/pokemon-go-ispoofer.html)
+### 2\. iSpoofer Location Spoofer
 
 The iSpoofer Location Spoofer is one of the most effective iOS location spoofers. By quickly shifting iPhone location data to whatever location you wish, you are no longer barred from enjoying location-based games and accessing content from different locations.
 
@@ -352,7 +352,7 @@ The iSpoofer Location Spoofer is one of the most effective iOS location spoofers
 - It costs a hefty amount.
 - You'll need a Developer Image File and iTunes installed on your phone to operate.
 
-### 3\. [iTools Location changer](https://drfone.wondershare.com/virtual-location/itools-virtual-location-alternative.html)
+### 3\. iTools Location changer
 
 ThinkSky's iTools is a phone GPS location program. It's a desktop app that can let you spoof your iPhone's location. It is compatible with both Windows and macOS. In addition, you don't need any technical knowledge to modify the location as it offers a user-friendly UI.
 
@@ -561,7 +561,7 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
