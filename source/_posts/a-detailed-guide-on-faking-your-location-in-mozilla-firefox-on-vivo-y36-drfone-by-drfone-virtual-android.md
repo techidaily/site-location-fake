@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y36 | Dr.fone
-date: 2024-06-23T01:58:47.361Z
-updated: 2024-06-24T01:58:47.361Z
+date: 2024-07-08T03:14:36.892Z
+updated: 2024-07-09T03:14:36.892Z
 tags: 
   - virtual location chang
   - location changer
@@ -330,7 +330,7 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step-by-step Guide to Fake Google Maps Location with Dr. Fone Virtual Location:**
 

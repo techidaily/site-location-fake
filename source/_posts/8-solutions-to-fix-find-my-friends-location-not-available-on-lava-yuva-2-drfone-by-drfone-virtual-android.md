@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Lava Yuva 2 | Dr.fone
-date: 2024-05-19T02:57:38.311Z
-updated: 2024-05-20T02:57:38.311Z
+date: 2024-07-08T03:14:45.337Z
+updated: 2024-07-09T03:14:45.337Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Lava Yuva 2
 excerpt: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Lava Yuva 2
 keywords: fake location on Yuva 2,fake location on android,fake gps location on android,change gps location on android,change location on Yuva 2,change location on android
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Lava Yuva 2
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Lava Yuva 2  X and 11, the steps are slightly different. For other Lava Yuva 2  models, press the Power button and wait until the slider appears. For Lava Yuva 2  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Lava Yuva 2 ](https://www.virtuallocation.com/images/pokemon-go/restart-Lava Yuva 2 .jpg)
+![restart Lava Yuva 2](https://www.virtuallocation.com/images/pokemon-go/restart-Lava Yuva 2 .jpg)
 
 Drag the Power slider to the right side and wait for the Lava Yuva 2 device to shut down. Wait for a minute before you restart the Lava Yuva 2 device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -217,7 +217,7 @@ The Wondershare’s Dr. Fone is a very good application that lets you change loc
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

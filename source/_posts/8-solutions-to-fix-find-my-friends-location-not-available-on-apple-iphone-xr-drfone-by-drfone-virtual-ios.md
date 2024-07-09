@@ -1,7 +1,7 @@
 ---
 title: 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone XR | Dr.fone
-date: 2024-05-19T02:57:38.117Z
-updated: 2024-05-20T02:57:38.117Z
+date: 2024-07-08T03:14:37.748Z
+updated: 2024-07-09T03:14:37.748Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone XR
 excerpt: This article describes 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone XR
 keywords: fake gps location on ios,fake location on ios,fake location on iPhone XR,fake location on iphone,change location on iPhone XR,change location on iphone,change location on ios,change gps location on ios
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Apple iPhone XR
@@ -91,7 +91,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Apple iPhone XR  X and 11, the steps are slightly different. For other Apple iPhone XR  models, press the Power button and wait until the slider appears. For Apple iPhone XR  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Apple iPhone XR ](https://www.virtuallocation.com/images/pokemon-go/restart-Apple iPhone XR .jpg)
+![restart Apple iPhone XR](https://www.virtuallocation.com/images/pokemon-go/restart-Apple iPhone XR .jpg)
 
 Drag the Power slider to the right side and wait for the Apple iPhone XR device to shut down. Wait for a minute before you restart the Apple iPhone XR device, and hopefully, the feature will start working again as usual.
 
@@ -163,7 +163,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -311,7 +311,7 @@ After downloading the app, you'll receive an alert that they have joined your Ci
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
