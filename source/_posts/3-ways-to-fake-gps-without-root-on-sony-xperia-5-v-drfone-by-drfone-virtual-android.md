@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Fake GPS Without Root On Sony Xperia 5 V | Dr.fone
-date: 2024-05-19T02:57:32.623Z
-updated: 2024-05-20T02:57:32.623Z
+date: 2024-07-12T18:46:42.936Z
+updated: 2024-07-13T18:46:42.936Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Fake GPS Without Root On Sony Xperia 5 V
 excerpt: This article describes 3 Ways to Fake GPS Without Root On Sony Xperia 5 V
 keywords: fake location on Xperia 5 V,fake gps location on android,change gps location on android,change location on android,change location on Xperia 5 V,fake location on android
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## 3 Ways to Fake GPS Without Root On Sony Xperia 5 V
@@ -28,7 +28,7 @@ Try it with location-based apps like Pokemon Go or Tinder to fake movement and e
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -189,7 +189,7 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 **Step 3.** Don't use Life360 anymore on your phone.
 
-![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
+![invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
@@ -197,13 +197,13 @@ Turning down the Sony Xperia 5 V device's potential to interact with Wi-Fi and c
 
 **Step 1.** To prevent applications from renewing themselves in the background, you must use the option that saves battery life.
 
-![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
+![disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
 
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
 **Step 3.** Navigate to the settings menu, look for the Life360 option, and then off cellular data, background refresh, and the Motion & Fitness feature.
 
-![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
+![disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
 
 Once these services are no longer active, your location data will no longer change.
 
@@ -217,7 +217,7 @@ As a direct result of this, you will have access to all of the banned applicatio
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -244,7 +244,7 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Sony Xperia 5 V device, if necessary, and then press the Trust Device option.
 
-![activate ](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+![activate](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 5**. You may then identify your Phone.
 
@@ -346,7 +346,7 @@ To change Proxy on mobile phones, change your phone's proxy settings. Your Netfl
 
 - Proxy Servers don't encrypt data.
 
-### Method 3: Using a [Tor Browser](https://www.torproject.org/download/)
+### Method 3: Using a Tor Browser
 
 For the unfamiliar, Tor is an open-source network that encrypts your connection while stopping trackers from following your activity. Here are the steps to start using Tor Browser to watch Netflix without a VPN.
 
@@ -379,7 +379,7 @@ While it's not illegal to change your Netflix region, it does violate the stream
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -408,3 +408,45 @@ While it's not illegal to change your Netflix region, it does violate the stream
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>In 2024, Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-y36i-easily-by-drfone-android/"><u>How To Unlock a Vivo Y36i Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-open-access-to-the-masters-oeuvre/"><u>[Updated] Open Access to the Masters' Oeuvre</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-meizu-21-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/incorporating-custom-visuals-in-youtube-videos-easily/"><u>Incorporating Custom Visuals in YouTube Videos Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovation-meets-opportunity-the-leading-7-nft-generation-tools/"><u>2024 Approved  Innovation Meets Opportunity  The Leading 7 NFT Generation Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-vocal-depth-techniques-for-a-powerful-tone-in-filmora/"><u>Updated Mastering Vocal Depth Techniques for a Powerful Tone in Filmora</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/0plus-free-apps-to-convert-youtube-videos-on-demand-for-2024/"><u>[New] 10+ Free Apps to Convert YouTube Videos on Demand for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-replacing-bandicam-on-mac-systems/"><u>The Ultimate Guide to Replacing Bandicam on Mac Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inaudible-audio-assemblers-6-low-profile-recorders-for-smartphones/"><u>[Updated] In 2024, Inaudible Audio Assemblers  6 Low-Profile Recorders for Smartphones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-critical-analysis-of-the-best-free-video-chat-software-suitable-for-businesses-and-educators/"><u>[New] Critical Analysis of the Best Free Video Chat Software Suitable for Businesses & Educators</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-download-free-sound-effects-for-youtubers/"><u>2024 Approved  Download Free Sound Effects for YouTubers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-seamless-sharing-twitch-links-on-your-fb-page/"><u>[Updated] In 2024, Seamless Sharing  Twitch Links on Your FB Page</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-display-settings-in-win10/"><u>Adjusting Display Settings in Win10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/infinite-free-screenscape-viewer-watermark-free-for-2024/"><u>Infinite Free Screenscape Viewer (Watermark-Free) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/syncing-tunes-with-video-cut-and-paste-youtube-editor-basics/"><u>Syncing Tunes with Video Cut & Paste  YouTube Editor Basics</u></a></li>
+</ul></div>

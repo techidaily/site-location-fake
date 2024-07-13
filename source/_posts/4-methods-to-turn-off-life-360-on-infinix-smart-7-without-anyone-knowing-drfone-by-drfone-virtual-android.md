@@ -1,7 +1,7 @@
 ---
 title: 4 Methods to Turn off Life 360 On Infinix Smart 7 without Anyone Knowing | Dr.fone
-date: 2024-05-19T02:57:33.882Z
-updated: 2024-05-20T02:57:33.882Z
+date: 2024-07-12T18:58:03.813Z
+updated: 2024-07-13T18:58:03.813Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes 4 Methods to Turn off Life 360 On Infinix Smart 7 without Anyone Knowing
 excerpt: This article describes 4 Methods to Turn off Life 360 On Infinix Smart 7 without Anyone Knowing
 keywords: change location on Smart 7,fake location on Smart 7,change location on android,change gps location on android,fake gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## 4 Methods to Turn off Life 360 On Infinix Smart 7 without Anyone Knowing
@@ -100,7 +100,7 @@ Fortunately, you have another effective option, and that is by faking your GPS l
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -239,7 +239,7 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Infinix Smart 7  X and 11, the steps are slightly different. For other Infinix Smart 7  models, press the Power button and wait until the slider appears. For Infinix Smart 7  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
-![restart Infinix Smart 7 ](https://www.virtuallocation.com/images/pokemon-go/restart-Infinix Smart 7 .jpg)
+![restart Infinix Smart 7](https://www.virtuallocation.com/images/pokemon-go/restart-Infinix Smart 7 .jpg)
 
 Drag the Power slider to the right side and wait for the Infinix Smart 7 device to shut down. Wait for a minute before you restart the Infinix Smart 7 device, and hopefully, the feature will start working again as usual.
 
@@ -311,7 +311,7 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -376,7 +376,7 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 **Step 3.** Don't use Life360 anymore on your phone.
 
-![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
+![invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
@@ -384,13 +384,13 @@ Turning down the Infinix Smart 7 device's potential to interact with Wi-Fi and c
 
 **Step 1.** To prevent applications from renewing themselves in the background, you must use the option that saves battery life.
 
-![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
+![disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
 
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
 **Step 3.** Navigate to the settings menu, look for the Life360 option, and then off cellular data, background refresh, and the Motion & Fitness feature.
 
-![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
+![disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
 
 Once these services are no longer active, your location data will no longer change.
 
@@ -404,7 +404,7 @@ As a direct result of this, you will have access to all of the banned applicatio
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -431,7 +431,7 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Infinix Smart 7 device, if necessary, and then press the Trust Device option.
 
-![activate ](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+![activate](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 5**. You may then identify your Phone.
 
@@ -472,3 +472,69 @@ Can you tell when someone checks your location on life360? To stay safe, you sho
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-elite-9-directors-cuts-downloader-for-2024/"><u>[New] Elite 9 Directors' Cuts Downloader for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-understanding-the-evolution-of-facebook-videos/"><u>In 2024, Understanding the Evolution of Facebook Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-avoid-breaches-the-pre-upload-guide-to-copyright-on-tiktok/"><u>[Updated] 2024 Approved  Avoid Breaches  The Pre-Upload Guide to Copyright on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-soundtrack-exchanging-playlists-seamlessly-for-2024/"><u>Streamline Your Soundtrack  Exchanging Playlists Seamlessly for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a70-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-path-to-igtv-popularity-top-strategies-unveiled/"><u>The Ultimate Path to IGTV Popularity  Top Strategies Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-40-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Edge 40 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-linktree-a-step-by-step-approach-to-tiktok-bio-enhancement/"><u>2024 Approved  Integrating Linktree  A Step-by-Step Approach to TikTok Bio Enhancement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fine-tuning-focus-a-compreeher-guide-for-videoleap-users/"><u>[New] Fine-Tuning Focus  A Compreeher Guide for Videoleap Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-list-best-vhs-sound-effect-that-you-can-use-in-video-making/"><u>2024 Approved Top List Best VHS Sound Effect That You Can Use in Video Making</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p55-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-s23-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-stitch-storytelling-creating-content-that-closes-the-gap/"><u>[New] In 2024, Stitch Storytelling  Creating Content that Closes the Gap</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cut-the-clutter-advanced-techniques-for-cam-recordings-for-2024/"><u>Cut the Clutter  Advanced Techniques for Cam Recordings for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/effortless-video-editing-how-to-split-and-merge-clips-in-windows-live-movie-maker-for-2024/"><u>Effortless Video Editing How to Split and Merge Clips in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-get-final-cut-pro-for-less-take-advantage-of-educational-pricing/"><u>New 2024 Approved Get Final Cut Pro for Less Take Advantage of Educational Pricing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-instagram-video-formatting-101-a-beginners-guide-to-aspect-ratios-and-dimensions/"><u>New 2024 Approved Instagram Video Formatting 101 A Beginners Guide to Aspect Ratios and Dimensions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-affordable-360-degree-cameras/"><u>2024 Approved  Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreenasian-guide-to-beautiful-collage-making/"><u>Compreenasian Guide to Beautiful Collage Making</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-thorough-breakdown-googles-podcast-app-unveiled-for-2024/"><u>[Updated] Thorough Breakdown  Google's Podcast App Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-icons-navigating-through-its-leading-25-stars/"><u>In 2024, Instagram's Icons  Navigating Through Its Leading 25 Stars</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips/"><u>In 2024, From Mundane to Memorable  Transform Your Social Media Identity with These Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-snapchat-for-business-success/"><u>[Updated] In 2024, Mastering Snapchat for Business Success</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-full-potential-of-zooms-visual-features/"><u>[New] Unlocking the Full Potential of Zoom's Visual Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos/"><u>[New] 2024 Approved  The Essential Guide to Populating PowerPoint Decks With YouTube Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p40-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/transform-your-favorite-videos-into-mp3s-with-these-proven-converters/"><u>Transform Your Favorite Videos Into MP3s with These Proven Converters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>2024 Approved  The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a60-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-to-sub-magic-three-effective-ways-for-2024/"><u>SRT to SUB Magic  Three Effective Ways for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-10-virtual-clashes/"><u>[New] Elite 10 Virtual Clashes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Blaze 2 5G | Dr.fone</u></a></li>
+</ul></div>
