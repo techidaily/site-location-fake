@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Artificebrain: 5 Pioneering AI Hardware Systems"
-date: 2024-08-08T08:39:05.344Z
-updated: 2024-08-09T08:39:05.344Z
+date: 2024-09-04T13:10:01.812Z
+updated: 2024-09-05T13:10:01.812Z
 tags:
   - chatgpt
   - open-ai
@@ -19,32 +19,20 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for[ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of[generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -56,7 +44,10 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What's New in Microsoft Edge?
 
@@ -66,6 +57,12 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
@@ -73,7 +70,16 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Microsoft Bing Reinvents Web Searching
 

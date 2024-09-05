@@ -1,7 +1,7 @@
 ---
 title: 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Yuva 2 | Dr.fone
-date: 2024-07-12T19:21:18.719Z
-updated: 2024-07-13T19:21:18.719Z
+date: 2024-09-04T13:08:04.799Z
+updated: 2024-09-05T13:08:04.799Z
 tags: 
   - virtual location chang
   - location changer
@@ -44,6 +44,12 @@ Look at some of the things we feel not beneficial about Find My Friends.
 
 In such cases, the need of hiding or faking Find My Friends location rises. This is because we are sharing some ways to fake location on Find My Friends on your iOS and Android.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: 4 Solutions to Fake Find My Friends Location on iOS
 
 We know how important it is to trick your device deceiving with the location. You might be curious now to learn the methods that can meet the objective of yours. Let us begin with the section that introduces you four ways to fake Find My Friends location.
@@ -60,6 +66,12 @@ From the main page of dr.fone – Virtual Location (iOS), download it. After thi
 
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2: Set up Phone’s Connection**
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
@@ -72,6 +84,12 @@ After following the second step, all you need is to look for your actual locatio
 
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4: Enable Teleport Mode**
 
 In this step, you should activate the teleport mode. This will be done by clicking the third icon in the upper right of the screen. You can now input the place you want to teleport.
@@ -96,6 +114,12 @@ In spite of the fact that this way is helpful, there could be some shortcomings 
 
 Secondly, it could be perplexed and draining at the same time to keep checking that the entire settings are accurately set up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.3 Use FMFNotifier to help you on Find My Friends
 
 If still you wonder how to fake your location on Find My Friends, FMFNotifier can help you. Before you use this, let us inform you that this application can run on a jailbroken iPhone. So, if you have a device that is old and you don’t mind jailbreaking it, you are good to go with this app to fake Find My Friends location. Moreover, you will need Cydia to get this app. Cydia can be said as the App Store alternative. It is a platform for installation of software or apps on jailbroken iOS devices. The apps that are not authorized by Apple can be found on Cydia’s package manager.
@@ -106,6 +130,12 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
 
 **Guide on How to Use FMFNotifier**
@@ -140,6 +170,12 @@ You will get the notification no matter your screen is locked or not. A notifica
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Fake Find My Friends location on Android
 
 If you want to fake Find My Friends location on Android, you can easily configure Android devices to do it. For this, you can take help of an Android spoofer app. There are plenty of them available in Play Store. We will be using “Fake GPS GO Location Spoofer Free”. This is how to fake location on Find My Friends on Android.
@@ -158,14 +194,38 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 ![mock locations feature](https://images.wondershare.com/drfone/article/2019/09/enable-mock-location.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4:** Under the Developer options page, click on “Select mock location app”. Now, select “FakeGPS Free” from the list.
 
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
 
@@ -180,6 +240,12 @@ With GPS and advanced tracking tools, your whereabouts can be easily located all
 
 In the following parts of this writeup, you can learn how to know if someone is spying on your cell phone, how to stop someone from mirroring your phone, and many other related concerns.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How can I tell if my husband or wife is spying on my Lava Yuva 2?
 
 If you are suspecting that your phone is being hacked, several signs will indicate the same. So, if you too are looking for ways **how to know if someone is spying on cell phones, check the below-listed signs.**
@@ -198,6 +264,12 @@ Though battery drain can alone not be a sign of the phone being hacked as with t
 
 Since the spyware sends a lot of the Lava Yuva 2 device information to the hacker using the internet connection, the phone will experience high usage of data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Monitoring your mail, email, phone calls, and/or text messages
 
 When your emails, phone calls, and text messages are being checked or tracked that means your phone is being hacked.
@@ -208,10 +280,28 @@ If your social media accounts like Facebook and others are kept an eye on it mea
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Tracking you or your vehicle using GPS
 
 To know about your whereabouts the Lava Yuva 2 device's GPS and the vehicle movement are being tracked. If this is happening with you then it means that you are being spied on.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What can be used when your phone is tracked?
 
 Also, there are several ways by which your phone can be hacked. Listed below are the most common ones.
@@ -225,20 +315,50 @@ Google Chrome: Changing the logged-in account from yours to his/her will help th
 - Google Maps or Find My iPhone: When the location sharing option is turned on the victim device, the hacking spouse can track the location easily.
 - Google account or iCloud data: If your spouse knows the password of your iCloud or Google account, they will easily have access to all the data that is backed up on iCloud. Further, the data can also be used for cloning your device and getting access to personal information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Tracking apps
 
 These are the legitimate apps that can be downloaded from the App store on your phone. Though these tracking apps are mainly used by parents for monitoring their children, a lot of spouses use them for tracking and spying on their partners as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Spyware
 
 ![remove spyware](https://images.wondershare.com/drfone/article/2022/03/remove-spyware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This is one of the most widely used methods where the software or an app is installed on the Lava Yuva 2 device to retrieve the Lava Yuva 2 device data. The victim partner is unaware of any such apps installed on their device and the data is sent to the hacking partner. A wide range of these spyware tools is available in the market in different price brackets. These spyware apps can retrieve data like chats, call details, messages, browsing history, passwords, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How should I respond when I learn my spouse is spying on me?
 
 So, now when you are sure that you are being spied on by your partner, what is the next thing to do? Depending on how you want to deal with the situation your response and its related actions will depend.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Response 1: Reassure your partner and gain the trust
 
 Firstly, if you know that you are not doing anything wrong or want to prove your worth, let your spouse keep tracking you. In the end, when your spouse will not find anything suspicious about your activities and your location, he/she will know that you are right. Moreover, you can even install a GPS on your phone that you’re so that your spouse is aware of your whereabouts all the time, and when nothing suspicious will be found out he will stop spying on you.
@@ -286,10 +406,22 @@ You can check out this video for further instruction.
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2.** Connect your Android or iOS phone to your system and then after it's successfully connected, click on **Next** at the software interface.
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3.** The actual location of your device will now appear in the new window. If the location is not correct, you can tap on the “**Center On**” icon present in the lower right to display your correct location.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -302,6 +434,12 @@ You can check out this video for further instruction.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Method 3: Take advantage of anti-spyware software**
 
 Another way to stop your spouse from spying on you is by using anti-spy software. Just like spy software sends your location and other information to the hacking spouse, an anti-spyware tool will prevent tracking your device and will prevent from sharing your device information like calls, messages, and others. There are several anti-spyware tools for Android and iOS available in the market and some of the popular ones are Mobile Security & Anti-Theft Protection, iAmNotified, Avira Mobile Security, Cell Spy Catcher, Lookout, and more.
@@ -312,6 +450,18 @@ Spying on your spouse is not only illegal but also unethical. So, if you feel th
 
 ## Part 4: Hot FAQs on spying
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q 1: Is it legal for my spouse to spy on me in Maryland?
 
 No, it is not legal to spy on a spouse in Maryland. Violating the Maryland Wiretap Act and Maryland Stored Wire Act will lead to criminal penalties. As per the law, any person, be it your spouse cannot record your calls without your consent, guess the password to have access to any account, or keep a check on any personal activities. These are considered illegal.
@@ -324,6 +474,12 @@ No, your phone cannot be spied on using any common or linked contacts.
 
 Yes, your phone can be spied on without anyone touching it or having access to it. There are several advanced spyware tools available that can let a person have access to all your phone information like messages, calls, emails, and more. In a few quick steps, a hacker can use his/her phone to enable the spying process of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wrap it Up
 
 The technological advancements may have brought a lot of convenience to the users but on the flip side there is a dark side to it as well and one of these is spying tools. So, if you too have been doubting that your spouse is keeping an eye on your phone and whereabouts, the above content will surely help you.
@@ -345,6 +501,12 @@ As we mentioned above, while you put your phone on airplane mode, the cellular r
 
 The GPS works on a different technology where the signals are received from the satellite and are not dependent on the network or cellular services. So, when the airplane mode is enabled, the GPS location is not turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Can Your Location Be tailed on Airplane Mode?
 
 Yes, if you have not disabled the GPS feature, your location can be tailed on an Airplane mode as the flight mode only disables the cellular connection and Wi-Fi. So, it can be concluded that Airplane Mode is no solution for stopping the GPS tracking on your phone, though there are other workarounds available for this.
@@ -361,12 +523,30 @@ To hide the location on your Lava Yuva 2 and iPad, below listed are the steps.
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 2**. Enable the Airplane Mode or turn off the Wi-Fi and Cellular icon.
 
 **Step 3**. Next, you need to disable the GPS radio. On some of the Lava Yuva 2 devices, there is a separate setting for this. Go to Settings > Privacy> Location Services. The list of the apps using the location services will appear. Move the toggle at the Location Services to turn it off.
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.2. How to stop GPS tracking on Android Devices?
 
 The process to turn off GPS location on Android devices may vary from device to device and brand to brand. Still, the commonly used steps for turning off the location are listed below.
@@ -381,6 +561,24 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
 If you are looking for a method that can prevent GPS tracking without turning on Airplane Mode, spoofing your location is a workable solution. To get this task done, you would need a specialized app or a tool, and here we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as the best option.
@@ -415,6 +613,18 @@ You can check out this video for further instruction.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5**. Next, in the upper-right corner, click on the teleport mode icon. Next, enter the desired location at the upper left-hand side that you wish to teleport to. Finally, click on the **Go** button after entering the site.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -425,14 +635,38 @@ You can check out this video for further instruction.
 
 ## Part 5: People Also ask about Airplane Mode
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q1: Can An iPhone Be Traced While off?
 
 No, it cannot be traced when an iPhone or any other phone is switched off. For example, when an iPhone is switched off, its GPS is not activated, and thus it cannot be traced.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q2: Does Find My iPhone Work on Airplane Mode?
 
 No, the Find My iPhone feature does not work in Airplane mode because the location services need a network connection, and thus in Airplane mode, the Lava Yuva 2 device is offline, and it isn't easy to track the Lava Yuva 2 device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q3: Does airplane mode turn off life360
 
 Life360 is a helpful app for tracking your friends, family, and other people. This app tracks your GPS location and displays it to all the selected members in a circle. When the airplane mode on your device is enabled, the network will be disconnected, and thus Life360 will not be able to update your location to the members in the circle. Therefore, during **airplane mode, Life360** will not update your site.
@@ -462,3 +696,61 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-videography-premiere-to-youtube-upload-for-2024/"><u>[New] Elevate Your Videography  Premiere to YouTube Upload for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elite-10-sound-recording-essentials-on-spotify-platform/"><u>[New] Elite 10 Sound Recording Essentials on Spotify Platform</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-instantaneous-screen-logger-for-chrome/"><u>[New] Instantaneous Screen Logger for Chrome</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-preparing-for-a-mobile-cinematic-experience/"><u>[New] Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-instagrams-background-replace-technique-for-2024/"><u>[New] Unveiling Instagram’s Background Replace Technique for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dji-airborne-series-entry-level-mid-range-models-premium-uhd-edition-for-2024/"><u>[Updated] DJI Airborne Series  Entry Level, Mid-Range Models, Premium UHD Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[Updated] In 2024, A Step-by-Step Breakdown  Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-leading-4k-cameras-the-finest-selection/"><u>[Updated] In 2024, Leading 4K Cameras  The Finest Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-success-secrets-8-steps-to-becoming-a-top-poster/"><u>[Updated] Instagram Success Secrets  8 Steps to Becoming a Top Poster</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>[Updated] The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[Updated] Thriving in the Streaming Scene  Overcoming Subscriber Limitations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-vlc-uncovering-hidden-streaming-gems/"><u>2024 Approved  Beyond VLC  Uncovering Hidden Streaming Gems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-revealing-top-streamers-expert-tips-on-choosing-right/"><u>2024 Approved  Revealing Top Streamers  Expert Tips on Choosing Right</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-poco-c51-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-agni-2-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Agni 2 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-defy-2-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Defy 2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-razr-40-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Razr 40? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-asus-rog-phone-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Asus ROG Phone 8 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A34 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-play-40c-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-huawei-p60-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-framework-for-employing-videos-in-educational-settings/"><u>A Framework for Employing Videos in Educational Settings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-nokia-105-classic-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Nokia 105 Classic.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-masters-new-release-the-modular-masterhub-control-pad-challenges-stream-deck-with-this-summers-launch/"><u>Cooler Master's New Release: The Modular MasterHUB Control Pad Challenges Stream Deck with This Summer’s Launch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-asrock-ab350-pro4-drivers-at-no-cost-instant-installation-on-windows-devices/"><u>Get Your ASRock AB350 Pro4 Drivers at No Cost: Instant Installation on Windows Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-6-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 6 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 14 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-professional-thumbnail-tactics-dos-and-donts-guidebook/"><u>In 2024, Professional Thumbnail Tactics  Do's and Don'ts Guidebook</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1722994966107-mastering-bug-free-gameplay-in-tales-of-arise-ue4s-deadly-g-glitch-solved/"><u>Mastering Bug-Free Gameplay in Tales of Arise - UE4's Deadly G Glitch Solved!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-fix-forza-horizon-4-not-starting-expert-advice/"><u>Troubleshooting Guide: How To Fix 'Forza Horizon 4 Not Starting' - Expert Advice</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-10c-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 10C Hard Reset | Dr.fone</u></a></li>
+</ul></div>
