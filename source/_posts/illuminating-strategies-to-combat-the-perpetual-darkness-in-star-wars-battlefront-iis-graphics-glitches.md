@@ -1,7 +1,7 @@
 ---
 title: Illuminating Strategies to Combat the Perpetual Darkness in Star Wars Battlefront II's Graphics Glitches
-date: 2024-09-22T21:36:19.379Z
-updated: 2024-09-26T06:14:51.366Z
+date: 2024-09-26T16:40:01.078Z
+updated: 2024-10-01T16:31:37.615Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ Follow the instructions below to view your computer hardware information:
 **1)**  On your keyboard, press the **Windows logo**  key and type **dxdiag** . Then, press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
@@ -124,6 +131,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
@@ -132,23 +152,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -164,38 +170,24 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
@@ -212,24 +204,24 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -238,6 +230,13 @@ Follow the instructions below to stop the automatic downloads:
 **1)** Right-click the Steam icon on your desktop and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
@@ -255,6 +254,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -267,14 +273,14 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **10)**  Relaunch Steam and your game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -343,22 +349,22 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>[New] 2024 Approved Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>[New] 2024 Approved Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweetaudioextractor-quick-sound-maker/"><u>[Updated] In 2024, TweetAudioExtractor Quick Sound Maker</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-itel-s23-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-hot-40-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Hot 40? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 10 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beyond-wonders-the-unseen-disadvantages-in-vr-for-2024/"><u>Beyond Wonders The Unseen Disadvantages in VR for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-public-speaking-with-these-ai-helpers/"><u>Elevate Your Public Speaking with These AI Helpers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exclusive-offer-save-43-on-a-permanent-license-for-the-official-macx-dvd-ripper-pro-software/"><u>Exclusive Offer: Save 43% on a Permanent License for the Official MacX DVD Ripper Pro Software!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-note-13-proplus-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi Note 13 Pro+ 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-power-of-4k-in-the-samsung-galaxy-s8-experience/"><u>The Power of 4K in the Samsung Galaxy S8 Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-list-of-text-tools-and-plugins/"><u>Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engage-in-enlightening-youtube-exchanges/"><u>[New] 2024 Approved Engage in Enlightening YouTube Exchanges</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/analyzing-the-lenovo-thinkpad-x1-fold-an-amazing-device-that-still-needs-tweaks/"><u>Analyzing the Lenovo ThinkPad X1 Fold: An Amazing Device That Still Needs Tweaks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/duo-camera-fun-with-kidizoom/"><u>Duo Camera Fun with Kidizoom</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962363653-effortless-setup-of-your-scansnap-on-a-windows-pc-free-download/"><u>Effortless Setup of Your ScanSnap on a Windows PC - Free Download!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enabling-and-using-in-built-fm-receivers-in-mobile-phones/"><u>Enabling and Using In-Built FM Receivers in Mobile Phones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-tv-broadcasts-repeating-youtube-videos-effortlessly/"><u>In 2024, Mastering TV Broadcasts Repeating YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://location-fake.techidaily.com/in-depth-review-of-thermaltakes-massive-cooling-pad-for-laptops-great-specs-but-expensive-choice/"><u>In-Depth Review of Thermaltake's Massive Cooling Pad for Laptops - Great Specs but Expensive Choice</u></a></li>
+<li><a href="https://location-fake.techidaily.com/leading-innovations-in-smart-glasses-for-2-the-ultimate-ranking-of-best-smart-spectacles-2024-edition/"><u>Leading Innovations in Smart Glasses for 2# The Ultimate Ranking of Best Smart Spectacles - 2024 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-wsl-issues-post-windows-11-upgrade/"><u>Resolving WSL Issues Post-Windows 11 Upgrade</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ts-of-filmo-for-2024/"><u>Secrets of Filmo for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/top-lihan-lhfm1039-bluetooth-fm-transmitter-evaluation-enhance-in-car-audio-with-seamless-connections/"><u>Top Lihan LHFM1039 Bluetooth FM Transmitter Evaluation: Enhance In-Car Audio with Seamless Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-xlsx-files-and-steps-to-access-them/"><u>Understanding XLSX Files and Steps to Access Them</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-6-overcoming-pc-game-crashes-expert-tips-and-solutions/"><u>Yakuza 6: Overcoming PC Game Crashes – Expert Tips and Solutions</u></a></li>
 </ul></div>
 

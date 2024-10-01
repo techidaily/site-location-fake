@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi A2+ | Dr.fone
-date: 2024-09-19T01:33:15.035Z
-updated: 2024-09-26T00:59:35.850Z
+date: 2024-09-30T16:14:40.835Z
+updated: 2024-10-01T16:08:50.615Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,13 +26,6 @@ It is not hard to change or spoof your location in Mozilla Firefox. Stick with t
 
 Before starting with **Firefox location spoof**, you must be aware of how the platform and websites determine your location. There are many ways a browser can detect your location. It includes services like IP addresses, GPS tracking, Wi-Fi, and Bluetooth. The main tool browsers and websites use to determine your location is HTML5 Geolocation API.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Basic Understanding of the HTML5 Geolocation API
 
 Basically, a browser API called HTML5 Geolocation API is used by websites and browsers to detect a user's location using longitude and latitude coordinates. It is strictly based on user permissions for detecting location. That means you will receive a permission prompt whenever a website or browser uses it to detect your location. If you refuse the permission, they can't use this API for location determination.
@@ -56,13 +49,6 @@ If you want to stop websites from accessing your location from Mozilla Firefox, 
 **Step 2:** Click "Settings" in front of "Location" to manage the location settings. It will open a window with a list of all the websites that can access your location. Depending on your needs, you can choose between "Remove Web Site" or "Remove All Web Sites" to remove their location access.
 
 ![remove the specific or all websites](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** If you want to block the websites from accessing your location indefinitely, you can select the "Block new requests asking to access your location" option. Once selected, click "Save Changes" to disable your geolocation on Firefox.
 
@@ -104,16 +90,16 @@ Another way you can protect your location from websites is to use the "[Location
 
 ![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
 It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation Sharing on the Firefox Browser
 
@@ -185,6 +171,19 @@ Enter your desired fake location in the provided space and press "Go" once the m
 
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
 
 Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
@@ -214,6 +213,13 @@ The sole purpose of mock location apps or software is to help users spoof/ mock 
 - If you are an avid Snapchat user, certain filters are only available in certain locations, and you can mock location on iPhone or Android to avail of them.
 - Location-based games such as Pokémon GO derive the most benefit from a mock location app because you can change your location and show yourself walking in the streets of London while sipping a mojito at a beach in Hawaii and catching amazing new Pokémon!
 - In dating apps, why pay a fee to unlock worldwide access when you can simply use a mock location app to let the dating app change your current location automatically in accordance with your selection in the location spoofer app on your Android or iPhone?
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part II: Is It Safe to Mock Location? Can It Be Detected?
 
@@ -265,6 +271,13 @@ A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 an
 
 ![ispoofer](https://images.wondershare.com/drfone/article/2023/12/mock-location-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Probably one of the most known apps at one point in time, iSpoofer was great at spoofing location on iPhone until Niantic, the makers of Pokémon GO, detected the app, and banned it. The app still works with some tricks up its sleeve, but we do not really recommend it, given that it was detected once and if you are detected using the app, you will be banned from the Poke-verse for good.
 
 ## Part IV: Top Mock Location Apps for Android
@@ -274,6 +287,19 @@ Now for the top location spoofer apps on Android OS! Some from above are also co
 #### 1\. GPS Emulator
 
 ![gps emulator](https://images.wondershare.com/drfone/article/2023/12/mock-location-7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 GPS Emulator by DigiTools can run on the Android device itself and spoof your location to anywhere in the world. It is easy to use and you can give it a try and see if it suits your needs.
 
@@ -292,13 +318,6 @@ iToolab AnyGo for Android works in over 100 games and apps and can simulate move
 #### 4\. Dr.Fone - Virtual Location (Android)
 
 ![drfone virtual location android](https://images.wondershare.com/drfone/article/2023/12/mock-location-android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on Android devices as well. An issue that other spoofing apps present is that the location might jump between its true location and falsified location, which means that other apps might present a location spoofing solution that is not stable. That is not the case with Dr.Fone - Virtual Location (Android) where a location once set remains set as long as you want it to, and will not jump.
 
@@ -337,27 +356,20 @@ Step 1: Download and launch Dr.Fone on your computer and click on Virtual Locati
 
 ![drfone](https://images.wondershare.com/drfone/drfone/drfone-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Connect your device and click Get Started button after accepting the disclaimer.
 
 ![drfone virtual location get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dr.Fone - Virtual Location opens. Click No Device at the top.
 
 ![drfone virtual location open](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: You will now see a beautiful display showing your connected device. Click it and click Next.
 
@@ -445,6 +457,20 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
 If you are looking for a method that can prevent GPS tracking without turning on Airplane Mode, spoofing your location is a workable solution. To get this task done, you would need a specialized app or a tool, and here we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as the best option.
@@ -473,13 +499,6 @@ You can check out this video for further instruction.
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**. Click on the **Get Start** button.
 
 **Step 4**. The software will open a new window, and your connected device's actual location will be shown. If the location is not coming correctly, tap on the **Center On** icon present in the lower-right of the interface.
@@ -503,13 +522,6 @@ No, it cannot be traced when an iPhone or any other phone is switched off. For e
 ### Q2: Does Find My iPhone Work on Airplane Mode?
 
 No, the Find My iPhone feature does not work in Airplane mode because the location services need a network connection, and thus in Airplane mode, the Xiaomi Redmi A2+ device is offline, and it isn't easy to track the Xiaomi Redmi A2+ device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q3: Does airplane mode turn off life360
 
@@ -535,18 +547,20 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-exploring-this-years-most-iconic-music-video-responses/"><u>[New] 2024 Approved Exploring This Year's Most Iconic Music Video Responses</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-uncomplicated-approach-incorporating-flippy-sounds-into-your-windows-setup/"><u>[New] In 2024, Uncomplicated Approach Incorporating Flippy Sounds Into Your Windows Setup</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-wave-goodbye-to-breakups-keep-your-streak-going/"><u>[Updated] In 2024, Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premiere-vr-developers-shaping-the-future/"><u>[Updated] Premiere VR Developers Shaping the Future</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-spark-20-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Spark 20? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-enhanced-features-with-mozilla-thunderbird-update-52/"><u>Discover Enhanced Features with Mozilla Thunderbird Update 52</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-get-usb-c-driver-compatible-with-windows-10/"><u>Easy Steps to Get USB-C Driver Compatible with Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-15-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 15 Pro Max without Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-getting-your-playstation-microphone-back-online/"><u>Troubleshooting Tips: Getting Your PlayStation Microphone Back Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-microsoft-bing-ai-chat-a-detailed-walkthrough-for-android-users/"><u>Unlocking Microsoft Bing AI Chat: A Detailed Walkthrough for Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unraveling-freeze-frames-in-photobooth-recordings/"><u>[New] Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-cinematic-excellence-with-final-cuts-best-10-plugins/"><u>[Updated] Boost Cinematic Excellence with Final Cut’s Best 10 Plugins</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-studio-review-profits-and-payments/"><u>2024 Approved YouTube Studio Review Profits and Payments</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-a38-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo A38? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-15-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 15 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/5-effective-ways-to-cleanly-reset-and-prepare-your-iphone-for-a-new-owner/"><u>5 Effective Ways to Cleanly Reset and Prepare Your iPhone for a New Owner</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-hub-top-product-reviews-and-tips/"><u>Discover Cutting-Edge Devices on Tom's Hardware Hub: Top Product Reviews and Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-video-content-potential-integrating-interactive-features-in-youtube-cards/"><u>In 2024, Unlocking Video Content Potential Integrating Interactive Features in Youtube Cards</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-fbs-automatic-video-sync-feature-for-2024/"><u>Navigating FB's Automatic Video Sync Feature for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-samsungs-image-editing-software-insights/"><u>Unveiling Samsung's Image Editing Software Insights</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-side-by-side-video-editors-for-ios-and-android-phones/"><u>Updated In 2024, Best Side-by-Side Video Editors for iOS and Android Phones</u></a></li>
 </ul></div>
 

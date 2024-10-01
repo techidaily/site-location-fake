@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On ZTE Nubia Z60 Ultra | Dr.fone
-date: 2024-09-19T10:00:55.963Z
-updated: 2024-09-25T17:21:36.996Z
+date: 2024-09-28T17:15:11.551Z
+updated: 2024-10-01T16:58:01.469Z
 tags: 
   - virtual location chang
   - location changer
@@ -34,9 +34,23 @@ Basically, a browser API called HTML5 Geolocation API is used by websites and br
 
 HTML5 Geolocation determines your location using the longitude and latitude coordinates with the help of GPS. If your device doesn't have GPS tracking, it uses Wi-Fi and cell tower signals to detect the ZTE Nubia Z60 Ultra device's location. The location detected by HTML5 Geolocation is highly accurate with accuracy up to street level. Due to its high precision in locating users, it can create privacy issues for users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
 
 Many ways are available for you to fake or disable your desktop location in Mozilla Firefox to address your privacy concerns. You can either disable or change the location in the browser or use a third-party app or extension. Below, we have explained the three most common ways to fake or disable your location in Firefox.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation in Firefox
 
@@ -46,13 +60,6 @@ If you want to stop websites from accessing your location from Mozilla Firefox, 
 
 ![access privacy and security](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Click "Settings" in front of "Location" to manage the location settings. It will open a window with a list of all the websites that can access your location. Depending on your needs, you can choose between "Remove Web Site" or "Remove All Web Sites" to remove their location access.
 
 ![remove the specific or all websites](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-3.jpg)
@@ -60,6 +67,13 @@ If you want to stop websites from accessing your location from Mozilla Firefox, 
 **Step 3:** If you want to block the websites from accessing your location indefinitely, you can select the "Block new requests asking to access your location" option. Once selected, click "Save Changes" to disable your geolocation on Firefox.
 
 ![enable the block new option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Manually Change Your Firefox Location
 
@@ -72,13 +86,6 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 **Step 2:** First search for "Geo.enabled," and when it appears, toggle its value from "True" to "False" to disable geolocation. To spoof your location, search for "geo.provider.network.url" and press the "Pen" icon to edit it.
 
 ![tap on the edit button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** You can enter your desired location using its latitude and longitude coordinates. The format to enter your location coordinates should be:
 
@@ -103,6 +110,13 @@ Another way you can protect your location from websites is to use the "[Location
 **Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
 
 ![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
@@ -131,13 +145,6 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 **Step 2:** In the "Location" menu, you can select "Never" to completely disable the location access for the Firefox browser. To only stop Firefox from detecting your accurate location, turn off the toggle of the "Precise Location" option.
 
 ![disable the firefox ios location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Spoof Your Location in Firefox Using Dr.Fone - Virtual Location
 
@@ -185,19 +192,6 @@ Enter your desired fake location in the provided space and press "Go" once the m
 
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
 
 Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
@@ -227,13 +221,6 @@ But why to Change Location Spotify in the first place? Is it important to change
 **Region specific Content**
 
 ![spotify region specific content](https://images.wondershare.com/drfone/2020/2020/region-specific-content-pic2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Everything is not available everywhere. If you are looking for a specific motivational podcast that is a hit in the US, it might not be available in your region. You like that new Arabic song, maybe it won’t stream in your Australian lanes. The content can be restricted to a specific region and if you don’t stay there, it is far away from your reach. You have to rely on Spotify Change Location to access that musical content.
 
@@ -265,13 +252,6 @@ You can change region spotify manually by directly tweaking a few settings in th
 
 ![spotify log in page](https://images.wondershare.com/drfone/2020/2020/spotify-log-in-page-pic6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** From the sidebar, go to the ‘Account Overview’ option. When you click on it, you will find the ‘Edit Profile’ option on the screen. Go for it.
 
 ![spotify acct overview](https://images.wondershare.com/drfone/2020/2020/account-overview-spotify-pic7.jpg)
@@ -285,13 +265,6 @@ If you are a Spotify Free user, then you will have to go by the above mentioned 
 **Step 4 (Premium):** In the same Account Overview option, you can either ‘Update’ your new location and spotify works accordingly. Otherwise, you can completely Change your Plan as well.
 
 ![premium-account-change-plan](https://images.wondershare.com/drfone/2020/2020/premium-account-change-plan-pic9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3: How to Use Apps to Fake Spotify Location?**
 
@@ -329,6 +302,13 @@ Location Spoofers are much safer because they don’t maintain Log data like the
 
 ![nordvpn app](https://images.wondershare.com/drfone/2020/2020/nordvpn-location-servers-pic14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Sign Up and create your account on the app. The main use of a VPN is to mask your IP and give you a new server for internet surfing. So, once you log in, NordVPN will find the closest server for you.
 
 ![connect to server](https://images.wondershare.com/drfone/2020/2020/quick-connect-new-server-pic15.jpg)
@@ -336,13 +316,6 @@ Location Spoofers are much safer because they don’t maintain Log data like the
 The automatic connect was made to United States - the closest server
 
 ![change server using spotify](https://images.wondershare.com/drfone/2020/2020/update-server-disconnect-pic16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** In case you want to change to a specific country, You can go to ‘More Options’ and then choose Servers. Then go to All Countries and choose the country of your choice. Once you launch Spotify, the same will reflect there too.
 
@@ -511,6 +484,13 @@ This is a hardware technique for mocking your iPhone's location. There are sever
 
 ![iteleporter](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key features:**
 
 - The location spoofer is simple to use and works with most iPhone models.
@@ -582,6 +562,13 @@ It is one of the most popular Android smartphone location spoofing apps that you
 - Pokemon Go occasionally fails to recognize the location specified in the app.
 - Interface fulfills ads. If you want a straightforward interface, Dr.Fone is a good choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Fake GPS location - Lexa
 
 **Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps>
@@ -604,6 +591,13 @@ One of the most popular Android spoofing apps is Lexa's Fake GPS. It allows you 
 
 - For a few gadget owners, fake GPS may feel a little problematic.
 - After you deactivate the program, your GPS location may become trapped in one spot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. VPNa - Fake GPS Location
 
@@ -681,16 +675,17 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-ios-psp-gamepads-emulation-2023s-best-list/"><u>[New] 2024 Approved Top iOS PSP Gamepads Emulation - 2023'S Best List</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pioneering-desktop-livestreams-with-tiktoks-features/"><u>[Updated] Pioneering Desktop Livestreams with TikTok's Features</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/8-ways-to-open-the-windows-internet-information-services-iis-manager/"><u>8 Ways to Open the Windows Internet Information Services (IIS) Manager</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-google-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Google Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-8-fb-movie-extraction-tools/"><u>In 2024, Top 8 FB Movie Extraction Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/therapeutic-strategies-targeting-these-molecular-mechanisms-of-cell-death-have-potential-applications-in-treating-diseases-like-cancer-and-neurodegenerative43/"><u>Therapeutic Strategies Targeting These Molecular Mechanisms of Cell Death Have Potential Applications in Treating Diseases Like Cancer and Neurodegenerative Disorders.</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Updated Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-full-screen-in-obs-no-more-worry/"><u>[Updated] In 2024, Full Screen in Obs, No More Worry</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom/"><u>2024 Approved Shatter the Status Quo with These Instagram #9 Methods for Stardom</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-spark-10-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Spark 10 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/healing-holograms-arvr-in-healthcare-for-2024/"><u>Healing Holograms AR/VR in Healthcare for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/macbook-showdown-identifying-key-distinctions-between-air-and-pro-models/"><u>MacBook Showdown: Identifying Key Distinctions Between Air and Pro Models</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-pova-6-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Pova 6 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-causes-of-error-53-step-by-step-remedies-for-safe-repair/"><u>Understanding the Causes of Error 53: Step-by-Step Remedies for Safe Repair</u></a></li>
 </ul></div>
 

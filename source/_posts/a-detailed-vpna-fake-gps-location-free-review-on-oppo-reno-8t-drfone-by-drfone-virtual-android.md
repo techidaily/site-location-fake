@@ -1,7 +1,7 @@
 ---
 title: A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 8T | Dr.fone
-date: 2024-09-20T08:56:02.292Z
-updated: 2024-09-26T11:51:15.597Z
+date: 2024-09-26T16:43:31.064Z
+updated: 2024-10-01T16:14:37.985Z
 tags: 
   - virtual location chang
   - location changer
@@ -66,16 +66,16 @@ To set up a mock location app, you need to first enable the Developer Options on
 
 ![enable developer options om your phone](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once it is done, go to its Settings > Developer Options and turn on the option to set a mock location on your phone.
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
@@ -94,10 +94,10 @@ Later, you can move the pin around and drop it anywhere you like. Tap on the Sta
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
@@ -105,13 +105,6 @@ Later, you can move the pin around and drop it anywhere you like. Tap on the Sta
 While Android users can take the assistance of VPNa Fake GPS, iOS users often find it hard to change their device location. Well, in this case, you can consider [Dr.Fone - Virtual Location(iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is a user-friendly application that can spoof your iPhone location to any other place by entering its address or exact coordinates. Besides that, you can also simulate the movement of your device between different spots.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Connect your iPhone and launch the tool
 
@@ -133,6 +126,19 @@ After entering the target location, the interface would also change. You can mov
 
 This brings us to the end of this detailed VPNa Fake GPS Location Free review. To help you use the VPNa Fake GPS APK, I have listed its features, pros, cons, and even a detailed tutorial. On the other hand, if you are an iPhone user, then you can simply use [Dr.Fone - Virtual Location(iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) and change your device's location to anywhere you want.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thinking About Changing Your Netflix Region Without a VPN On Oppo Reno 8T?
 
 Netflix is easily one of the most popular streaming apps available today. It offers a huge library of movies, TV shows, documentaries, and more. However, the content you want to watch on Netflix depends on the country where you live.
@@ -141,28 +147,34 @@ The traditional method of circumventing region-locked content on Netflix is simp
 
 ![change region without vpn netflix](https://images.wondershare.com/drfone/article/2023/01/change-region-without-vpn-netflix.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Netflix and Geo-Restrictions
 
 Netflix offers subscribers a wide range of content, but their library varies per region due to licensing and copyright agreements. The service price sometimes costs less in other countries, which is why using VPNs to save money on subscriptions are highly popular.
 
 Using VPNs and other methods to change your region is not illegal, but it violates Netflix's Terms of Use. If you're caught using VPNs or other means to bypass their geo-restrictions, Netflix can suspend or terminate your account. This is why you should always take caution when navigating the streaming giant's Terms of Use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Will Netflix Ban My Account If I Use a VPN?
 
 If you're wondering if Netflix bans accounts that use VPN, the answer is “No, they don't”. On the other hand, Netflix will block access to content if it detects that you're connected to VPN. If this happens, simply turn off your VPN or try connecting to different servers on your VPN and retry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Can You Change Your Netflix Region Without a VPN?
@@ -225,6 +237,13 @@ To change Proxy on mobile phones, change your phone's proxy settings. Your Netfl
 
 - Proxy Servers don't encrypt data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Using a Tor Browser
 
 For the unfamiliar, Tor is an open-source network that encrypts your connection while stopping trackers from following your activity. Here are the steps to start using Tor Browser to watch Netflix without a VPN.
@@ -267,6 +286,13 @@ While it's not illegal to change your Netflix region, it does violate the stream
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Fake GPS On Oppo Reno 8T For Mobile Legends?
 
@@ -335,10 +361,10 @@ The location has changed now; you can check it by clicking "Center On." The same
 ![check your fake location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
@@ -353,13 +379,6 @@ The location has changed now; you can check it by clicking "Center On." The same
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Change Location in Mobile Legends on Android Devices
 
 There could be many reasons to hide your location; one of them could be that you don’t like being checked or you’re a person who prefers his privacy over anything. However, hiding your location is not a difficult task today for Android users because many advanced apps do the job for you without any hassle. Here’s how you can hide your location on Android devices while playing Mobile Legends.
@@ -371,19 +390,6 @@ Fake GPS Location App is developed by Lexa that is free to use. An exceptional *
 It is capable of marking a location, and later you can start the program on boot; through this program, you can specify different locations. If you want to **change location in ML** because you don’t feel like being there virtually, it can be done through the Fake GPS Location App.
 
 ![fake gps location app interface](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-6.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Hola VPN Service
 
@@ -415,21 +421,24 @@ This article has discussed the Mobile Legends game and how you can **fake GPS Mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-ios-psp-emulation-tools-top-5/"><u>[New] 2024 Approved Essential iOS PSP Emulation Tools, Top 5</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-last-to-first-deconstructing-your-video-watch-list/"><u>[Updated] 2024 Approved From Last to First Deconstructing Your Video Watch List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>[Updated] Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-rookie-recommendations-simple-profitable-youtube-purchases/"><u>[Updated] Rookie Recommendations Simple, Profitable YouTube Purchases</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y200e-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y200e 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-itel-p55-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dealing-with-mcuicntexe-non-existent-window-complaint/"><u>Dealing with McUICnt.exe Non-Existent Window Complaint</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-views-not-video-length-expert-guide-to-yt-desc-templates-for-2024/"><u>Elevate Views, Not Video Length Expert Guide to YT Desc Templates for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y27 5G Bootloader Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/jpegs-to-pdf-conversion-an-in-depth-tutorial-for-consolidating-images/"><u>JPEGs to PDF Conversion - An In-Depth Tutorial for Consolidating Images</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revealing-the-admirers-unlock-the-secrets-of-monitoring-shared-love-for-your-instagram-content/"><u>Revealing the Admirers: Unlock the Secrets of Monitoring Shared Love for Your Instagram Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ideal-emulation-tools-to-relive-sonys-playstation-experience-for-2024/"><u>[New] Ideal Emulation Tools to Relive Sony's PlayStation Experience for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-peak-choice-top-five-high-definition-cameras/"><u>[New] Peak Choice Top Five High Definition Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-nook-how-jake-paul-snagged-youtube-success/"><u>[Updated] Navigating the Nook How Jake Paul Snagged YouTube Success</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-20-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 20 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/free-and-easy-ways-to-change-your-m4b-recordings-to-mp3-online-top-5-picks/"><u>Free and Easy Ways to Change Your M4B Recordings to MP3 Online, Top 5 Picks!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-find-electric-vehicle-chargers-in-your-area-with-google-maps-a-comprehensive-guide/"><u>How to Find Electric Vehicle Chargers in Your Area with Google Maps: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y100i-power-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y100i Power 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-allure-of-nokia-71-captivating-screen-and-photographic-performance-meets-affordability/"><u>The Allure of Nokia 7.1: Captivating Screen & Photographic Performance Meets Affordability</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-wex-windows-exe-structure/"><u>Understanding WEX: Windows EXE Structure</u></a></li>
 </ul></div>
 
