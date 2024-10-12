@@ -1,7 +1,7 @@
 ---
 title: A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23 Ultra | Dr.fone
-date: 2024-10-05T17:25:53.396Z
-updated: 2024-10-06T17:07:42.200Z
+date: 2024-10-06T17:15:07.730Z
+updated: 2024-10-12T16:55:21.517Z
 tags: 
   - virtual location chang
   - location changer
@@ -76,25 +76,11 @@ Now, you can just go to the Play Store and download the VPNa Fake GPS Location a
 
 ![defaut mock location app](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 3: Spoof your Android's location**
 
 That's it! Whenever you wish to change the location of your device, simply launch VPNa Fake GPS APK. You can enter any location's address or coordinates in the search bar and wait for it to be loaded on the interface.
 
 ![spoof your android](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Later, you can move the pin around and drop it anywhere you like. Tap on the Start button and confirm your choice to spoof your device's location.
 
@@ -106,19 +92,6 @@ While Android users can take the assistance of VPNa Fake GPS, iOS users often fi
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Connect your iPhone and launch the tool
 
 At first, you can just connect your iPhone to your computer and launch the Dr.Fone toolkit. Select the "Virtual Location" feature from its home and click on the "Get Started" button.
@@ -126,10 +99,10 @@ At first, you can just connect your iPhone to your computer and launch the Dr.Fo
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Look for a location to spoof
@@ -137,6 +110,19 @@ At first, you can just connect your iPhone to your computer and launch the Dr.Fo
 The application will automatically detect your device's location and would display it. To change it, click on the Teleport Mode icon from the top, and enter the address/coordinates of the place in the search bar.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Change your iPhone's location
 
@@ -159,6 +145,13 @@ Life360 is a family safety service that offers a variety of services. Its primar
 For parents who want to monitor their children from a distance, Life360 is a valuable tool. It is a mapping system that allows your family members to know exactly where you or anybody else in the Family Circle, where Life 360 circle is located at any specified instant, regardless of whether they are in your house or elsewhere.
 
 Since the technology was introduced in 2014, we can safely say that it is no longer considered revolutionary. But, aside from that, some people want to know more than simply where they are, such as how fast they're going when driving.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How Life360 Circle Works?
 
@@ -220,6 +213,13 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** When you input a new location, the application monitors and assesses it. A new box will immediately emerge at the location where the distance is specified. Choosing "Move Here" will cause your current location to be updated to reflect the new place you've picked.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -235,13 +235,6 @@ Getting rid of a Circle is a cinch! To begin, you need to:
 ## Conclusion
 
 Life360 has become one of the most popular applications on the App Store. It's designed to help people stay connected with friends and family. However, if you're interested in learning how to fake your location on Life360, we recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a more safe and effective way to get around the restrictions that Life360 puts in place.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S23 Ultra
 
@@ -283,14 +276,14 @@ Basically, the tutorial is categorized into 3 different streaks depending upon t
 
 ![Android security patch level](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-1.jpg)
 
-**Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
 
 ### 2.1 For Android 6.0 and Above (New Security Patch) - AFTER March 5, 2017
 
@@ -306,6 +299,19 @@ But if that’s not the case, you’re required to disable the Play Store's auto
 
 ![Do not auto-update apps](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, get hold of Google Play Services (an older version) from the link here: _<https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-12-6-85-release/>_
 
 **Note:** Ensure to download the Google Play Services apk file that is closest to your Android version. But, remember not to install it now.
@@ -317,6 +323,13 @@ Once done, if “Find My Device” is enabled over your device, you need to get 
 Likewise, disable “Google Play” and uninstall all its updates as well. To remove updates, get into “Settings” followed by “Apps/Applications”. Scroll down to “Google Play Services” and hit on “Uninstall updates”.
 
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If you’re unable to get this done, then you may need to disable the Android device manager in the first place. For this, get to “Settings” > “Security” > “Device Administrators” > disable “Android Device Manager first”.
 
@@ -350,13 +363,6 @@ Get the “GPS JoyStick apk” installed over your device and then proceed to �
 
 ![Developer Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, “GPS JoyStick app” to fake GPS location and get started with the FGL pro joystick control.
 
 You will then have the FGL pro joystick control is visible on your Android screen. Thereafter, head back to the “Developer Options” and get the “Mock Locations” disabled.
@@ -380,6 +386,13 @@ Thereafter, make use of the specifically generated GPS joystick on Pokemon Go to
 Lastly, utilize the “Update” button after hitting on the “Privacy Mode” link under the “Quick Options”. Then, navigate to the previously generated app from the appearing pop up. This will generate the update for it, and you’re all done.
 
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
 
@@ -408,13 +421,6 @@ After a successful download, install the app through the guiding wizard. Click t
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
 
 ![choose Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Modify the location address**
 
@@ -452,22 +458,20 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-advanced-system-stitching-gopro-images-into-a-circular-videography-canvas/"><u>[New] 2024 Approved Advanced System Stitching GoPro Images Into a Circular Videography Canvas</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-dji-innovation-in-aviation-mavic-pro-deep-dive/"><u>[New] DJI Innovation in Aviation Mavic Pro Deep Dive</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-poco-c50-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>2024 Approved Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-p40-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-s17t-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo S17t? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exclusive-review-of-google-nest-hello-security-features-and-smart-home-integration-unveiled/"><u>Exclusive Review of Google Nest Hello: Security Features & Smart Home Integration Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-hot-40-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Hot 40 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essence-of-youtubes-content-craft-room/"><u>In 2024, The Essence of YouTube's Content Craft Room</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/keep-it-secret-keep-it-safe-the-dangers-of-inputting-sensitive-info-into-chatgpt/"><u>Keep It Secret, Keep It Safe: The Dangers of Inputting Sensitive Info Into ChatGPT</u></a></li>
-<li><a href="https://article-posts.techidaily.com/master-iphone-image-conversion-from-jpgpng-to-pdf/"><u>Master iPhone Image Conversion From JPG/PNG to PDF</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-construct-chuckles-adobe-meme-creation/"><u>[New] Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-how-to-uninstall-amd-driver-to-fix-problem-in-windows/"><u>[Solved] How to Uninstall AMD Driver to Fix Problem in Windows</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1-best-practices-mastering-livestreams-with-manycam-professional-virtual-camera-solutions/"><u>1. Best Practices: Mastering Livestreams with ManyCam - Professional Virtual Camera Solutions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-c50-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-sony-xperia-1-v-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Sony Xperia 1 V? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-premium-gay-porn-footage-with-ease-on-needgayporn-platform/"><u>Download Premium Gay Porn Footage with Ease on NeedGayPorn Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-updating-the-epson-wf-3620-printer-drivers-on-your-windows-device-supports-win11-win8-and-win7/"><u>Easy Guide to Downloading and Updating the Epson WF-3620 Printer Drivers on Your Windows Device (Supports Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-free-audio-how-to-restore-sound-on-a-bluetooth-device-that-is-connected-but-silent/"><u>Trouble-Free Audio: How to Restore Sound on a Bluetooth Device That Is Connected But Silent</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-italys-sudden-restriction-on-chatgpt-use-with-immediate-effect/"><u>Unraveling Italy's Sudden Restriction on ChatGPT Use 'With Immediate Effect'</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-masterclass-beginners-kit-free-courses-collection-for-2024/"><u>YouTube Masterclass Beginners Kit Free Courses Collection for 2024</u></a></li>
 </ul></div>
 

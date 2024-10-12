@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Damaged Video Games: A Step-by-Step Guide"
-date: 2024-09-29T18:51:05.652Z
-updated: 2024-10-06T19:08:26.560Z
+date: 2024-10-10T16:20:07.384Z
+updated: 2024-10-12T16:00:48.885Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped you from logging into the game, and that a new patch is required to fix it.
@@ -54,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
 See if you can log in or not. if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Test your Internet connection speed
 
  If you still suffer from this issue after you reboot your network, you need to test your Internet connection speed first. Here is how to do it:
@@ -90,24 +97,18 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -121,18 +122,18 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To renew your IP
 
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
@@ -140,13 +141,6 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -168,6 +162,13 @@ See if you can log in or not. if not, try the next fix, below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
@@ -198,13 +199,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
 ### Fix 9: Change the DNS server
@@ -218,10 +212,10 @@ See if you can log in or not. if not, try the next fix, below.
 3. In the pop-up window, click**Change adapter settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
@@ -233,17 +227,30 @@ See if you can log in or not. if not, try the next fix, below.
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
-See if you can log in or not. If not, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+See if you can log in or not. If not, try the next fix.
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -278,22 +285,20 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-10-leading-free-online-recording-tools-expert-opinions/"><u>[New] In 2024, 10 Leading Free Online Recording Tools - Expert Opinions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[New] In 2024, Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-mergecombinejoin-youtube-flv-videos/"><u>[Updated] 2024 Approved How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-visual-comedy-make-and-share-via-kapwing/"><u>[Updated] In 2024, Visual Comedy Make and Share via Kapwing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-pova-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Pova 5 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/china-prc/"><u>China (PRC)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 6s Plus</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-power-players-list-top-trending-gadgets-and-tools-every-profession-should-have/"><u>In 2024, Power Players List Top Trending Gadgets & Tools Every Profession Should Have</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/viral-velocity-on-instagram-leveraging-video-and-likes-for-2024/"><u>Viral Velocity on Instagram Leveraging Video & Likes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-dynamo-craft-your-content-empire/"><u>[New] In 2024, Channel Dynamo Craft Your Content Empire</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>[New] Start Promoting Smart A Beginner's Guide to Using Telegram</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y27-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y27 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-sony-xperia-5-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Sony Xperia 5 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-samsung-galaxy-a14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Samsung Galaxy A14 5G?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-episodic-unveiling-schedule-for-2024/"><u>Ideal Episodic Unveiling Schedule for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionize-your-photos-pro-level-pixlr-techniques-for-2024/"><u>Revolutionize Your Photos Pro-Level Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/total-movement-insights-2023-for-2024/"><u>Total Movement Insights 2023 for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unraveling-essential-factors-of-high-end-laptops/"><u>Unraveling Essential Factors of High-End Laptops</u></a></li>
 </ul></div>
 

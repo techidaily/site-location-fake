@@ -1,7 +1,7 @@
 ---
 title: Illuminating Strategies to Combat the Perpetual Darkness in Star Wars Battlefront II's Graphics Glitches
-date: 2024-09-30T20:46:31.584Z
-updated: 2024-10-06T19:33:38.538Z
+date: 2024-10-09T17:16:57.780Z
+updated: 2024-10-12T16:09:01.662Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 6. **[Disable automatic downloads from the server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -60,6 +67,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
@@ -67,13 +81,6 @@ Follow the instructions below to view your computer hardware information:
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
@@ -113,6 +120,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
@@ -120,13 +134,6 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -142,6 +149,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
@@ -149,6 +163,13 @@ OR
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -160,13 +181,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
@@ -174,13 +188,6 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -208,21 +215,7 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -232,20 +225,27 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
@@ -255,13 +255,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -269,6 +262,13 @@ Follow the instructions below to stop the automatic downloads:
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -343,20 +343,24 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-virtual-visage-creation-shaping-your-exaggerated-image/"><u>[New] 2024 Approved Virtual Visage Creation Shaping Your Exaggerated Image</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-boosting-your-businesss-productivity-with-top-fb-planners/"><u>[New] In 2024, Boosting Your Business's Productivity with Top FB Planners</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-light-the-flame-the-best-inspiring-movie-list/"><u>2024 Approved Light the Flame The Best Inspiring Movie List</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-s17-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-empower-your-taskbar-with-new-features/"><u>How to Empower Your Taskbar with New Features</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-real-time-webcam-and-screen-melding-tips/"><u>In 2024, Real-Time Webcam & Screen Melding Tips</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-14-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 14 Plus Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-elite-quartet-of-ai-hardware-innovations-taking-center-stage/"><u>The Elite Quartet of AI Hardware Innovations Taking Center Stage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-epic-adventures-ultimate-gameplay-showdowns-for-2024/"><u>Top 10 Epic Adventures Ultimate Gameplay Showdowns for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dreamy-dialogues-in-dusk-examining-childrens-video-stories/"><u>[Updated] Dreamy Dialogues in Dusk Examining Children's Video Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-production-value-choosing-top-tier-youtube-tools/"><u>[Updated] Maximizing Production Value Choosing Top-Tier YouTube Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-enhancing-visual-impact-through-typeface-integration/"><u>2024 Approved Enhancing Visual Impact Through Typeface Integration</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-14-pro-max-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 14 Pro Max? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-c55-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y200-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p55-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P55 5G</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-guide-to-downloading-instagram-on-amazon-kindle-fire-devices/"><u>Complete Guide to Downloading Instagram on Amazon Kindle Fire Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-roi-of-purchasing-advanced-ai-prompting-tools/"><u>Evaluating the ROI of Purchasing Advanced AI Prompting Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basics-to-high-quality-srgb-vs-rgb/"><u>In 2024, From Basics to High-Quality Srgb vs Rgb</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-failed-office-activation-setbacks/"><u>Navigating Through Failed Office Activation Setbacks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/what-are-the-steps-to-retrieve-files-that-were-erased-or-changed-in-onedrive/"><u>What Are the Steps to Retrieve Files That Were Erased or Changed in OneDrive?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100A | Dr.fone
-date: 2024-10-05T16:22:31.233Z
-updated: 2024-10-06T21:49:14.054Z
+date: 2024-10-06T16:39:05.388Z
+updated: 2024-10-12T16:47:35.071Z
 tags: 
   - virtual location chang
   - location changer
@@ -30,9 +30,23 @@ Before starting with **Firefox location spoof**, you must be aware of how the pl
 
 Basically, a browser API called HTML5 Geolocation API is used by websites and browsers to detect a user's location using longitude and latitude coordinates. It is strictly based on user permissions for detecting location. That means you will receive a permission prompt whenever a website or browser uses it to detect your location. If you refuse the permission, they can't use this API for location determination.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How Does HTML5 Geolocation Work?
 
 HTML5 Geolocation determines your location using the longitude and latitude coordinates with the help of GPS. If your device doesn't have GPS tracking, it uses Wi-Fi and cell tower signals to detect the Vivo Y100A device's location. The location detected by HTML5 Geolocation is highly accurate with accuracy up to street level. Due to its high precision in locating users, it can create privacy issues for users.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
 
@@ -188,6 +202,13 @@ You can also make use of this app to spoof your location while playing location 
 
 ![spoof your location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: About Fake GPS GO Location Spoofer
 
 The Fake GPS Go Location Spoofer is the best app to trick the location details on the online space. This app implements the strategy promptly to acquire flawless results. The basic idea behind the fake GPS concept is that a false coordinates with respect to the Vivo Y100A device on the space recorded to the cyber grounds hiding the original location details.
@@ -208,6 +229,13 @@ Features of Fake GPS Go Location Spoofer
 - Great customer service
 
 ![Fake GPS Go app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Fake GPS GO Location Spoofer: the For and Against voices
 
@@ -249,6 +277,13 @@ Step 2: Soon after the successful download tap ‘Open’ button.
 
 ![click open button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Allow the app to access the Vivo Y100A device’s location
 
 ![access device’s location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-6.jpg)
@@ -270,13 +305,6 @@ Step 6: inside the ‘Select mock location app’, you have to click the ‘Fake
 Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite spot on the map. Then press the ‘Play’ button. Select ‘Without Ads’ option to implement the changes accordingly.
 
 ![play button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![select the no-ads option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-12.jpg)
 
@@ -303,6 +331,13 @@ Step 2: Open the app after the download process
 Step 3: Allow the app to access the Vivo Y100A device location and accept the ‘Cookies’ to work on this platform
 
 ![accept the Cookies](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Now, you must enable the ‘Mock Location’ option through the settings. To do so click the ‘Settings’ then ‘Additional Settings’ finally hit the ‘Developer option’. Tap ‘Select Mock Location’ and choose ‘Fake GPS Pro’ from the displayed list. Now switch on to the app to proceed further.
 
@@ -350,13 +385,6 @@ Step 3: You will notice your current location on the map. If not, hit the “Cen
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Choose the third icon on the upper right part of the screen from the three given icons. This is “teleport mode”. Enter the name of the location where you need to teleport and click “Go”.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -368,13 +396,6 @@ Step 5: Then entered place will be recognized by the program and you need to cli
 Step 6: The location will be changed successfully. You can now see on the map or in the location based app in iPhone, the spot will be seen as the same you selected.
 
 ![see changed location on the map](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: Movement Simulation Between two Places
 
@@ -392,13 +413,6 @@ Step 4: Now, the position will be seen moving as per the chosen speed on the map
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 3: Simulate Route Movement for Multiple Locations
 
 Step 1: For multiple spots, you need to click the “multi-stop route” after entering map interface. This mode is the second icon on the upper right side. Now, select the multiple places one by one where you want to pass.
@@ -412,10 +426,10 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 ![digit for how many times to move](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
@@ -429,19 +443,6 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Ways to Fake GPS Without Root On Vivo Y100A
 
@@ -531,6 +532,19 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![fake gps go](https://images.wondershare.com/drfone/article/2022/05/fake-gps-go-location-spoofer-free.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pros**
 
 - It can be used with a joystick to match the movement on the screen.
@@ -549,13 +563,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![gps emulator](https://images.wondershare.com/drfone/article/2022/05/gps-emulator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Pros**
 
 - Provides access to three map types for allowing you to teleport location conveniently.
@@ -567,13 +574,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 - No updates for so long.
 - May heat up the phone if used for long.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -593,19 +593,15 @@ If you plan to root your device to **fake GPS without mock location no root**, d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-adventurers-playground-top-10-games-revealed/"><u>[New] 2024 Approved Elite Adventurers' Playground – Top 10 Games Revealed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-maximizing-impact-5-secrets-for-increasing-your-video-writes/"><u>[New] In 2024, Maximizing Impact 5 Secrets for Increasing Your Video' Writes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/trategies-for-effective-video-markup-on-youtube/"><u>[New] Strategies for Effective Video Markup on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-effortless-extraction-of-twitter-jokes-3-ways/"><u>[Updated] Effortless Extraction of Twitter Jokes 3 Ways</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-understanding-the-functionality-of-m1-max-clips/"><u>[Updated] In 2024, Understanding the Functionality of M1 Max Clips</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-aural-alchemy-the-essence-of-crossfade-techniques/"><u>In 2024, Aural Alchemy The Essence of Crossfade Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rt-of-edible-media-recipe-tutorials-for-2024/"><u>The Art of Edible Media Recipe Tutorials for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-five-key-approaches-to-youtube-livestream-capture/"><u>[New] In 2024, Five Key Approaches to Youtube Livestream Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-pc-edition-of-image-overlay-mastery/"><u>[Updated] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nokia-c12-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nokia C12? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-c50-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-c51-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-perfect-listening-experience-effective-methods-for-easing-background-hum-in-recorded-sounds/"><u>New Perfect Listening Experience Effective Methods for Easing Background Hum in Recorded Sounds</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-youtube-for-seamless-video-format-conversions-the-ultimate-step-by-step-tutorial/"><u>Unlocking the Potential of YouTube for Seamless Video Format Conversions: The Ultimate Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/upcoming-cost-of-windows-11-microsoft-announces-paid-update-plans-beginning-next-year-learn-the-estimated-prices/"><u>Upcoming Cost of Windows 11: Microsoft Announces Paid Update Plans Beginning Next Year – Learn the Estimated Prices</u></a></li>
 </ul></div>
 

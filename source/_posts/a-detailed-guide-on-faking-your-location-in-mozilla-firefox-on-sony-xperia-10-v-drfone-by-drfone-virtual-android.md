@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Sony Xperia 10 V | Dr.fone
-date: 2024-09-28T16:26:03.245Z
-updated: 2024-10-01T16:21:12.619Z
+date: 2024-10-07T17:18:16.393Z
+updated: 2024-10-12T17:13:19.969Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,13 +37,6 @@ HTML5 Geolocation determines your location using the longitude and latitude coor
 ## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
 
 Many ways are available for you to fake or disable your desktop location in Mozilla Firefox to address your privacy concerns. You can either disable or change the location in the browser or use a third-party app or extension. Below, we have explained the three most common ways to fake or disable your location in Firefox.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation in Firefox
 
@@ -81,6 +74,19 @@ Once done, your geolocation will be changed to your desired location.
 
 ![add your fake firefox location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Use The Location Guard Firefox Extension
 
 Another way you can protect your location from websites is to use the "[Location Guard](https://addons.mozilla.org/en-US/firefox/addon/location-guard/)" add-on in Mozilla Firefox. It is generally recognized as an extension, also available in the Add-Ons Store of Firefox. The steps to add "Location Guard" and use it to alter your location are following:
@@ -93,34 +99,20 @@ Another way you can protect your location from websites is to use the "[Location
 
 ![set the privacy levels](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
 
 ![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
 It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation Sharing on the Firefox Browser
 
@@ -135,13 +127,6 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 **Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
 
 ![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On iPhone**
 
@@ -200,16 +185,10 @@ Enter your desired fake location in the provided space and press "Go" once the m
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
@@ -264,6 +243,13 @@ You will be directed to the particular, and the map will display it for confirma
 
 ![confirm the location to spoof](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
@@ -285,6 +271,13 @@ Step 1Activate Jump Teleport Mode
 You will have to first access the **Jump Teleport Mode** option from the second icon from the left in the top-right section. This can be done after teleporting the location of the smartphone device.
 
 ![turn on jump teleport mode](https://images.wondershare.com/drfone/guide/jump-teleport-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2Set Spots to Jump Teleport
 
@@ -326,24 +319,18 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step-by-step Guide to Fake Google Maps Location with Dr. Fone Virtual Location:**
 
 **Step 1:** First, you need to download, install and launch the Dr. Fone Virtual Location software on your computer. From the software's home page, you need to select the "Virtual Location" option from a bunch of other options.
 
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** Next, you need to connect your Sony Xperia 10 V to the computer by using a cable.
 
@@ -353,19 +340,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![choose your desired place to move](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** After becoming sure of your new location, click on the “Move Here” button to change your location from the real one to the virtual one you selected.
 
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -373,6 +347,13 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 ### Method 2: Change location in Google Maps with a VPN
 
 An array of VPN apps come with built-in location spoofing features on top of the usual IP address masking. For example,
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Nord VPN
 
@@ -462,6 +443,13 @@ Also, follow the steps below if you are using an Android phone:
 - Tap the Share icon. If you don't see this icon, tap More and then Share.
 - Choose the app where you want to share the link to the map.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: FAQ: All You Wanna Know about Location Changing on Your Sony Xperia 10 V
 
 ### 1\. How can I add my favorite route as favorite?
@@ -498,16 +486,24 @@ We've discussed the fake Google maps location through different methods in this 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-authority-in-education-10-tips-for-youtube-channel-creation/"><u>[Updated] 2024 Approved Building Authority in Education 10 Tips for YouTube Channel Creation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-riding-the-wave-of-solitary-podcast-popularity/"><u>[Updated] 2024 Approved Riding the Wave of Solitary Podcast Popularity</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-x50-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-expert-tips-for-masterminding-memelore-on-9gag/"><u>2024 Approved Expert Tips for Masterminding Memelore on 9GAG</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
-<li><a href="https://fox-links.techidaily.com/sonic-artistry-and-video-prowess-in-sonys-xperia-xz-for-2024/"><u>Sonic Artistry and Video Prowess in Sony's Xperia XZ for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tripod-triumphs-unbeatable-stability-for-phones/"><u>Tripod Triumphs Unbeatable Stability for Phones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-seamless-integration-of-links-into-tiktok-profiles/"><u>[New] In 2024, Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-select-6-best-iphone-slide-show-creation-apps-for-2024/"><u>[New] Select 6 Best iPhone Slide Show Creation Apps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[Updated] Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-investigation-unraveling-the-secrets-of-bublcam-360/"><u>2024 Approved In-Depth Investigation Unraveling the Secrets of Bublcam 360</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>2024 Approved Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-realme-c51-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-12-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 12 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-13c-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi 13C 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-poco-c50-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/bidfarewelltomycam-the-quest-for-improved-options/"><u>BidFarewellToMyCam The Quest for Improved Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-geforce-experience-encountered-an-error-issue-complete-guide/"><u>How to Fix the GeForce Experience 'Encountered an Error' Issue - Complete Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/microsoft-hololens-review-a-glimpse-of-holographic-future/"><u>Microsoft HoloLens Review- a Glimpse of Holographic Future</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/snapping-multiple-images-on-iphone-in-a-blink/"><u>Snapping Multiple Images on iPhone in a Blink</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-samsung-galaxy-m14-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Samsung Galaxy M14 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

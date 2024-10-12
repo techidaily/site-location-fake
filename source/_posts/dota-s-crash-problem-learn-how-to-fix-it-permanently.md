@@ -1,7 +1,7 @@
 ---
 title: Dota S Crash Problem? Learn How to Fix It Permanently
-date: 2024-09-30T18:36:44.332Z
-updated: 2024-10-06T19:11:35.589Z
+date: 2024-10-09T17:32:52.341Z
+updated: 2024-10-12T16:13:51.927Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ But the good news is that you can fix it. Here’re 9 fixes to try.
 If Dota 2 still crashes randomly, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update the graphics driver
@@ -141,23 +141,9 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
@@ -182,10 +168,10 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-877.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
@@ -209,10 +195,10 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-320.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click**Dota 2** and select**Properties** .
@@ -226,13 +212,6 @@ Follow the instructions below:
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Type**\-safe** and click**OK** .
 
@@ -256,17 +235,51 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-autoconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-318.png)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your game is still unplayable, you need to**reopen the Launch Options box and clear the launch option.** Then, try the fix, below.
 
@@ -302,13 +315,6 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Dota 2**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
@@ -328,16 +334,10 @@ If Dota 2 still crashes, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_16-51-54-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Download and reinstall_Dota 2_ .
@@ -366,20 +366,21 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-q500-typhoon-yuneecs-high-resolution-bliss/"><u>[New] Q500 Typhoon - Yuneec's High-Resolution Bliss</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-top-6-best-4k-full-frame-camera/"><u>[Updated] 2024 Approved Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[Updated] In 2024, Avoiding Pitfalls Smart Strategies for Acquiring Youtubes</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-high-quality-music-files-flac-to-mp3-for-free-with-movavi-converter/"><u>Convert High-Quality Music Files - FLAC to MP3 for Free with Movavi Converter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/funimate-video-maker-login-to-sign-up-guide-for-2024/"><u>Funimate Video Maker Login to Sign up Guide for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-6-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 6 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-showdown-final-cut-pro-vs-final-cut-express/"><u>In 2024, The Ultimate Showdown Final Cut Pro vs Final Cut Express</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/s-most-popular-video-animation-apps-for-android-iphone-and-ipad-for-2024/"><u>S Most Popular Video Animation Apps for Android, iPhone, and iPad for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-your-non-responsive-macbook-pro-keyboard-a-step-by-step-guide/"><u>Troubleshooting Your Non-Responsive MacBook Pro Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-ratio-reference-for-youtube-videos-and-ads-for-2024/"><u>[New] The Ultimate Ratio Reference for YouTube Videos & Ads for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-content-visibility-discover-6-thumbnail-designers-best-tools/"><u>2024 Approved Elevate Your Content Visibility - Discover 6 Thumbnail Designers' Best Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y100-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y100 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-v-purse-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor V Purse to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-driver-issue-43-resolved/"><u>Display Driver Issue #43 Resolved</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722972883794-improve-visual-experience-on-windows-pcs-asus-driver-downloads-available-now/"><u>Improve Visual Experience on Windows PCs - ASUS Driver Downloads Available Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/most-popular-20-pubg-screen-captures-unrestricted-for-2024/"><u>Most Popular 20 PUBG Screen Captures, Unrestricted for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-mastering-the-art-of-video-reversal-on-snapchat/"><u>Step-by-Step Guide: Mastering the Art of Video Reversal on Snapchat</u></a></li>
 </ul></div>
 

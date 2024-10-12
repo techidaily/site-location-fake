@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Sony Xperia 1 V | Dr.fone
-date: 2024-09-25T16:40:09.566Z
-updated: 2024-10-01T16:49:46.959Z
+date: 2024-10-06T17:25:54.672Z
+updated: 2024-10-12T17:22:23.258Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,13 +37,6 @@ HTML5 Geolocation determines your location using the longitude and latitude coor
 ## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
 
 Many ways are available for you to fake or disable your desktop location in Mozilla Firefox to address your privacy concerns. You can either disable or change the location in the browser or use a third-party app or extension. Below, we have explained the three most common ways to fake or disable your location in Firefox.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation in Firefox
 
@@ -89,6 +82,19 @@ Another way you can protect your location from websites is to use the "[Location
 
 ![add the extension to firefox](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** You can choose between two options to protect your location's privacy. Using the "Privacy Levels" option, you can select a privacy level and location range to add noise when a website tries to locate you. It stops websites from detecting your accurate location, though they can still locate the general area.
 
 ![set the privacy levels](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-9.jpg)
@@ -97,9 +103,29 @@ Another way you can protect your location from websites is to use the "[Location
 
 ![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
 It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Disable Geolocation Sharing on the Firefox Browser
 
@@ -112,15 +138,22 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 ![access the firefox settings](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
 
 ![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **On iPhone**
 
@@ -192,18 +225,18 @@ Browsers like Mozilla Firefox tracks your location by using your IP address. You
 
 In today's digital world, you have to compromise your privacy to some extent. However, it doesn't mean that you should not try to use tools available to you to protect your privacy to the limit. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves your concerns regarding location sharing with ease. With this tool, you can **fake location in Firefox** and still enjoy all the features and services offered by location-based websites and apps.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Life360 Circle: Everything You Need to Know On Sony Xperia 1 V
 
 In order to keep in touch with the persons that matter most to you, you may use circles to create private groups. There are a lot of different situations in which the Circle is useful. Please make sure everything is where it should be. Since Check-Ins, Location Sharing, and Messaging are all exclusive to each Circle, no one who does not need to view a particular piece of information will. You've got the upper hand here. You have complete control over who is and isn't included in your Circle. Privacy is something we take very seriously.
 
 Paying for a Life360 package gives you access to all the Circles. To ensure that everyone in your Circle is able to take advantage of the perks that come with a Life360 Membership, each paid plan for Life360 includes all members in your Circle.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 Circle?
 
@@ -285,13 +318,6 @@ Getting rid of a Circle is a cinch! To begin, you need to:
 - After everyone else in the Circle has departed, the person who is now in the center should also exit the Circle.
 - It will be removed when nobody remains in the Circle since there is no use in having it otherwise.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Life360 has become one of the most popular applications on the App Store. It's designed to help people stay connected with friends and family. However, if you're interested in learning how to fake your location on Life360, we recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a more safe and effective way to get around the restrictions that Life360 puts in place.
@@ -338,19 +364,6 @@ Also, there are many other AR games, including Ingress Prime, Harry Potter: Wiza
 
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
@@ -358,19 +371,6 @@ Again to spoof dating apps, you will need to enable allow mock location apk feat
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Sony Xperia 1 Vs. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.1 How to allow mock locations on Android
 
@@ -380,16 +380,16 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![allow mock location android](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now, tap on the Build Number option seven times without a break to enable the developer option.
 
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
@@ -467,16 +467,16 @@ Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to ena
 
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Huawei
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -496,15 +496,22 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-snapcraft-universe-top-8-photo-connector/"><u>[New] SnapCraft Universe Top 8 Photo Connector</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-extracting-music-tracks-from-fb-for-2024/"><u>[Updated] Extracting Music Tracks From Fb for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-edge-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge 2023 Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723008419270-sea-of-thieves-wont-open-heres-how-you-can-overcome-the-hurdles/"><u>Sea of Thieves Won't Open? Here's How You Can Overcome the Hurdles!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-cheat-sheet-for-using-movie-maker-on-win11-for-2024/"><u>The Ultimate Cheat Sheet for Using Movie Maker on Win11 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-aiff-en-flac-gratuitement-sur-movavi-une-methode-facile-et-rapide/"><u>Transformez Vos Fichiers AIFF en FLAC Gratuitement Sur Movavi - Une Méthode Facile Et Rapide !</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-rank-the-best-7-android-friendly-adblockers-reviewed/"><u>[New] 2024 Approved Rank the Best 7 Android-Friendly AdBlockers Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-maximizing-youtube-shorts-income-strategies/"><u>[Updated] 2024 Approved Maximizing YouTube Shorts Income Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-altering-username-on-google-meet-via-pc-and-mobile/"><u>[Updated] Altering Username on Google Meet via PC & Mobile</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-changing-esd-into-an-iso-for-windows-pcs/"><u>A Beginner's Guide to Changing ESD Into an ISO for Windows PCs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>In 2024, Pro Level Webcams The Ultimate Choice for Your Podcasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-11-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solve-cd-dvd-and-blu-ray-player-not-working-issues/"><u>Troubleshooting Tips: Solve CD, DVD & Blu-Ray Player Not Working Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-accurate-customer-insights-by-using-cookiebot-solutions/"><u>Unlock Accurate Customer Insights by Using Cookiebot Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-the-potential-of-instagrams-live-video-features-for-2024/"><u>Unlocking the Potential of Instagram’s Live Video Features for 2024</u></a></li>
 </ul></div>
 

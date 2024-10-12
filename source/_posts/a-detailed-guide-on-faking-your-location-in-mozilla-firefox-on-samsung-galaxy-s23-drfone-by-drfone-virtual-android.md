@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S23 | Dr.fone
-date: 2024-09-29T17:06:32.268Z
-updated: 2024-10-01T16:14:24.082Z
+date: 2024-10-10T17:42:45.200Z
+updated: 2024-10-12T16:02:29.804Z
 tags: 
   - virtual location chang
   - location changer
@@ -29,13 +29,6 @@ Before starting with **Firefox location spoof**, you must be aware of how the pl
 ### 1\. Basic Understanding of the HTML5 Geolocation API
 
 Basically, a browser API called HTML5 Geolocation API is used by websites and browsers to detect a user's location using longitude and latitude coordinates. It is strictly based on user permissions for detecting location. That means you will receive a permission prompt whenever a website or browser uses it to detect your location. If you refuse the permission, they can't use this API for location determination.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. How Does HTML5 Geolocation Work?
 
@@ -69,19 +62,6 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 
 ![hit the accept the risk button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** First search for "Geo.enabled," and when it appears, toggle its value from "True" to "False" to disable geolocation. To spoof your location, search for "geo.provider.network.url" and press the "Pen" icon to edit it.
 
 ![tap on the edit button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-6.jpg)
@@ -93,13 +73,6 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 Once done, your geolocation will be changed to your desired location.
 
 ![add your fake firefox location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Use The Location Guard Firefox Extension
 
@@ -141,19 +114,6 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 
 ![choose the firefox app](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** In the "Location" menu, you can select "Never" to completely disable the location access for the Firefox browser. To only stop Firefox from detecting your accurate location, turn off the toggle of the "Precise Location" option.
 
 ![disable the firefox ios location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-14.jpg)
@@ -191,13 +151,6 @@ Using Dr.Fone- Virtual Location to spoof your location in Mozilla Firefox is sim
 Download and install Dr.Fone on your computer and connect your phone to it. Access Dr.Fone, select "Virtual Location," and click "Get Started" on the next screen to begin the process.
 
 ![choose the virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2: Activate the Teleport Mode on Dr.Fone**
 
@@ -241,6 +194,13 @@ As we mentioned above, while you put your phone on airplane mode, the cellular r
 
 The GPS works on a different technology where the signals are received from the satellite and are not dependent on the network or cellular services. So, when the airplane mode is enabled, the GPS location is not turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Can Your Location Be tailed on Airplane Mode?
 
 Yes, if you have not disabled the GPS feature, your location can be tailed on an Airplane mode as the flight mode only disables the cellular connection and Wi-Fi. So, it can be concluded that Airplane Mode is no solution for stopping the GPS tracking on your phone, though there are other workarounds available for this.
@@ -277,6 +237,13 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
 If you are looking for a method that can prevent GPS tracking without turning on Airplane Mode, spoofing your location is a workable solution. To get this task done, you would need a specialized app or a tool, and here we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as the best option.
@@ -311,28 +278,29 @@ You can check out this video for further instruction.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**. Next, in the upper-right corner, click on the teleport mode icon. Next, enter the desired location at the upper left-hand side that you wish to teleport to. Finally, click on the **Go** button after entering the site.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6**. A pop-up box will appear to click on the **Move Here** button to set the selected location for the connected device. The place will appear on the app interface and the phone.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ## Part 5: People Also ask about Airplane Mode
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q1: Can An iPhone Be Traced While off?
 
@@ -342,22 +310,16 @@ No, it cannot be traced when an iPhone or any other phone is switched off. For e
 
 No, the Find My iPhone feature does not work in Airplane mode because the location services need a network connection, and thus in Airplane mode, the Samsung Galaxy S23 device is offline, and it isn't easy to track the Samsung Galaxy S23 device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q3: Does airplane mode turn off life360
 
 Life360 is a helpful app for tracking your friends, family, and other people. This app tracks your GPS location and displays it to all the selected members in a circle. When the airplane mode on your device is enabled, the network will be disconnected, and thus Life360 will not be able to update your location to the members in the circle. Therefore, during **airplane mode, Life360** will not update your site.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Wrap it up
 
@@ -375,6 +337,13 @@ But is it a reliable location changer? Or are there better alternatives to Hola 
 
 ![hole vpn cover](https://images.wondershare.com/drfone/article/2023/02/hola-vpn-cover.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Fake GPS location - Hola Overview
 
 Hola Fake GPS is a feature offered by the popular Hola VPN service that allows you to mask your actual location to a location of your choice. Since it does not have high bandwidth like the reputed VPN services, Hola Fake GPS is unsuitable for streaming Netflix or YouTube from another location.
@@ -384,13 +353,6 @@ However, you can use it to play location-based games like Pokémon Go from anoth
 And while masking your real location is the biggest benefit of using Hola Fake GPS, there are potential risks associated with the tool too. For instance, Chrome found that Hola Fake GPS can be qualified as malware, given it collects users' data and has a history of security breaches.
 
 Here's what you have to know about the Hola Fake GPS tool before choosing to use it:
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. What is Fake GPS location - Hola used for?
 
@@ -460,6 +422,13 @@ Hola Fake GPS location has mixed reviews from users. Here's what users have to s
 
 "Hola Fake GPS has been a disappointing experience for me, and I'm pretty sure it will be for you. The attractive pricing and fast speed promise seem like it is the best location spoofer on the internet, but believe me, any other service on the internet is better than this. The company now constantly gets negative feedback from the giants like Google for its privacy violation. Overall, I would ask you not to download Hola Fake GPS app."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4. Is Fake GPS location - Hola Safe?
 
 No. There is no grey area here. For years, the Hola Fake GPS Android app has been marked as one of the worst apps to change your location. It explicitly collects users' data, monitors users' activity, and sells them to third-party vendors that track you online.
@@ -512,6 +481,13 @@ One of the best things about [Dr.Fone - Virtual Location](https://tools.techidai
 **Step 1:** Download and Install the Dr.Fone - Virtual Location. On the main interface, choose Virtual Location from the list of options.
 
 ![select virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Connect your phone to the computer using its respective cable. Then, click Get Started on your computer and trust the Samsung Galaxy S23 devices on your phone to proceed.
 
@@ -580,18 +556,18 @@ Overall, if you are looking for the ultimate tool to spoof your GPS location, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-laying-the-foundation-of-zoom-room-use/"><u>[New] 2024 Approved Laying the Foundation of Zoom Room Use</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-guide-to-premium-free-online-screen-recorders/"><u>[New] In 2024, Guide to Premium Free Online Screen Recorders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pioneering-emulation-tools-best-android-apps-for-mac-pc-users/"><u>[Updated] 2024 Approved Pioneering Emulation Tools Best Android Apps for Mac, PC Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-screenflow-mastery-on-macos-uncovered/"><u>[Updated] ScreenFlow Mastery on macOS Uncovered</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A24 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-11-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c51-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/declutter-digital-life-leaving-chatgpt-behind/"><u>Declutter Digital Life - Leaving ChatGPT Behind</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-1-v-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Sony Xperia 1 V Phone Without Password?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instasnap-optimize-images-and-videos-on-ig/"><u>In 2024, InstaSnap Optimize Images & Videos on IG</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>[New] Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>[New] Unveiling Facebook's Forgotten Archive Easy Guide for Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-snappy-moments-with-convenient-voice-customization-tips/"><u>[Updated] In 2024, Elevate Snappy Moments with Convenient Voice Customization Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scripting-signal-sequences/"><u>2024 Approved Scripting Signal Sequences</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-s23-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-m34-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy M34? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-6-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 6 Plus without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-european-union-written-by-your-name/"><u>Dissecting the European Union' Written By: [Your Name]</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-launch-by-configuring-services-in-windows-11/"><u>Elevate Your System Launch by Configuring Services in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-online-video-compression-made-easy-10-best-tools/"><u>Free Online Video Compression Made Easy 10 Best Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a34-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A34 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/transform-your-discord-experience-with-top-bot-choices-for-2024/"><u>Transform Your Discord Experience with Top Bot Choices for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Camon 20 Premier 5G | Dr.fone
-date: 2024-09-30T16:37:01.179Z
-updated: 2024-10-01T16:18:48.505Z
+date: 2024-10-11T16:51:30.560Z
+updated: 2024-10-12T16:55:39.247Z
 tags: 
   - virtual location chang
   - location changer
@@ -34,13 +34,6 @@ Basically, a browser API called HTML5 Geolocation API is used by websites and br
 
 HTML5 Geolocation determines your location using the longitude and latitude coordinates with the help of GPS. If your device doesn't have GPS tracking, it uses Wi-Fi and cell tower signals to detect the Tecno Camon 20 Premier 5G device's location. The location detected by HTML5 Geolocation is highly accurate with accuracy up to street level. Due to its high precision in locating users, it can create privacy issues for users.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
 
 Many ways are available for you to fake or disable your desktop location in Mozilla Firefox to address your privacy concerns. You can either disable or change the location in the browser or use a third-party app or extension. Below, we have explained the three most common ways to fake or disable your location in Firefox.
@@ -52,13 +45,6 @@ If you want to stop websites from accessing your location from Mozilla Firefox, 
 **Step 1:** Open Mozilla Firefox on your computer to disable its location. Click the "Three Vertical Bars" icon to select "Settings." Now, tap "Privacy & Security" from the left sidebar and navigate to "Permissions."
 
 ![access privacy and security](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** Click "Settings" in front of "Location" to manage the location settings. It will open a window with a list of all the websites that can access your location. Depending on your needs, you can choose between "Remove Web Site" or "Remove All Web Sites" to remove their location access.
 
@@ -76,6 +62,13 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 
 ![hit the accept the risk button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** First search for "Geo.enabled," and when it appears, toggle its value from "True" to "False" to disable geolocation. To spoof your location, search for "geo.provider.network.url" and press the "Pen" icon to edit it.
 
 ![tap on the edit button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-6.jpg)
@@ -88,6 +81,13 @@ Once done, your geolocation will be changed to your desired location.
 
 ![add your fake firefox location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Use The Location Guard Firefox Extension
 
 Another way you can protect your location from websites is to use the "[Location Guard](https://addons.mozilla.org/en-US/firefox/addon/location-guard/)" add-on in Mozilla Firefox. It is generally recognized as an extension, also available in the Add-Ons Store of Firefox. The steps to add "Location Guard" and use it to alter your location are following:
@@ -99,6 +99,13 @@ Another way you can protect your location from websites is to use the "[Location
 **Step 2:** You can choose between two options to protect your location's privacy. Using the "Privacy Levels" option, you can select a privacy level and location range to add noise when a website tries to locate you. It stops websites from detecting your accurate location, though they can still locate the general area.
 
 ![set the privacy levels](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
 
@@ -188,6 +195,13 @@ Browsers like Mozilla Firefox tracks your location by using your IP address. You
 
 ![select the expressvpn location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 In today's digital world, you have to compromise your privacy to some extent. However, it doesn't mean that you should not try to use tools available to you to protect your privacy to the limit. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves your concerns regarding location sharing with ease. With this tool, you can **fake location in Firefox** and still enjoy all the features and services offered by location-based websites and apps.
@@ -232,10 +246,10 @@ There is the possibility of limiting the details about your location to others i
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Tecno Camon 20 Premier 5G’s Airplane Mode**
@@ -245,6 +259,13 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
@@ -319,6 +340,13 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
@@ -331,34 +359,13 @@ Automatically, your location will change to the chosen place on the map and your
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. **Can Life360 track my location when I switch My Tecno Camon 20 Premier 5G off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -374,6 +381,19 @@ Life360 uses real-time GPS data to notify your group members about your location
 
 You might have learned from your friends or social media about various applications that allow you to track other devices, view text messages, and track everything someone does on their device. No one, including your circle members, can spy on what you do on your devices, like checking your internet history or reading texts. Although life360 has many tracking features similar to spy apps, it only provides basic location and text tracking under specific conditions. For people who don't use Life360 for privacy reasons, what can life360 monitor? Can Life360 see your internet history, or can Life360 see who you text? Here is a brief about everything the app can do and monitor on your phone.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: What can you do with Life360?
 
 Life360 is a mobile application that provides family security services that you can download and use for free on Android and IOS. Its basic features include location and driving safety tracking as the application runs in the background. In addition, the application notifies group members if someone in the group is not driving responsibly. Users can also pay for premium perks to access more safety and tracking features for the security of their loved ones.
@@ -383,13 +403,6 @@ There are many valuable features in the life360 app, such as device tracking and
 The paid features of life360 notify circle members when you text while driving. Even if the user turns this feature off, it will still show that you are doing something on your phone while driving.
 
 One of the best features of Life360 is the panic button which allows users to send out mass emergency texts to their circle members with their GPS coordinates if they are in danger.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Can Life360 see your texts?
 
@@ -437,13 +450,6 @@ And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -484,20 +490,15 @@ I hope reading this article helped relieve your concerns about the Life360 app. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-leveraging-screencastifys-advanced-features/"><u>[New] Leveraging Screencastify's Advanced Features</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-sony-xperia-1-v-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Sony Xperia 1 V? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-eliminating-connected-devices-from-the-google-home-ecosystem/"><u>Guide: Eliminating Connected Devices From the Google Home Ecosystem</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-6s-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 6s without Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-c67-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme C67 4G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-find-x6-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo Find X6 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-straightforward-strategies-for-podcast-streaming/"><u>In 2024, Straightforward Strategies for Podcast Streaming</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unbrand-your-videos-removing-filmora-watermark-with-free-and-paid-options/"><u>New In 2024, Unbrand Your Videos Removing Filmora Watermark with Free and Paid Options</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-civ-5-errors-in-desktop-setup/"><u>Remedying Civ 5 Errors in Desktop Setup</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-face-off-amazons-fire-tablet-vs-apples-ipad-which-wins/"><u>The Ultimate Face-Off: Amazon's Fire Tablet Vs. Apple's iPad – Which Wins?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-harmonizing-music-migration-from-one-service-to-another/"><u>[Updated] 2024 Approved Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fix-coffee-stain-distortions-on-iphones-in-a-flash-for-free/"><u>[Updated] Fix Coffee Stain Distortions on iPhones in a Flash, for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-strategies-for-effortless-audio-merging-in-adobe-premiere-for-2024/"><u>[Updated] Strategies for Effortless Audio Merging in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[Updated] Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-camon-20-premier-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Camon 20 Premier 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converter-de-arquivos-caf-para-mp4-com-o-software-de-edicao-de-video-da-movavi/"><u>Gratis Online Converter De Arquivos CAF Para MP4 Com O Software De Edição De Vídeo Da Movavi</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-oneplus-8t-phablet-reviewed-impressive-velocity-undermined-by-patchy-photography-capabilities/"><u>The OnePlus 8T Phablet Reviewed: Impressive Velocity Undermined by Patchy Photography Capabilities</u></a></li>
 </ul></div>
 

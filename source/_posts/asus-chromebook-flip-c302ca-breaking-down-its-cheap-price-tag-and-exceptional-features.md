@@ -1,7 +1,7 @@
 ---
 title: "Asus Chromebook Flip C302CA: Breaking Down Its Cheap Price Tag and Exceptional Features"
-date: 2024-10-02T17:17:39.294Z
-updated: 2024-10-06T18:52:33.623Z
+date: 2024-10-08T16:25:48.404Z
+updated: 2024-10-12T16:39:09.906Z
 categories:
   - BestProducts
 description: "This Article Describes Asus Chromebook Flip C302CA: Breaking Down Its Cheap Price Tag and Exceptional Features"
@@ -38,6 +38,13 @@ Lifewire / Jonno Hill
 [View On Amazon $999](https://www.amazon.com/dp/B082XQR86P?tag=lifewire-onsite-prod-20&ascsubtag=4775917%7Cna52a9cc7636d4bf692d62cac4423477a00%7CB082XQR86P)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## LG Gram 17
 
@@ -90,14 +97,14 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/NZFtzU5S2IX_YcC_7X7i2oB0j1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-2-d528eacd17e849099026bd1df6142200.jpg)
 
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jonno Hill
 
 ## **Setup** **Process** :**No help needed**
 
@@ -130,10 +137,10 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/4DSmBdI2ZVvCXO9PXT1iEnSCRxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-6-5381cd4656aa4307ba017acf8ce77c4b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -142,29 +149,22 @@ Lifewire / Jonno Hill
 
  Having 16GB of Memory and a 512GB SSD makes the Gram a great choice for productivity purposes. We had no problem working with many browser windows open at the same time and switching back and forth between different applications. Shoppers looking to find a laptop with ample screen real estate and the specs necessary to deliver good performance now and into the future will be pleased with what the LG Gram 17 offers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Audio** :**Sorry, what was that?**
 
  The[speakers](https://www.lifewire.com/all-about-speakers-4125129) on The LG Gram 17 are an afterthought at best, offering meek sounding audio originating from ill-placed speaker grills on the bottom. To make matters worse, these speakers are easily covered and muffled when it sits on your lap. Even when the stars aligned and we happened to leave the speakers unobstructed, we weren’t impressed by the sound offered. In short, get ready to use headphones or external speakers, and don’t plan on having any movie viewing parties with it either.
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera** :**Bare minimum**
 
@@ -181,10 +181,10 @@ Lifewire / Jonno Hill
  When running Battery Eater Pro to push the laptop to its limits, it kicked the bucket in just over 2 hours and 30 minutes. This may seem like a very short time, but it’s still considerably better than any of the[other 17-inch laptops](https://www.lifewire.com/best-17-inch-laptops-832683) we tested using this brutal benchmark.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: Standard Windows with some unique features**
@@ -199,16 +199,16 @@ Lifewire / Jonno Hill
 
  Finally, the LG Gram 17 comes with Reader Mode as a pre-installed app that runs in the background on startup and is accessible from the taskbar. Switching it on changes the color temperature of the display to filter out blue light (by default) and make night-time and low-light usage more pleasant. You can also take control of the adjustments that Reader Mode makes, controlling the brightness, contrast, and gamma adjustments for red, green, and blue independently. This seems excessive, but we can’t fault LG too much for giving users more control.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Lighter laptop, bigger price tag**
 
  At an MSRP of $1,700, the LG Gram 17 is not particularly affordable, and even less so when compared to similar options in the market. For this price, we would normally expect to get a discrete graphics card and the expanded possibilities that come with it. The premium you are paying for in this case isn’t sheer price-to-performance but portability and form factor. On these fronts, the LG Gram 17 definitely shines.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **LG Gram 17 vs. ASUS VivoBook Pro 17**
 
@@ -225,10 +225,10 @@ Lifewire / Jonno Hill
  As it stands, you won’t find a lighter, smaller 17-inch laptop than the LG Gram 17\. LG is aware of how valuable this is to buyers that care about these metrics, and has priced their laptop accordingly. If you are shopping for what the Gram has on offer, we can’t imagine you’ll be too disappointed. This is a smart, capable laptop that delights in daily use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -265,22 +265,22 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-prior-upgrades-key-points-revisited/"><u>[New] Prior Upgrades? Key Points Revisited</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-selling-through-influence-5-key-strategies-on-instagram/"><u>[New] The Art of Selling Through Influence 5 Key Strategies on Instagram</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-the-world-of-android-video-snapshots-for-2024/"><u>[Updated] Navigating the World of Android Video Snapshots for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nubia-red-magic-8s-proplus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nubia Red Magic 8S Pro+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/convertisseur-video-gratuit-changer-un-fichier-avi-en-ogv-en-ligne-grace-a-movavi/"><u>Convertisseur Vidéo Gratuit - Changer Un Fichier AVI en OGV en Ligne Grâce À Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capturing-moments-seamlessly-with-snap-and-meet/"><u>In 2024, Capturing Moments Seamlessly with Snap and Meet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-fix-for-windows-boot-manager-error-with-these-proven-methods/"><u>Master the Fix for Windows Boot Manager Error with These Proven Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-k70-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi K70 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-trendsetting-tags-top-10-to-make-your-post-pop/"><u>[Updated] 2024 Approved Trendsetting Tags Top 10 To Make Your Post Pop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-youtube-thumbnails-capture-your-top-views-for-2024/"><u>[Updated] Essential YouTube Thumbnails Capture Your Top Views for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-upgrade-voice-quality-in-sony-console-gaming/"><u>2024 Approved Upgrade Voice Quality in Sony Console Gaming</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-z50-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Z50 Ultra without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-redmi-note-12-4g-convert-mts-for-redmi-note-12-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Redmi Note 12 4G-convert MTS for Redmi Note 12 4G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/paintbox-pro-comprehensive-review-and-tutorial-2024/"><u>PaintBox Pro Comprehensive Review & Tutorial 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-body-cameras-a-comprehensive-guide/"><u>Top Pick Body Cameras - A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uncovering-the-basics-of-german-phonetics/"><u>Uncovering the Basics of German Phonetics</u></a></li>
 </ul></div>
 
