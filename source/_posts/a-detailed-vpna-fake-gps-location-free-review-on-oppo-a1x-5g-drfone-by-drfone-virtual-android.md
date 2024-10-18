@@ -1,7 +1,7 @@
 ---
 title: A Detailed VPNa Fake GPS Location Free Review On Oppo A1x 5G | Dr.fone
-date: 2024-10-10T16:00:54.932Z
-updated: 2024-10-12T16:45:54.777Z
+date: 2024-10-12T16:20:45.212Z
+updated: 2024-10-18T16:18:59.281Z
 tags: 
   - virtual location chang
   - location changer
@@ -66,16 +66,16 @@ To set up a mock location app, you need to first enable the Developer Options on
 
 ![enable developer options om your phone](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once it is done, go to its Settings > Developer Options and turn on the option to set a mock location on your phone.
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
@@ -90,10 +90,10 @@ That's it! Whenever you wish to change the location of your device, simply launc
 ![spoof your android](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Later, you can move the pin around and drop it anywhere you like. Tap on the Start button and confirm your choice to spoof your device's location.
@@ -112,18 +112,18 @@ At first, you can just connect your iPhone to your computer and launch the Dr.Fo
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Look for a location to spoof
 
 The application will automatically detect your device's location and would display it. To change it, click on the Teleport Mode icon from the top, and enter the address/coordinates of the place in the search bar.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Change your iPhone's location
 
@@ -138,6 +138,13 @@ This brings us to the end of this detailed VPNa Fake GPS Location Free review. T
 Fake GPS is an Android application for tweaking your GPS settings. It will help you avoid being tracked by your parents or a stranger spying on you in many situations. Faking GPS will also aid you in using an application that is banned in your region or playing a trick in the games like Pokemon Go.
 
 In other words, it is called GPS spoofing. Some users believe in a misconception that the Oppo A1x 5G device will have to be rooted for GPS spoofing. But that’s wrong. It’s possible to alter the location without rooting your phone. If you have no idea how to **fake GPS no root** and want to know more, keep reading this article. We created this guide to curb your worries and help you fix your issue! Let’s begin now!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: The one-stop way to fake GPS on your iOS and Android without root
 
@@ -195,19 +202,6 @@ Even when you click the “Center On” icon for location yourself, the location
 
 ## Part 2: Other APPs to fake GPS without jailbreak no root
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fake GPS Location – Hola**
 
 Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fake-gps-location-hola/org.hola.gpslocation) on Android devices. It’s available to use in more than 43 languages free of cost. With this **fake GPS Android no root** **application**, you can choose from an extensive list of places worldwide to set your location. For android users who can’t afford a PC or laptop to perform GPS spoofing with Dr.Fone, they can choose Hola for convenience.
@@ -264,19 +258,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
@@ -289,18 +270,18 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 
 ![google chrome featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
 
 Similarly, GPS location can easily be tracked if your phone device has it enabled. All the Wi-Fi and Bluetooth connections around you also have location information embedded in them. They can help Chrome track you as long as your device can detect them. If you use cell data, Google Chrome can also track you through cell towers.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Hide Location Services in Chrome?
 
@@ -315,6 +296,13 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: For iPhone or iPad
 
@@ -338,19 +326,6 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 One way to protect your privacy and stop websites from tracking your location is to turn off the location, but it has many disadvantages. If you have turned off your location, you can't use any location base service like food delivery, e-shopping, ride-sharing, etc. That's why it is better to use a fake location on your browser. Below we have explained four methods for **Chrome fake location**.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1. Best Tool to Fake Chrome Location On iOS and Android Phones
 
 The easiest and quickest way to fake your location on Google Chrome is to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Since smartphones contain a wide range of apps that require location access, it provides a stable way to fake Chrome locations on Android and iOS phones. No website or app will be able to detect that you are using a fake location when using Dr.Fone - Virtual Location for faking GPS location.
@@ -372,6 +347,13 @@ Faking your Chrome location with Dr.Fone - Virtual Location is very straightforw
 Connect your Android or iOS phone to your computer using a USB cable. Launch the Dr.Fone robust toolkit on your computer and select "Virtual Location."
 
 ![select the virtual location tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Activate the Teleport Mode**
 
@@ -422,6 +404,13 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 
 ![confirm the fixed location position](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Limitations**
 
 - Location Guard doesn't protect your IP address. It means some websites can still detect your real location using the IP address.
@@ -458,13 +447,6 @@ The HTML5 Geolocation API is a browser API used to determine a user's geographic
 
 Hiding or spoofing your location protects your privacy and stop application and websites from tracking you. It also allows you to access geo-restricted apps and play location-based games. You can also fake your location to get the latest updates of your favorite apps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 The fact that Google Chrome in your devices can track your location with an accuracy of up to 20 meters is very unsettling for users. Even when you try to be careful in granting location permissions to apps and websites, many can still bypass this by adding location access requirements in terms and conditions.
@@ -485,22 +467,19 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-premier-9-social-media-screen-grabs/"><u>[New] 2024 Approved Premier 9 Social-Media Screen Grabs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>[New] Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero-vs-hero-upgraded-edition/"><u>[Updated] Hero Vs Hero Upgraded Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-embark-on-the-facebook-experience/"><u>[Updated] In 2024, How to Embark on the Facebook Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[Updated] Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-expression-top-talkers-on-google-podcasts/"><u>2024 Approved Excellence in Expression Top Talkers on Google Podcasts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-method-for-extracting-video-portions-from-youtube/"><u>2024 Approved Step-by-Step Method for Extracting Video Portions From YouTube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/adding-drama-to-videos-strikethrough-for-emphasis-and-clarity/"><u>Adding Drama to Videos Strikethrough for Emphasis and Clarity</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-identify-stomach-gas-acoustics-recording/"><u>New Identify Stomach Gas Acoustics Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-backup-your-memories-camera-roll-to-snapchat-explained/"><u>[New] Backup Your Memories Camera Roll to Snapchat Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-virtual-bike-trails-unveiled/"><u>[New] Innovative Virtual Bike Trails Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-iphone-photos-discover-prime-angles-for-perfect-shots-for-2024/"><u>[New] Mastering iPhone Photos Discover Prime Angles for Perfect Shots for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-how-to-disable-subtitles-on-amazon-prime-videos/"><u>A Step-by-Step Guide: How To Disable Subtitles On Amazon Prime Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100t-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y100t</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/secrets-to-joining-friends-tiktok-live-events/"><u>Secrets to Joining Friends' TikTok Live Events</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selective-slow-speed-video-capture-apps-androidiphone-for-2024/"><u>Selective Slow-Speed Video Capture Apps Android/iPhone for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracing-the-development-timeline-of-iphone-operating-systems-ios-an-overview-from-10-to-nineteenth-edition/"><u>Tracing the Development Timeline of iPhone Operating Systems (iOS) - An Overview From 1.0 to Nineteenth Edition</u></a></li>
 </ul></div>
 
