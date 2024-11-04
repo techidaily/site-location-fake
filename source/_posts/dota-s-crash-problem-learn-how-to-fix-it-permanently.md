@@ -1,7 +1,7 @@
 ---
 title: Dota S Crash Problem? Learn How to Fix It Permanently
-date: 2024-10-27T18:52:43.975Z
-updated: 2024-10-29T23:25:39.338Z
+date: 2024-11-01T19:03:38.730Z
+updated: 2024-11-04T17:12:49.860Z
 tags:
   - win11
   - win10
@@ -33,25 +33,11 @@ But the good news is that you can fix it. Here’re 9 fixes to try.
 8. **[Run Dota 2 in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall_Dota 2_](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  Sometimes, Dota 2 might crash or stop responding because of a temporary issue that can be fixed with a simple reboot. A restart clears off the current state of your operating system/software and helps you get rid of troublesome codes.
 
 If Dota 2 still crashes randomly, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update the graphics driver
 
@@ -69,6 +55,13 @@ If Dota 2 still crashes randomly, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -85,10 +78,16 @@ If Dota 2 still crashes randomly, try the fix below.
  If the_Dota 2_ crashing issue persists, then move on and try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable your antivirus temporarily
@@ -99,6 +98,13 @@ If Dota 2 still crashes randomly, try the fix below.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run the game as an administrator
 
 _Dota 2_ may not be able to access certain game files on your computer under normal user mode, which could lead to the game crash. To fix it, try running the game as an administrator:
@@ -107,6 +113,13 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -114,13 +127,6 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch_Dota 2_ .
 
@@ -188,6 +194,13 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-877.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)** Restart your computer and your game.
 
  If you still run into the_Dota 2_ crashing issue, don’t fret. Check the fix below.
@@ -208,15 +221,22 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-320.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-310.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**SET LAUNCH OPTIONS.**
@@ -249,19 +269,6 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
@@ -273,13 +280,6 @@ If Dota 2 still crashes, check the fix below.
 **6)** Type**\-autoconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-318.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your game is still unplayable, you need to**reopen the Launch Options box and clear the launch option.** Then, try the fix, below.
 
@@ -304,13 +304,6 @@ If Dota 2 still crashes, check the fix below.
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If_Dota 2_ runs smoothly now, that’s great! If not, check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall_Dota 2_
 
@@ -340,6 +333,13 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_16-51-54-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Download and reinstall_Dota 2_ .
 
  Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -366,14 +366,22 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-becoming-a-color-connoisseur-top-techniques-for-2024/"><u>[New] Becoming a Color Connoisseur Top Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-gopro-filming-techniques-uncovered/"><u>[New] Professional GoPro Filming Techniques Uncovered</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-vsdc-screen-recorder-review-and-best-alternative/"><u>[Updated] In 2024, VSDC Screen Recorder Review and Best Alternative</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-quick-access-to-trending-tiktok-backdrops/"><u>2024 Approved Quick Access to Trending TikTok Backdrops</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932781-9781855844391-prayers-for-parents-and-children/"><u>Prayers for Parents and Children | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-becoming-an-expert-broadcaster-streaming-high-quality-video-online/"><u>[New] 2024 Approved Becoming an Expert Broadcaster Streaming High-Quality Video Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-key-to-gain-likes-in-tiktok-unpack-sessions/"><u>[New] The Key to Gain Likes in TikTok Unpack Sessions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-rules-of-engagement-on-youtube/"><u>[Updated] 2024 Approved Essential Rules of Engagement on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-how-to-start-and-sustain-an-indie-podcast-hit/"><u>[Updated] How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-13-mini-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 13 mini? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-13-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 13 Pro Max without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1728472240174-windows-10/"><u>修复Windows 10中文件下载失败问题的详尽方法</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>In 2024, Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-capturing-screenshots-and-recording-your-screen-on-a-gateway-computer/"><u>Step-by-Step Guide to Capturing Screenshots and Recording Your Screen on a Gateway Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>Updated 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
 </ul></div>
 
