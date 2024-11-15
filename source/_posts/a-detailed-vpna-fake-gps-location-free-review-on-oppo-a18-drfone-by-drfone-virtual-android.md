@@ -1,7 +1,7 @@
 ---
 title: A Detailed VPNa Fake GPS Location Free Review On Oppo A18 | Dr.fone
-date: 2024-11-03T22:57:09.101Z
-updated: 2024-11-04T21:34:12.590Z
+date: 2024-11-09T04:21:45.911Z
+updated: 2024-11-14T18:59:26.826Z
 tags: 
   - virtual location chang
   - location changer
@@ -70,11 +70,31 @@ Once it is done, go to its Settings > Developer Options and turn on the option t
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
 Now, you can just go to the Play Store and download the VPNa Fake GPS Location app on your device. After the app is installed, you can just go to its Developer Options again and set it as a default mock location app.
 
 ![defaut mock location app](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Step 3: Spoof your Android's location**
 
@@ -98,25 +118,11 @@ At first, you can just connect your iPhone to your computer and launch the Dr.Fo
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Look for a location to spoof
 
 The application will automatically detect your device's location and would display it. To change it, click on the Teleport Mode icon from the top, and enter the address/coordinates of the place in the search bar.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Change your iPhone's location
 
@@ -146,20 +152,6 @@ If you feel that your phone is running slow than usual then it might be hacked a
 
 ![spying on phones](https://images.wondershare.com/drfone/article/2022/03/spying-on-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. The battery is draining too fast
 
 Though battery drain can alone not be a sign of the phone being hacked as with time the life of the battery starts decreasing. Still, it can be one of the signs as the hacking apps and tools are resource-draining which in turn decreases the battery life.
@@ -177,6 +169,13 @@ When your emails, phone calls, and text messages are being checked or tracked th
 If your social media accounts like Facebook and others are kept an eye on it means that you are being watched and your phone is being hacked. Tracking you or your vehicle using GPS
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Tracking you or your vehicle using GPS
 
@@ -257,15 +256,22 @@ You can check out this video for further instruction.
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2.** Connect your Android or iOS phone to your system and then after it's successfully connected, click on **Next** at the software interface.
 
 ![connect phone with virtual location](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** The actual location of your device will now appear in the new window. If the location is not correct, you can tap on the “**Center On**” icon present in the lower right to display your correct location.
 
@@ -274,6 +280,13 @@ You can check out this video for further instruction.
 **Step 4.** Now, click on the “**teleport mode**” icon present on the upper-right side. At the upper-left field enter the desired location where you wish to teleport to and then click on the **Go** button.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5.** Next, click on the “**Move Here**” option at the pop-up box and your device location will be successfully set to the one you selected.
 
@@ -292,6 +305,13 @@ Spying on your spouse is not only illegal but also unethical. So, if you feel th
 ### Q 1: Is it legal for my spouse to spy on me in Maryland?
 
 No, it is not legal to spy on a spouse in Maryland. Violating the Maryland Wiretap Act and Maryland Stored Wire Act will lead to criminal penalties. As per the law, any person, be it your spouse cannot record your calls without your consent, guess the password to have access to any account, or keep a check on any personal activities. These are considered illegal.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q 2: Can someone spy on my Oppo A18 through linked contacts?
 
@@ -329,13 +349,6 @@ Yes, if you have not disabled the GPS feature, your location can be tailed on an
 
 The GPS feature of your phone, besides assisting you, is also a way any person or third-party app can keep track, which can hamper your privacy and be annoying. So, for privacy or any other reason, if you are looking for ways to prevent your phones from being tailed, check out the solutions for iDevices and Android below.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.1. How to stop GPS tracking on Oppo A18s?
 
 To hide the location on your Oppo A18 and iPad, below listed are the steps.
@@ -350,6 +363,13 @@ To hide the location on your Oppo A18 and iPad, below listed are the steps.
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.2. How to stop GPS tracking on Android Devices?
 
 The process to turn off GPS location on Android devices may vary from device to device and brand to brand. Still, the commonly used steps for turning off the location are listed below.
@@ -357,13 +377,6 @@ The process to turn off GPS location on Android devices may vary from device to 
 **Step 1**. On your Oppo A18, swipe down on your screen to open the options list.
 
 ![switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2**. Search for the Airplane icon and click on it to turn on the Airplane Mode.
 
@@ -409,13 +422,6 @@ You can check out this video for further instruction.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6**. A pop-up box will appear to click on the **Move Here** button to set the selected location for the connected device. The place will appear on the app interface and the phone.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -454,21 +460,19 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/1718144126937-new-2024-approved-how-many-seconds-is-a-20mb-video/"><u>[New] 2024 Approved How Many Seconds Is a 20Mb Video</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-graceful-gallops-on-frozen-ground/"><u>[New] In 2024, Graceful Gallops on Frozen Ground</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-the-disk-is-write-protected-on-usb-sd-card-and-cd-disc-on-windows/"><u>[Solved] The Disk Is Write-Protected on USB, SD Card & CD Disc on Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-editing-magic-transformative-strategies-for-youtube-creators/"><u>[Updated] 2024 Approved Editing Magic Transformative Strategies for YouTube Creators</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-quick-guide-to-saving-switch-gameplay-videos/"><u>2024 Approved Quick Guide to Saving Switch Gameplay Videos</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-poco-x6-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-c50-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211417926-9781956482072-dont-go-stay/"><u>Don't Go ; Stay | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-guide-transferring-your-dvd-collection-to-an-ipod-using-dvd-to-ipod-converter-software/"><u>Free Guide: Transferring Your DVD Collection to an iPod Using DVD-to-iPod Converter Software</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-90-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from 90</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-accessories-for-psvr2/"><u>The Best Accessories for PSVR2</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-record-overwatch/"><u>[Updated] 2024 Approved How to Record Overwatch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-in-depth-look-at-bandicams-functionality-for-video-creation/"><u>[Updated] In 2024, In-Depth Look at Bandicam's Functionality for Video Creation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-ultimate-drone-propeller-rankings-for-top-flyers-for-2024/"><u>[Updated] Ultimate Drone Propeller Rankings for Top Flyers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-production-evolution-prime-lenses-for-youtube-enthusiasts/"><u>[Updated] Video Production Evolution Prime Lenses for YouTube Enthusiasts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-poco-x5-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-scanner-driver-software-free-downloads-compatible-with-windows/"><u>Canon Scanner Driver Software: FREE Downloads Compatible with Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-streaming-service-showdown-facebook-vs-youtube-vs-twitvision/"><u>In 2024, Streaming Service Showdown Facebook Vs. YouTube Vs. TwitVision</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-communication-barriers-fixing-iphones-inability-to-get-texts-from-android-phones/"><u>Overcoming Communication Barriers: Fixing iPhone's Inability to Get Texts From Android Phones</u></a></li>
 </ul></div>
 

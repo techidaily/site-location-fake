@@ -1,7 +1,7 @@
 ---
 title: 4 Methods to Turn off Life 360 On Xiaomi Civi 3 without Anyone Knowing | Dr.fone
-date: 2024-09-18T16:31:45.361Z
-updated: 2024-09-20T12:21:24.461Z
+date: 2024-11-12T20:20:52.556Z
+updated: 2024-11-14T17:05:10.832Z
 tags: 
   - virtual location chang
   - location changer
@@ -53,6 +53,13 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Xiaomi Civi 3’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -60,6 +67,13 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
@@ -91,13 +105,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 - If you want to disable GPS services on your Xiaomi Civi 3, turn off location tracking for apps.
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
@@ -161,6 +168,13 @@ When your phone is off, your GPS location is automatically disabled. Therefore L
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
@@ -180,6 +194,13 @@ Life360 is basically a tracking app that you can use to share your location with
 Life360 supports both iOS and Android devices. To use, you will need to install it on your device and have to turn on location services so the members in your group name can track you.
 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Turn Off Location on Life360
 
@@ -204,6 +225,13 @@ To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest
 
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 This tool is specially designed for iOS users that help to spoof location without causing any risk to your data. The best thing is that it is very easy to use and easy to install, as well. Also, in Dr.Fone – Virtual Location (iOS), you can teleport anywhere and can customize your speed. With just one click, you are able to spoof Life360 and other location-based apps.
@@ -213,13 +241,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 - First, you will need to download it from the official site on your PC or system.
 
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
@@ -244,6 +265,13 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.2 How To Fake Life360 Location On Android
 
@@ -276,6 +304,13 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 ![change location](https://images.wondershare.com/drfone/images2023/virtual-location.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Spotify’s booming audio business is proof that people are in love with its services. If you want to listen to your favorite retro song, or you want to discover the latest hits, Spotify has everything. You can also listen to some really good podcasts and album hits. But what most of us don’t know is that your Spotify Location can determine what kind of content you might come across on the platform.
 
 Your playlist suggestions depend on the country and region you are staying in. And in case you are unable to access any particular song or album, that can be because of your location too, If you are planning on Spotify Change Location, then here are 6 effective ways that will instantly get the job done or you, no matter where you are in the world.
@@ -287,13 +322,6 @@ Before we find out about the 6 different ways to update location Spotify, let us
 **Region Specific Content**
 
 ![region specific spotify content](https://images.wondershare.com/drfone/2020/2020/region-specific-Spotify-content-pic1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The main reason anyone would want to change their Spotify location is when they change countries. If you want to access content relevant to this new region, it is best to go with Spotify Change Country. When you change our spotify location, you will get the regionally most-played songs or most liked podcasts as suggestions. This way, you can access quality content of this place that you’ve shifted to.
 
@@ -356,13 +384,6 @@ For the Spotify Change Region, Cydia's Location Faker App is the perfect choice 
 **Step 1:** Download the Locationfaker version suitable for your phone. Locationfaker8 is available for the 8.0 version of iPhone.
 
 ![download locationfaker](https://images.wondershare.com/drfone/2020/2020/download-locationfaker-version-app-pic9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** You will notice a map appear on the screen. You can either move your pin-point to the new location or enter the address or coordinates into the search box on top of the page.
 
@@ -437,6 +458,13 @@ This is a free app that helps to Change region Spotify within a few minutes. You
 
 ![enter new location](https://images.wondershare.com/drfone/2020/2020/detection-of-new-location-pic22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** The app will try to detect the new location that you have entered. Once it is successfully done, you will find that your new location will reflect in all the apps that have access to your Xiaomi Civi 3’s location. Including Spotify.
 
 ![location tweaking](https://images.wondershare.com/drfone/2020/2020/location-tweaking-pic23.jpg)
@@ -458,13 +486,6 @@ The Virtual Private Network apps will change your server and your location and I
 **Step 4:** Then go to ‘More Options’ > Servers > All countries and choose the country that you want. The same will reflect on Spotify too.
 
 ![choose countries to change](https://images.wondershare.com/drfone/2020/2020/countries-spotify-change-pic27.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -504,5 +525,23 @@ AR game tricks
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-red-magic-9-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Red Magic 9 Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-smart-8-pro-by-drfone-android/"><u>How to Bypass FRP on Infinix Smart 8 Pro?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-creating-a-personal-brand-on-facebook/"><u>In 2024, Creating a Personal Brand on Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-note-30-vip-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Note 30 VIP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-electronic-markets-trustworthy-tips-from-toms-hardware-experts/"><u>Navigating Electronic Markets: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-format-switching-convert-your-avif-images-into-various-formats-like-heic-jpg-webp-png-or-gif-instantly/"><u>Seamless Format Switching: Convert Your AVIF Images Into Various Formats Like HEIC, JPG, WebP, PNG, or GIF Instantly!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-capturing-crystal-clear-videos-from-your-google-hangouts/"><u>Ultimate Guide: Capturing Crystal-Clear Videos From Your Google Hangouts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbelievable-value-alert-my-favorite-resilient-smartwatch-tested-for-less-than-expected/"><u>Unbelievable Value Alert: My Favorite Resilient Smartwatch Tested for Less Than Expected.</u></a></li>
+</ul></div>
 
