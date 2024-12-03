@@ -1,7 +1,7 @@
 ---
 title: 4 Methods to Turn off Life 360 On Itel A60s without Anyone Knowing | Dr.fone
-date: 2024-07-12T18:58:14.097Z
-updated: 2024-07-13T18:58:14.097Z
+date: 2024-11-29T23:44:30.872Z
+updated: 2024-12-03T03:08:34.135Z
 tags: 
   - virtual location chang
   - location changer
@@ -36,6 +36,10 @@ Some of the available Life360 features include notifying you when a member of yo
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -44,6 +48,10 @@ There is the possibility of limiting the details about your location to others i
 - Next, choose a circle you want to stop sharing your location with at the top of the page.
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
@@ -60,6 +68,10 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
@@ -98,8 +110,6 @@ Although Life360 can be helpful in emergencies or security issues, it can also p
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -122,9 +132,17 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
@@ -139,6 +157,10 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
@@ -208,6 +230,10 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 ![location services](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - _Step 1:_ Go to "Settings" and choose "Privacy".
 - _Step 2:_ After, you can look for "Location Services" and enable it.
 
@@ -225,8 +251,6 @@ If you want to share your location in the "Find My Friends" application, you can
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -266,11 +290,19 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 
 We hope the tips we shared helped fix the "No Location Found" issue on your phone. Sometimes basic troubleshooting such as restarting your phone or turning off and on your GPS. You can also use our tip to use a fake location that you can send to your friends if you want to play a prank on them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Tutorial to Use VPNa to Fake GPS Location On Itel A60s
 
 In the present day, there’s barely any webpage or app that may not require your Geological location. This has been a major strategy of the site/app owners to push only the content that is relevant to your needs or may interest you. Therefore, every other webpage or app first fetches your Geological location and then behave accordingly.
 
 ![Geological location access](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For instance, there are several apps that only work in the US and not outside of it. But there is workaround for it too. You can actually make the app “think” that your Geological location is somewhere in US currently, instead of where you actually are. You can achieve this with a powerful vpna fake gps location apk. You may now wonder, hot to set it up and make use of it. So, without much delay, let’s now understand step by step tutorial on vpna fake gps location.
 
@@ -386,8 +418,6 @@ Step 6: You are good to go now. The location will be changed as desired. You wil
 
 ![location changed](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-
-
 ### Mode 2: Simulate Movement Between two Places
 
 Step 1: You can choose the “One-stop route” i.e. the third icon in the upper right after launching the program.
@@ -406,7 +436,9 @@ Step 5: The simulation of the movement will now begin and you can track the posi
 
 ![track the position](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mode 3: Simulate Movement for Multiple Places
 
@@ -422,14 +454,9 @@ Step 3: The next pop-up will ask you to enter the number for how many times you 
 
 Step 4: The movement simulation will begin and your location will be seen moving as per your selected route.
 
-
-
 ## Final Words
 
 That was a completed tutorial about the vpna fake gps location apk, starting from gaining the insights of the app to understanding both the goods and bad of it. And finally the detailed step by step tutorial will help you get along with faking gps location smoothly.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -443,9 +470,16 @@ That was a completed tutorial about the vpna fake gps location apk, starting fro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-transfer-photos-and-videos-from-iphone-to-iphone/"><u>[Updated] How to Transfer Photos and Videos From iPhone to iPhone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-asian-themed-mini-mansions-for-creative-builders/"><u>2024 Approved Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/aiseesoft-video-converter-maximizes-performance-through-advanced-gpu-acceleration-technology/"><u>Aiseesoft Video Converter Maximizes Performance Through Advanced GPU Acceleration Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-mic-failure-resolved-steps-to-restore-functionality/"><u>Razer Man O' War Mic Failure Resolved: Steps to Restore Functionality</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-road-safety-and-convenience-at-a-great-price-the-ultimate-guide-to-z-edge-z3plus-dashcam-review/"><u>Unlocking Road Safety and Convenience at a Great Price - The Ultimate Guide to Z-Edge Z3+ Dashcam Review</u></a></li>
+</ul></div>
 

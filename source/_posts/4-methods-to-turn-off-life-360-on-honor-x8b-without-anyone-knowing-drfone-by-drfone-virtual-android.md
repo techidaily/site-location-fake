@@ -1,7 +1,7 @@
 ---
 title: 4 Methods to Turn off Life 360 On Honor X8b without Anyone Knowing | Dr.fone
-date: 2024-07-12T18:57:38.973Z
-updated: 2024-07-13T18:57:38.973Z
+date: 2024-11-27T20:39:45.550Z
+updated: 2024-12-03T05:59:47.607Z
 tags: 
   - virtual location chang
   - location changer
@@ -45,6 +45,10 @@ There is the possibility of limiting the details about your location to others i
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
@@ -52,6 +56,10 @@ There is the possibility of limiting the details about your location to others i
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. **Turn off Your Honor X8b’s Airplane Mode**
 
@@ -92,13 +100,15 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -140,6 +150,10 @@ Automatically, your location will change to the chosen place on the map and your
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ## Part 4: FAQ About Turn off Location on Life360
@@ -160,8 +174,6 @@ Yes, it does. It will send a ‘location sharing paused’ notification to all y
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
 
-
-
 ## 3 Ways to Fake GPS Without Root On Honor X8b
 
 Fake GPS is an Android application for tweaking your GPS settings. It will help you avoid being tracked by your parents or a stranger spying on you in many situations. Faking GPS will also aid you in using an application that is banned in your region or playing a trick in the games like Pokemon Go.
@@ -173,8 +185,6 @@ In other words, it is called GPS spoofing. Some users believe in a misconception
 Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever your reason, with Dr. Fone's Virtual Location, you can quickly teleport your phone to anywhere in the world with a single click. You can even move along a route that you draw!
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -232,6 +242,10 @@ Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fak
 
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Pros**
 
 - Quick to alter the location to wherever you want in the world.
@@ -282,6 +296,10 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
@@ -331,6 +349,10 @@ We've explained the steps to get Android into developer mode below:
 **Step 2:** Navigate to the Settings main page again and tap on Developer options. Then turn on the toggle next to it and tick the checkbox next to Allow Mock Locations (if available).
 
 ![enable developer options and allow mock locations](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Go back to the Settings main page and tap on Location Mode. Then, select Use GPS to determine location.
 
@@ -395,6 +417,10 @@ The following are some of the positives and negatives we noticed while using Fak
 - The most helpful features are locked behind the paywall.
 - It requires jailbreak for Android devices that are not running Android 6.0 and later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6. Is Fake GPS Location Spoofer Worth It?
 
 Overall, **Fake GPS Location Spoofer** is a great app. However, you must pay to enjoy all the app has to offer. Also, anyone whose device isn't running Android 6 or above might not find it helpful, as you'll need to jailbreak it first.
@@ -416,8 +442,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 - Import/Export the GPX file of various paths to save and view your favorite routes within a few clicks.
 - Joystick facilitates flexible GPS movement.
 
-
-
 **How to Use Dr.Fone - Virtual Location to Spoof Location on Android**
 
 **Step 1:** Download and install the Dr.Fone - Virtual Location (Android/iOS) on your computer.
@@ -434,6 +458,10 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![click the center icon](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Click the first icon at the top right side to activate Teleport Mode. Then, type the name or address of the location you intend to teleport to and click Enter on your keyboard to teleport to the chosen location.
 
 ![activate teleport mode and enter the location address](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -445,8 +473,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 **Step 6:** Once you complete the above, your Honor X8b location will be spoofed instantly.
 
 ![mock phone location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-
 
 ### Comparison Table: Fake GPS Location Spoofer vs. Dr.Fone - Virtual Location
 
@@ -468,8 +494,6 @@ If you're looking to find out which is best between Fake GPS Location Spoofer an
 | **Historical Records** | Yes | Yes |
 | **Customized Speed** | No | Yes |
 
-
-
 ## Part 7: FAQs About Fake GPS Location Spoofer
 
 **1\. Is Fake GPS Location Spoofer Safe?**
@@ -484,14 +508,15 @@ Not really. It supports both free and paid versions. The free version allows you
 
 You can [download Fake GPS Location Spoofer free](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre&hl=en_US&gl=US) from the Google Play Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 After reading the article above, we believe you should have made a final decision on whether to use the Fake GPS Location Spoofer app for your location spoofing activities.
 
 Overall, the Fake GPS Location Spoofer app can help you achieve your objective of spoofing location on Android. However, if you need an alternative location spoofing app that does the job better, then Dr.Fone - Virtual Location is the best tool that you need for the task.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -505,9 +530,21 @@ Overall, the Fake GPS Location Spoofer app can help you achieve your objective o
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-what-lies-beneath-instagram-story-perceptions/"><u>[New] In 2024, What Lies Beneath Instagram Story Perceptions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[Updated] In 2024, Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-v30-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo V30 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-magic-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor Magic 5 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/command-unexecuted-standstill/"><u>Command Unexecuted: Standstill</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-analysis-and-ranking-of-leading-android-pdf-editor-tools-for-201/"><u>Comprehensive Analysis and Ranking of Leading Android PDF Editor Tools for 201</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-game-14-must-see-vids-for-youtube-gaming-success/"><u>Elevate Your Game 14 Must-See Vids for YouTube Gaming Success</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/how-to-guide-mastering-action-activation-and-update-processes/"><u>How-To Guide: Mastering Action, Activation & Update Processes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>In 2024, Crafting Cinematic Magic A Filmmaker's Guide to Light</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/python-and-gpt-3-synergy-effective-strategies-for-advanced-language-model-integration/"><u>Python and GPT-3 Synergy: Effective Strategies for Advanced Language Model Integration</u></a></li>
+</ul></div>
 
