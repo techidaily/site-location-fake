@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Fake GPS Without Root On Samsung Galaxy A05 | Dr.fone
-date: 2024-07-12T18:46:00.947Z
-updated: 2024-07-13T18:46:00.947Z
+date: 2024-12-07T02:54:33.842Z
+updated: 2024-12-10T03:18:16.892Z
 tags: 
   - virtual location chang
   - location changer
@@ -25,8 +25,6 @@ In other words, it is called GPS spoofing. Some users believe in a misconception
 Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever your reason, with Dr. Fone's Virtual Location, you can quickly teleport your phone to anywhere in the world with a single click. You can even move along a route that you draw!
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -53,6 +51,10 @@ Download Dr.Fone – Virtual Location on your PC and run it to begin **fake GPS 
 Connect your iOS device with the lightning cable or your Samsung Galaxy A05 using a USB cable. You can also connect your iOS device via WiFi after being connected once. Click on “Get Started” now.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Set the Accurate Location**
 
@@ -83,6 +85,10 @@ Even when you click the “Center On” icon for location yourself, the location
 Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fake-gps-location-hola/org.hola.gpslocation) on Android devices. It’s available to use in more than 43 languages free of cost. With this **fake GPS Android no root** **application**, you can choose from an extensive list of places worldwide to set your location. For android users who can’t afford a PC or laptop to perform GPS spoofing with Dr.Fone, they can choose Hola for convenience.
 
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -172,8 +178,6 @@ This versatile tool effortlessly integrates with popular location-based apps suc
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
-
-
 ### Steps for Faking Your GPS Location via Wondershare Dr.Fone - Virtual Location
 
 Spoofing your location becomes effortlessly achievable through Dr.Fone - Virtual Location. This has to do with its innovative algorithms and thanks to its user-friendly approach. The process of faking the location involves the following steps:
@@ -189,8 +193,6 @@ Begin with the launch of Dr.Fone - Virtual Location on your computer and establi
 Upon completion of the initial setup, proceed to teleport to the targeted location by clicking "Move Here" on the map screen. This action prompts the cursor to relocate to the specified location on the map. It also simultaneously adjusts the location of your Android or iOS device. To validate the successful location change, access your smartphone and open a map application.
 
 ![click the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-
 
 ## Part 3: Why is GPS Spoofing a Problem?
 
@@ -240,8 +242,6 @@ Faking your GPS is easy nowadays. You can download an application and tinker wit
 
 Knowing the telltale signs of a fake GPS is a must to ensure you will not be deceived when transacting online. In the end, the most effective way to detect if someone is faking their GPS is by checking if their smartphone has a GPS spoofing app.
 
-
-
 ## How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A05?
 
 All Android phones come with a GPS location feature with which you and others can navigate your current location. But, do you know that sometime this feature may create a headache for you as the third party app can trace your location. Also, any third person can track your GPS and can harm you. This is why many users want to fake GPS location on Android and iOS.
@@ -274,6 +274,10 @@ In the below section, we have discussed some of the major uses of mock location 
 
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 People who love to play AR location-based games allow mock location apk to spoof AR gaming apps. Augmented reality games offer real-world experience to players, and to play these games, and you will need to move out of your house. Also, when you play AR games, you have limited access to levels and characters, as you can only play it on your current location.
 
 However, with allowing mock location feature, you can download fake location apps to spoof AR location-based games. Games like Pokémon Go is very popular, and you can catch more Pokémon while sitting at your home with fake GPS applications.
@@ -283,6 +287,10 @@ Also, there are many other AR games, including Ingress Prime, Harry Potter: Wiza
 ### 2.2 For Dating Apps
 
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
 
@@ -312,6 +320,10 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
@@ -329,6 +341,10 @@ After enable “allow mock location” on an android mobile phone, you will need
 **Step 4:** Now, go to your device’s Settings > Developer Options and make sure that the allow mock location feature is enabled.
 
 ![enable allow mock location](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
 
@@ -354,6 +370,10 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
 **Step 5:** Search for the desired location on the search bar to fake your current location and click enter.
@@ -361,8 +381,6 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
-
-
 
 ## Part 4: Mock Location Feature On Different Android Models
 
@@ -372,15 +390,27 @@ In Samsung and Motto device, the mock location feature is available under the �
 
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mock location on Xiaomi and
 
 Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to enable the developer option, you will need to tap on MIUI under Settings > About Phone. After this, you will see “ allow mock location apk.”
 
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Huawei
 
@@ -389,9 +419,6 @@ In Huawei devices, there is the EMUI, for this, go to Settings > Software Inform
 ## Conclusion
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -405,9 +432,26 @@ We hope that after reading the above article, you would be able to allow mock lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creating-engaging-and-memorable-youtube-channel-graphics-for-2024/"><u>[New] Creating Engaging and Memorable YouTube Channel Graphics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-your-go-to-guide-to-exceptional-4k-mirrorless-cameras/"><u>[Updated] Your Go-To Guide to Exceptional 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-smart-8-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Smart 8 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/8-proven-strategies-to-speed-up-boot-time-on-your-windows-11-with-an-ssd/"><u>8 Proven Strategies to Speed Up Boot Time on Your Windows 11 with an SSD</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-gratuit-de-fichiers-png-vers-tiff-en-ligne-avec-movavi/"><u>Conversion Gratuit De Fichiers PNG Vers TIFF en Ligne Avec Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/essential-steps-to-understand-vudus-unlimited-streaming-plans/"><u>Essential Steps to Understand Vudu's Unlimited Streaming Plans</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leveraging-social-integration-auto-play-youtube-videos-on-fb-pages/"><u>Leveraging Social Integration Auto-Play Youtube Videos on FB Pages</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schaffen-sie-zuverlassige-datensicherungen-mit-externen-laufwerken-ein-umfassender-leitfaden/"><u>Schaffen Sie Zuverlässige Datensicherungen Mit Externen Laufwerken – Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-deal-on-the-latest-m3-macbook-air-with-amazon-prime-october-sales-knocking-off-250-tech-insights/"><u>Score a Deal on the Latest M3 MacBook Air with Amazon Prime October Sales Knocking Off $250 | Tech Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-screen-selections-for-ps5-enthusiasts/"><u>Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
+</ul></div>
 

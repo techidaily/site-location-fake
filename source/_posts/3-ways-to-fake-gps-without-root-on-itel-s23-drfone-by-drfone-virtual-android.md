@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Fake GPS Without Root On Itel S23 | Dr.fone
-date: 2024-07-12T18:43:13.175Z
-updated: 2024-07-13T18:43:13.175Z
+date: 2024-12-03T03:04:55.163Z
+updated: 2024-12-10T03:03:59.656Z
 tags: 
   - virtual location chang
   - location changer
@@ -25,8 +25,6 @@ In other words, it is called GPS spoofing. Some users believe in a misconception
 Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever your reason, with Dr. Fone's Virtual Location, you can quickly teleport your phone to anywhere in the world with a single click. You can even move along a route that you draw!
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -75,6 +73,10 @@ Now, you will be able to trick all the location-based apps with your fake locati
 Even when you click the “Center On” icon for location yourself, the location will remain fixed to where you have done teleporting.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Other APPs to fake GPS without jailbreak no root
 
@@ -163,6 +165,10 @@ To make things easier for you to connect to a free PPTP VPN server, we have come
 
 <table><tbody><tr><td></td><td><strong>Server</strong></td><td><strong>Username</strong></td><td><strong>Password</strong></td><td><strong>Country</strong></td></tr><tr><td>1.</td><td>us1.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>USA</td></tr><tr><td>2.</td><td>us2.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>USA</td></tr><tr><td>3.</td><td>ca1.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>Canada</td></tr><tr><td>4.</td><td>de233.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>Germany</td></tr><tr><td>5.</td><td>fr1.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>France</td></tr><tr><td>6.</td><td>it.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Italy</td></tr><tr><td>7.</td><td>sg1.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Singapore</td></tr><tr><td>8.</td><td>sg2.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Singapore</td></tr><tr><td>9.</td><td>sg3.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Singapore</td></tr><tr><td>10.</td><td>usa1.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>USA</td></tr><tr><td>11.</td><td>gr.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Germany</td></tr><tr><td>12.</td><td>uk.realfreevpn.com</td><td>realfreevpn</td><td>25570</td><td>UK</td></tr><tr><td>13.</td><td>de.realfreevpn.com</td><td>realfreevpn</td><td>93937</td><td>Germany</td></tr><tr><td>14.</td><td>fr.realfreevpn.com</td><td>realfreevpn</td><td>76216</td><td>France</td></tr><tr><td>15.</td><td>us1.superfreevpn.com</td><td>free</td><td>1596</td><td>USA (Miami)</td></tr><tr><td>16.</td><td>us2.superfreevpn.com</td><td>free</td><td>2737</td><td>USA (Chicago)</td></tr><tr><td>17.</td><td>uk.superfreevpn.com</td><td>free</td><td>7833</td><td>UK (London)</td></tr><tr><td>18.</td><td>ca.superfreevpn.com</td><td>free</td><td>1251</td><td>Canada (Montreal)</td></tr><tr><td>19.</td><td>nl.superfreevpn.com</td><td>free</td><td>2988</td><td>Netherlands (Brabant)</td></tr><tr><td>20.</td><td>us.websitevpn.com</td><td>websitevpn.com</td><td>freevpn</td><td>USA</td></tr><tr><td>21.</td><td>uk.websitevpn.com</td><td>websitevpn.com</td><td>freevpn</td><td>UK</td></tr><tr><td>22.</td><td>ca.justfreevpn.com</td><td>justfreevpn</td><td>Canada Free VPN Account</td><td>Canada</td></tr><tr><td>23.</td><td>uspptp.hotfreevpn.com</td><td>free</td><td>1234</td><td>USA</td></tr><tr><td>24.</td><td>51.15.151.165</td><td>pptp</td><td>ykDJYnCIirN</td><td>France</td></tr><tr><td>25.</td><td>128.199.221.154</td><td>contassh</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>26.</td><td>128.199.96.14</td><td>contassh</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>27.</td><td>188.166.6.170</td><td>contassh</td><td>abcd1234</td><td>Netherlands</td></tr><tr><td>28.</td><td>188.166.155.99</td><td>contassh</td><td>abcd1234</td><td>Netherlands</td></tr><tr><td>29.</td><td>138.68.140.197</td><td>contassh</td><td>abcd1234</td><td>UK</td></tr><tr><td>30.</td><td>138.68.64.68</td><td>contassh</td><td>abcd1234</td><td>UK</td></tr><tr><td>31.</td><td>159.203.111.101</td><td>contassh</td><td>abcd1234</td><td>USA</td></tr><tr><td>32.</td><td>139.59.244.147</td><td>sshagan</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>33.</td><td>139.59.237.15</td><td>sshagan</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>34.</td><td>128.199.214.71</td><td>sshagan</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>35.</td><td>178.62.38.164</td><td>sshagan</td><td>abcd1234</td><td>UK</td></tr><tr><td>36.</td><td>46.101.79.161</td><td>sshagan</td><td>abcd1234</td><td>UK</td></tr><tr><td>37.</td><td>192.241.184.169</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr><tr><td>38.</td><td>192.241.179.120</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr><tr><td>39.</td><td>162.243.33.71</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr><tr><td>40.</td><td>162.243.15.104</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr></tbody></table>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Setup Free PPTP VPN on Your Computer?
 
 After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, and other countries, you can easily learn how to set up a PPTP VPN free. The process is quite simple and can be implemented in all the leading versions of Windows (and other operating systems). Though, there could be a slight change in the overall interface of the OS you are using. To set up free VPN PPT, follow these steps:
@@ -180,6 +186,10 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 4\. On the next window, you would be given an option to either dial directly or use a VPN. Click on the “Use my Internet Connection (VPN)” option to continue.
 
 ![Use my Internet Connection](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5\. Great! Now, you need to provide information related to the host and server. You can refer the free PPTP VPN list we have provided in the previous section and pick the server (and hostname) of your choice.
 
@@ -201,6 +211,10 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 ![connect to free pptp vpn](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s it! By following these steps, you would be able to create a free PPTP VPN Singapore, USA, UK, Canada, Germany, or any other location. Simply give this tutorial a try and pick the preferred option from our free PPTP VPN list. If you also have a suggestion for a free VPN PPTP that you want to add to your list, then let us know about it in the comments below.
 
 ## Part 4: An Easier Alternative to Setup VPN
@@ -217,8 +231,6 @@ Some of its advantages are as follows:
 - Intuitive interface and easy operations.
 - Offers 24/7 customer service.
 - As low as about 3 USD per month.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -240,6 +252,10 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 
 ![google chrome featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
@@ -260,6 +276,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: For iPhone or iPad
 
 **Step 1:** Navigate to "Settings" on your iPhone and open it. Scroll down until you find the "Chrome" app option and select it.
@@ -269,6 +289,10 @@ If you are worried about Google Chrome detecting your physical location and shar
 **Step 2:** Press "Location" on the next screen to open the location options for Google Chrome. Here, choose "Never" to stop Google Chrome from detecting your location.
 
 ![choose the never option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: For Android
 
@@ -294,8 +318,6 @@ The easiest and quickest way to fake your location on Google Chrome is to use [D
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
-
-
 **How to Fake Chrome Location On iOS/Android Phones via Dr.Fone - Virtual Location**
 
 Faking your Chrome location with Dr.Fone - Virtual Location is very straightforward. You only need the Dr.Fone mobile toolkit and a USB cable to connect your Itel S23. Follow these steps to spoof Chrome location on Android and iOS phones:
@@ -318,8 +340,6 @@ Once the Teleport Mode is activated, add your desired location and press "Go." Y
 
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
 ### Method 2. Manually Change Your Location Using Google Chrome DevTools
 
 It is also possible to **fake browser location** on Chrome using the Google Chrome Developer Tools. It is a built-in feature of Chrome and can be used to manually change or turn off your browser's location. Follow these steps for changing location on Chrome with DevTools:
@@ -331,6 +351,10 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Access the newly selected "Sensor" option, and here you can change the browser's location by either selecting a Google's pre-set location or adding your desired location manually. Once the location is selected or added, your browser's location will change.
 
@@ -362,6 +386,10 @@ Many **fake location Chrome extensions** are available on Google Chrome which ca
 - Location Guard doesn't protect your IP address. It means some websites can still detect your real location using the IP address.
 - The app is not updated for quite a while, that's why the map of the fixed location feature is quite restricted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4. Spoof Your IP Using a VPN Server
 
 Another way you can fool websites and your browser by displaying a **fake location online** is to use a VPN server. VPNs fake your IP address to fool websites and apps into detecting your location. [NordVPN](https://nordvpn.com/) is a VPN that can be used to spoof your IP by following these steps:
@@ -381,6 +409,10 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 ## Part 4: FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.What is Geolocation?
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
@@ -399,11 +431,6 @@ The fact that Google Chrome in your devices can track your location with an accu
 
 That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to **fake GPS online** is essential nowadays. It can ensure your privacy and helps in protecting you from the dangers of the internet.
 
-
-
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -416,9 +443,24 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-tweeted-videos-on-facebooks-networks/"><u>[New] In 2024, Mastering Tweeted Videos on Facebooks Networks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-filming-for-virality-on-youtube/"><u>[New] In 2024, The Ultimate Guide to Filming for Virality on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-itel-p40-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-90-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-f25-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo F25 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-c50-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-note-50-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Note 50 Fingerprint Lock</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-champions-emerge-gpt-vs-bing-showdown/"><u>Chatbot Champions Emerge: GPT Vs. Bing Showdown</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-12-pro-max-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 12 Pro Max iCloud Bypass</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-can-i-stop-windows-defender-from-deleting-a-file/"><u>How Can I Stop Windows Defender From Deleting a File?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-switch-to-desired-screen-size-error-easily/"><u>How to Fix 'Unable to Switch to Desired Screen Size' Error Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oneplus-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from OnePlus .</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-image-editors-ultimate-toolkit-review-for-2024/"><u>The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
+</ul></div>
 

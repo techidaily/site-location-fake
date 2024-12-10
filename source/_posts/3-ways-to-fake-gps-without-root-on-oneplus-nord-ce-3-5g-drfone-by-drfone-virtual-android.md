@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Fake GPS Without Root On OnePlus Nord CE 3 5G | Dr.fone
-date: 2024-07-12T18:44:31.666Z
-updated: 2024-07-13T18:44:31.666Z
+date: 2024-12-08T22:34:03.735Z
+updated: 2024-12-10T04:12:13.596Z
 tags: 
   - virtual location chang
   - location changer
@@ -25,8 +25,6 @@ In other words, it is called GPS spoofing. Some users believe in a misconception
 Have trouble catching Pokemon? Or maybe you're trying to get a date. Whatever your reason, with Dr. Fone's Virtual Location, you can quickly teleport your phone to anywhere in the world with a single click. You can even move along a route that you draw!
 
 Try it with location-based apps like Pokemon Go or Tinder to fake movement and enjoy all the fun on the go. It works perfectly with any application to **fake GPS without root**. The app is compatible with Windows and macOS devices to use any of them for GPS spoofing on your smartphone.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -59,6 +57,10 @@ Connect your iOS device with the lightning cable or your OnePlus Nord CE 3 5G us
 Before **GPS** **spoof without root,** you have to find and set your actual location on the map. If the location is not shown correctly, hit the “Center On” icon located at the lower right part.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Turn on Teleport Mode**
 
@@ -138,8 +140,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
 
-
-
 ## Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Nord CE 3 5G
 
 In the present day, there’s barely any webpage or app that may not require your Geological location. This has been a major strategy of the site/app owners to push only the content that is relevant to your needs or may interest you. Therefore, every other webpage or app first fetches your Geological location and then behave accordingly.
@@ -147,6 +147,10 @@ In the present day, there’s barely any webpage or app that may not require you
 ![Geological location access](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-1.jpg)
 
 For instance, there are several apps that only work in the US and not outside of it. But there is workaround for it too. You can actually make the app “think” that your Geological location is somewhere in US currently, instead of where you actually are. You can achieve this with a powerful vpna fake gps location apk. You may now wonder, hot to set it up and make use of it. So, without much delay, let’s now understand step by step tutorial on vpna fake gps location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. About VPNa
 
@@ -220,6 +224,10 @@ Step 3: Search for a fake location and get started
 
 ![location marker](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Example where VPNa does work
 
 By faking GPS location with VPNa app, you can access desired content by bypass the Geo-restrictions. There are several instances where VPNa is successful solution for your GPS spoofing requirements. For instance, by spoofing location with VPNa you certainly:
@@ -248,6 +256,10 @@ Step 3: You will be able to see the actual location on the map. Or you can hit �
 
 ![hit Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Click on the “Teleport mode” which can be found as the first icon at the upper right corner. Put the place to teleport and hit on “Go” button.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -259,8 +271,6 @@ Step 5: A pop up will appear once the system gets the place you want. From that 
 Step 6: You are good to go now. The location will be changed as desired. You will see the chosen location fixed whenever you click the "Center On" icon. Also, the same location will be shown in the location-based apps. See, there is no need for any iOS version of VPNa fake GPS apk for the purpose when you have Dr.Fone - Virtual Location (iOS&Android).
 
 ![location changed](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-
 
 ### Mode 2: Simulate Movement Between two Places
 
@@ -280,8 +290,6 @@ Step 5: The simulation of the movement will now begin and you can track the posi
 
 ![track the position](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-
-
 ### Mode 3: Simulate Movement for Multiple Places
 
 Step 1: In this case, select the fourth icon at the upper right side. This icon denotes the “Multi-stop route”. Subsequently, select the locations one by one from where you want to travel.
@@ -290,13 +298,19 @@ Step 2: Note the pop-up box that now comes. It will make you know how far you ar
 
 ![select the locations one by one](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: The next pop-up will ask you to enter the number for how many times you wish to show back and forth movements. Click “Start Moving” once done.
 
 ![enter the number](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
 Step 4: The movement simulation will begin and your location will be seen moving as per your selected route.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -313,6 +327,10 @@ It is helpful if you are having a hang out plan with your friends. And if you fr
 When location sharing is enabled in the OnePlus Nord CE 3 5G device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
 
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How it is different in iOS 13
 
@@ -331,6 +349,10 @@ Look at some of the things we feel not beneficial about Find My Friends.
 - Not to forget, hackers are everywhere and the app is prone to get accessed by any of them.
 
 In such cases, the need of hiding or faking Find My Friends location rises. This is because we are sharing some ways to fake location on Find My Friends on your iOS and Android.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 4 Solutions to Fake Find My Friends Location on iOS
 
@@ -406,6 +428,10 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.4 Use AntiTracker to protect your location privacy
 
 When privacy is everything for you, you cannot tolerate anyone peeping into your life, especially your location. Find My Friends lets people doing that. You can take help of AntiTracker which is another jailbreak tweak. With this, you will be helped by faking location on Find My Friends. Like the above app, this will also notify you when someone is going to know your location through Find My Friends.
@@ -450,12 +476,13 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -469,9 +496,20 @@ When you install it rightly, this is how to do a little twisting to set it up wi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-surviving-youtubes-copyright-enforcement-hurdles/"><u>[Updated] 2024 Approved Surviving YouTube's Copyright Enforcement Hurdles</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-note-30i-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Note 30i FRP</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-lag-expert-strategies-for-smoother-dying-light-gameplay/"><u>Beat the Lag: Expert Strategies for Smoother Dying Light Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-sharing-your-chatgpt-conversations-with-others-online/"><u>Guide: Sharing Your ChatGPT Conversations with Others Online</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-maintain-peak-performance-of-your-pcs-ram-expert-tips-from-yl-computing/"><u>How to Maintain Peak Performance of Your PC's RAM - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-common-audio-glitches-in-outriders-expert-advice-and-fixes/"><u>How to Solve Common Audio Glitches in Outriders – Expert Advice and Fixes</u></a></li>
+<li><a href="https://fox-making.techidaily.com/lost-data-on-exfat-storage-devices-discover-proven-strategies-for-successful-file-recovery/"><u>Lost Data on ExFAT Storage Devices? Discover Proven Strategies for Successful File Recovery</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/no-visuals-from-gpu-troubleshooting-steps-and-tips-provided-by-yl-software-experts/"><u>No Visuals From GPU: Troubleshooting Steps and Tips Provided by YL Software Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-f14-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F14 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+</ul></div>
 
