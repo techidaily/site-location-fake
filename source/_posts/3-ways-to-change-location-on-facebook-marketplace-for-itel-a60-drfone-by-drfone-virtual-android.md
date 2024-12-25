@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Change Location on Facebook Marketplace for Itel A60 | Dr.fone
-date: 2024-07-12T18:35:24.521Z
-updated: 2024-07-13T18:35:24.521Z
+date: 2024-12-20T07:12:15.474Z
+updated: 2024-12-24T19:29:57.539Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,8 +26,6 @@ The following discussed points in the article will teach you **how to change loc
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/eK36GJ-HGz8"></iframe>
 
-
-
 The Facebook Marketplace is a feature that finishes the gap between social media and digital marketplaces. With this helpful feature, you can now buy and sell items on your Facebook account to other Facebook users. In addition, you can filter the listings and see the buyers from a specific location by changing to a location.
 
 Here, we will teach you the steps involved in **changing the FB Marketplace location** on your Android and iOS devices:
@@ -44,9 +42,17 @@ Here, we will teach you the steps involved in **changing the FB Marketplace loca
 
 ![open your location](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Use the “Search Bar’ at the top of the screen to search and select the new location. After entering the target place, tap on the “Apply” button. You can also adjust the distance slider below “Custom radius” to change the location.
 
 ![add and apply new location](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Now, the Facebook Marketplace will refresh. You will now be able to see new listings for the selected location.
 
@@ -59,6 +65,10 @@ If you are using Facebook from a browser, it is also achievable to change the lo
 **Step 1:** Access Facebook through the browser of your choice and sign in to your Facebook account.
 
 ![sign in to facebook account](https://images.wondershare.com/drfone/article/2022/05/change-facebook-marketplace-location-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** There will be a “Marketplace” icon; click on it. Now, the current location will be displayed on the screen. You have to tap on your current location to fake the location of your marketplace.
 
@@ -80,8 +90,6 @@ If you are using Facebook from a browser, it is also achievable to change the lo
 
 The application holds a wide range of uses and characteristics, so it is considered the best way to change location. The following key points are mentioned why it is the best location changing solution available:
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -93,6 +101,10 @@ The application holds a wide range of uses and characteristics, so it is conside
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Simple Steps to Fake your Location on Facebook Marketplace
 
@@ -119,6 +131,10 @@ Now, activate the “Teleport Mode” by clicking the first icon on the upper-ri
 Now, click on "Move Here" in the popup box, and your location will be changed. Your Android or iOS device location will be shifted to the added location now. Then, you can open Facebook and see the buyers and sellers of the given location in the Marketplace.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: FAQs about Facebook Marketplace
 
@@ -156,8 +172,6 @@ The Live Location feature on Messenger works beyond sending the address or coord
 
 In this article, we will delve into the highlights and benefits of Facebook Messenger’s location-sharing features. We will also provide some tutorials on **how to share Live Location** on Messenger. Continue reading below to learn more.
 
-
-
 ## Part 1. Everything You Should Know About Messenger’s Live Location
 
 Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
@@ -192,6 +206,10 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
 
@@ -257,8 +275,6 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 There’s no denying that the location-sharing feature of Facebook Messenger is useful to many of us. It always comes in very handy whenever we need to meet people somewhere or invite them to our places. However, we should not become too complacent and let our guard down. Sharing sensitive information like whereabouts always comes with risk, regardless of the platform and the intention. Therefore, make it a habit to protect your privacy at all costs. In this regard, Wondershare Dr.Fone has something special to offer. Its Virtual Location feature, capable of modifying and simulating your location records, can be of great help for you. Don’t worry. It’s very easy to use. Here’s a short guide for you.
 
-
-
 - **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Right after, install it on your computer.
 - **Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your smartphone using a data cable. Follow the on-screen instructions and perform the steps accordingly to ensure the connection between the two devices is stable enough to handle the succeeding operations.
 - **Step 3:** Navigate to the left-side panel and then click **Toolbox.** On the main dashboard, click **Virtual Location.** Is it your first time using this feature? If so, allow Wondershare Dr.Fone to download additional resources. Don’t sweat it. It will only take a few minutes to complete.
@@ -284,20 +300,25 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Itel A60 to the computer and set it up from there.
 
-
-
 ## How To Fake GPS On Itel A60 For Mobile Legends?
 
 People, generally boys, are often found playing games on their cell phones, and they are pretty much addicted to it. Many games are of their interest, but Mobile Legends has always been on the top of the list. Mobile Legends is a game that can be played by a few people simultaneously, and it is called MOBA.
 
 Unlike other games, Mobile Legends allows its players to hide their actual location. Therefore, ML players have many reasons to **fake GPS Mobile Legends,** such as getting a higher rank and playing with their friends wherever they are. Let's find how to fake GPS on ML in this article now!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 1: Why Do We Need to Fake Location on ML**
 
 Some players want to fake-locate Mobile Legends because it is highly competitive and it usually ranks globally or locally. Most players prefer local street rankings, which are specified according to the area. The GPS detects the location of the Itel A60 devices in your area while you are in the game. Spoofing your location can bring you new requests and challenges that were practically unavailable in your area.
 
 ![alt标签](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The most amazing thing this does to your game is bringing you different teammates from all over the world, which can't be done the other way. Another thing that you can do while using **fake GPS for ML** is to earn a top badge in the less competitive areas. If you want to play the game with your friend, you or he can change the location to play together.
 
@@ -335,6 +356,10 @@ After downloading and launching Dr.Fone, click "Virtual Location" among all the 
 
 ![select virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Locate Yourself on the Map
 
 You will be able to find your actual location on the map as soon as the new window opens. If your location is misplaced, click on the "Center On" icon in the lower right part of the screen. This will show your actual location.
@@ -347,13 +372,15 @@ Next, you will have to activate the "Teleport Mode" by clicking on its icon. Aft
 
 ![activate teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 4: Confirm your New Location
 
 The location has changed now; you can check it by clicking "Center On." The same location will be on your Mobile Legends game. Now, open your game and play it in your desired location with your friends and other people.
 
 ![check your fake location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -395,9 +422,6 @@ Hola **Fake GPS Mobile Legends** VPN Service is only available across Samsung Ga
 
 This article has discussed the Mobile Legends game and how you can **fake GPS Mobile Legends.** Usually, people like to hide their locations or fake them because they prefer their privacy and don't want to be located by their friends or family. However, in the case of Mobile Legends, people spoof their location to increase their rank or get new challenges. Therefore, we have given you a clear idea of how you can fake your location using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on both Android and iOS devices.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -410,9 +434,22 @@ This article has discussed the Mobile Legends game and how you can **fake GPS Mo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-mechanics-of-swift-content-on-facebook/"><u>[New] In 2024, The Mechanics of Swift Content on Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-deep-dive-into-instagrams-daily-narrative-components/"><u>[Updated] 2024 Approved Deep Dive Into Instagram's Daily Narrative Components</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-vivacut-video-editing-manual-for-24/"><u>2024 Approved The Definitive VivaCut Video Editing Manual for '24</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-defy-2-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Defy 2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A34 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-se-2020-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone SE (2020) Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-xr-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone XR Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-nord-3-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus Nord 3 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-time-lapse-photography-on-samsung-phones-for-2024/"><u>Mastering Time-Lapse Photography on Samsung Phones for 2024</u></a></li>
+</ul></div>
 
