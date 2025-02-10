@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Damaged Video Games: A Step-by-Step Guide"
-date: 2025-01-27T18:23:08.369Z
-updated: 2025-01-29T17:55:48.144Z
+date: 2025-02-07T16:37:24.051Z
+updated: 2025-02-10T04:52:42.229Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 **Fortnite login failed on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only one to experience this problem. Thousands of Fortnite players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fixes to try:**
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
@@ -64,11 +68,19 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -91,11 +103,11 @@ See if you can log in or not. if not, try the next fix, below.
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -120,10 +132,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -153,14 +161,10 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
@@ -171,6 +175,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Move wireless devices such as **cordless phones** or **microwave ovens** away from your router; or turn off those devices.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
 
@@ -183,18 +191,18 @@ See if you can log in or not. if not, try the next fix, below.
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Change the DNS server
 
@@ -207,16 +215,8 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
@@ -228,7 +228,7 @@ See if you can log in or not. if not, try the next fix, below.
 7. Restart your PC and launch Fortnite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
@@ -266,22 +266,21 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[New] 2024 Approved Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ise-above-the-norm-expert-tips-for-broadcasting-spherical-content-on-youtube/"><u>[New] Rise Above the Norm Expert Tips for Broadcasting Spherical Content on Youtube</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-soundscapes-for-success-the-art-of-music-on-tiktok/"><u>[Updated] 2024 Approved Soundscapes for Success The Art of Music on TikTok</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-uncover-the-most-stellar-yt-gamers-intros-no-cost-high-quality/"><u>[Updated] 2024 Approved Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-step-into-the-future-samsungs-new-k850-ultrablade-unveiled/"><u>2024 Approved Step Into the Future - Samsung's New K850 UltraBlade Unveiled</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-stability-mastery-fixing-the-persistent-mordhau-crash-problems/"><u>Game Stability Mastery: Fixing the Persistent Mordhau Crash Problems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1125878-9781609257750-magical-hearth/"><u>Magical Hearth | Free Book</u></a></li>
-<li><a href="https://win-blog.techidaily.com/simple-solution-why-does-outriders-keep-experiencing-crashes/"><u>Simple Solution: Why Does Outriders Keep Experiencing Crashes?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-remote-classroom-video-archive/"><u>[New] 2024 Approved Remote Classroom Video Archive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-most-popular-images-journey-to-meme-status/"><u>[New] In 2024, The Most Popular Images' Journey to Meme Status</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-ultimate-toolwiz-photo-suite-analysis-for-2024/"><u>2023'S Ultimate Toolwiz Photo Suite Analysis for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>2024 Approved Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-13-ultra-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi 13 Ultra? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-the-most-out-of-conversational-ai-preview-this-open-source-desktop-app-before-chatgpt-arrives/"><u>Get the Most Out of Conversational AI: Preview This Open Source Desktop App Before ChatGPT Arrives</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-wars-first-person-shooter-adventure-hits-the-pc-scene-download-now/"><u>God of War's First Person Shooter Adventure Hits the PC Scene - Download Now</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725290551390-mac/"><u>Macでブルーレイ再生可能!フリーソフトの評価とおすすめ</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-insiders-tale-to-tripling-instagram-traffic-for-2024/"><u>The Insider’s Tale to Tripling Instagram Traffic for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027788243-discord/"><u>シームレスなDiscord画面録画技術ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the Dark Display Error on Magic: The Gathering Digital Edition"
-date: 2025-01-24T17:00:35.110Z
-updated: 2025-01-29T19:37:40.740Z
+date: 2025-02-08T07:27:12.399Z
+updated: 2025-02-10T00:46:53.177Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Delete the cache files of Origin**
 
  This issue may be caused by the cache files of Origin. Try deleting the cache files to see if you can fix this issue. Here’s how to do it:
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  1)**Close** Origin if it is running. Click**Origin**  in the menu bar and then select **Exit**  to close it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
@@ -53,21 +53,21 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) In the pop-up window, delete the**Origin**  folder.
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Double-click the**Local**  folder to open it.
@@ -94,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -127,13 +131,13 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -149,6 +153,10 @@ Or
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
@@ -166,10 +174,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
@@ -186,6 +190,10 @@ Or
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -193,10 +201,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the** **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
@@ -214,19 +218,23 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -262,17 +270,9 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -300,15 +300,18 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[Updated] 2024 Approved Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-obs-video-magic-top-5-editing-secrets-revealed/"><u>[Updated] OBS Video Magic Top 5 Editing Secrets Revealed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-s17-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo S17? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-find-x7-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Find X7 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c55-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-visionary-zeo-startups-panzoids-best-10/"><u>In 2024, Visionary Zeo-Startups Panzoid's Best 10</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/stylish-city-scenes-by-yl-software-premium-collection-of-720x1280-background-images-and-themes-for-computers-and-smartphones/"><u>Stylish City Scenes by YL Software – Premium Collection of 720X1280 Background Images and Themes for Computers & Smartphones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-11-revolutionary-tech-breakthroughs-since-the-mid-19th-century/"><u>The Ultimate List of 11 Revolutionary Tech Breakthroughs Since the Mid-19th Century</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726030199275-vlc-media-player/"><u>VLC Media Player - 簡単な手順でビデオからオーディオコンテンツを取り出せます!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-access-high-quality-youtube-images-without-paying-a-dime/"><u>[New] 2024 Approved Access High-Quality YouTube Images Without Paying a Dime</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-your-zoom-collaboration-calendar/"><u>[Updated] 2024 Approved Streamlining Your Zoom Collaboration Calendar</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unbeatable-online-and-desktop-gif-maker-options/"><u>[Updated] 2024 Approved Unbeatable Online & Desktop GIF Maker Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bass-bridges-and-high-beats-understanding-sound-mixing/"><u>[Updated] Bass Bridges & High Beats Understanding Sound Mixing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-f5-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco F5 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/come-eseguire-il-backup-dei-volumi-dinamici-nel-tuo-sistema-windows-con-luso-della-partizione-virtuale/"><u>Come Eseguire Il Backup Dei Volumi Dinamici Nel Tuo Sistema Windows Con L'uso Della Partizione Virtuale</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/configuring-your-systems-regional-options-through-the-control-panel-expert-tips-from-yl-computing/"><u>Configuring Your System's Regional Options Through the Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/high-impact-color-filters-expertly-curated-15-gopro-lut-picks/"><u>High-Impact Color Filters Expertly Curated 15 GoPro LUT Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-tools-to-extract-mp3s-from-popular-video-platforms-like-pinterest-for-2024/"><u>Leveraging Tools to Extract MP3s From Popular Video Platforms Like Pinterest for 2024</u></a></li>
 </ul></div>
 

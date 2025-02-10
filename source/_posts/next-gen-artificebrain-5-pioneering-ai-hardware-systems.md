@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Artificebrain: 5 Pioneering AI Hardware Systems"
-date: 2025-01-25T16:47:42.675Z
-updated: 2025-01-29T21:49:20.070Z
+date: 2025-02-08T01:49:16.661Z
+updated: 2025-02-10T05:15:47.841Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
@@ -30,22 +30,22 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 ![openai logo on code background feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/openai-logo-on-code-background-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently invested nearly 10 billion dollars into OpenAI, and Bing’s new AI prowess is just the start of this long-term strategic partnership.
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
@@ -67,15 +67,15 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
  Building on the content-generation capabilities of ChatGPT,**Compose** within Microsoft Edge will let you generate content that customizes to the required tone, format, and length. You can compose emails to your coworkers, write about your new job in a post on LinkedIn, and even convert financial information into tables; the possibilities are limitless.
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
 
@@ -96,19 +96,18 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-best-choice-high-definition-screen-capturing-apps/"><u>[New] In 2024, The Best Choice High-Definition Screen Capturing Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-5-quick-hacks-to-sharpen-your-indie-filmmaking-skills/"><u>[Updated] 2024 Approved 5 Quick Hacks to Sharpen Your Indie Filmmaking Skills</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-saving-your-iphone-7-display/"><u>[Updated] 2024 Approved The Ultimate Guide to Saving Your iPhone 7 Display</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-saga-scholars-society-premier-picks/"><u>[Updated] Saga Scholars Society - Premier Picks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-v27-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo V27 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-play-40c-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Play 40C Easily?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-iphone-apps-the-ultimate-guide-to-removing-photo-clutter/"><u>In 2024, Leading iPhone Apps The Ultimate Guide to Removing Photo Clutter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/siri-gets-smarter-with-apples-latest-ai-advancements-major-updates-coming-insights/"><u>Siri Gets Smarter with Apple's Latest AI Advancements: Major Updates Coming - Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-techs-time-capsule-a-screen-review/"><u>[New] In 2024, Tech's Time Capsule A Screen Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimal-low-cost-video-conferencing-software-options/"><u>[Updated] 2024 Approved Optimal Low-Cost Video Conferencing Software Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-quintessential-editing-advantages-of-filmora/"><u>2024 Approved The Quintessential Editing Advantages of Filmora</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-red-magic-9-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Red Magic 9 Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-visibility-a-cursor-guide-for-win10-and-11/"><u>Enhancing Visibility: A Cursor Guide for Win10 & 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-video-perfection-choosing-the-ultimate-5-enhancers/"><u>In 2024, Video Perfection Choosing the Ultimate 5 Enhancers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-setting-up-your-dream-machine-for-premiere-pro-a-beginners-guide/"><u>New 2024 Approved Setting Up Your Dream Machine for Premiere Pro A Beginners Guide</u></a></li>
 </ul></div>
 

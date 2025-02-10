@@ -1,7 +1,7 @@
 ---
 title: Illuminating Strategies to Combat the Perpetual Darkness in Star Wars Battlefront II's Graphics Glitches
-date: 2025-01-24T20:29:47.366Z
-updated: 2025-01-29T16:49:13.539Z
+date: 2025-02-05T00:52:38.166Z
+updated: 2025-02-10T05:50:33.257Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ## Garry's Mod Crashing? Get Back on Track with Essential Fixes for the Latest Patch
 
 Game crashing issues can occur for a variety of reasons, such as a faulty graphics driver, software conflicts, improper game settings, low RAM, etc. If you’re experiencing the**Garry’s Mod(GMod) crashing** issue on your PC, before contacting the game’s developer, try the following solutions first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -60,10 +64,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
@@ -73,7 +73,7 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
@@ -83,10 +83,6 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -126,6 +122,10 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of your game files
 
  Damaged or missing game files might also cause your game to fail. If you’re running the game on Steam, try verifying the integrity of your game files. Here is how to do it:
@@ -140,17 +140,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -162,21 +166,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -187,7 +187,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
@@ -219,16 +219,12 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -237,6 +233,10 @@ Follow the instructions below to stop the automatic downloads:
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -251,7 +251,7 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
@@ -327,17 +327,18 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-screen-captures-in-firefox-land/"><u>[New] 2024 Approved Top Screen Captures in Firefox Land</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mac-gif-mastery-find-the-best-10-recorders/"><u>[Updated] 2024 Approved Mac GIF Mastery Find the Best 10 Recorders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube-for-2024/"><u>[Updated] A Comprehensive Guide to the Best Makeup Tutorials on YouTube for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-compilation-top-10-budget-friendly-lut-sources/"><u>2024 Approved The Essential Compilation Top 10 Budget-Friendly LUT Sources</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-magic-5-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor Magic 5? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/discover-over-30-premium-free-ae-template-packs-for-2024/"><u>Discover Over 30 Premium Free AE Template Packs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-novices-companion-to-av1-technology/"><u>In 2024, Novice’s Companion to AV1 Technology</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-19-editors-of-the-best-videos-easy-tutorials-for-enhancing-your-content/"><u>Top 19 Editors of the Best Videos : Easy Tutorials for Enhancing Your Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-a-malfunctioning-logitech-g43-cufflinks-mic/"><u>Troubleshooting Tips for a Malfunctioning Logitech G43 Cufflinks Mic</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-prime-filters-to-elevate-submerged-photography/"><u>[New] 2024 Approved Prime Filters to Elevate Submerged Photography</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[New] Can I View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-worldly-stories-startup-guide-for-future-travel-vloggers-for-2024/"><u>[Updated] Crafting Worldly Stories Startup Guide for Future Travel Vloggers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[Updated] In 2024, Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-ultimate-list-of-budget-friendly-video-editors-for-2024/"><u>[Updated] Unveiling the Ultimate List of Budget-Friendly Video Editors for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-12-proplus-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 12 Pro+ 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/direct-digital-delivery-streamlined-steps-for-files-for-2024/"><u>Direct Digital Delivery Streamlined Steps for Files for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-address-mstdfmt-dll-file-not-detected-problem-in-windows/"><u>How to Address MSTDFMT DLL File Not Detected Problem in Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-user-filmed-endorsements/"><u>Mac User-Filmed Endorsements</u></a></li>
 </ul></div>
 
