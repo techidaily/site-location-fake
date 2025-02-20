@@ -1,7 +1,7 @@
 ---
 title: A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 20 Pro+ | Dr.fone
-date: 2025-01-12T19:19:31.106Z
-updated: 2025-01-15T16:02:41.509Z
+date: 2025-02-12T19:58:56.063Z
+updated: 2025-02-19T23:27:10.875Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,6 +21,10 @@ Mozilla Firefox is one of the most famous browsers known for its security. Like 
 It is not hard to change or spoof your location in Mozilla Firefox. Stick with this article to learn different ways to **fake a location in Firefox** on devices.
 
 ![firefox featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Preparations Before Spoofing Your Location in Firefox
 
@@ -74,10 +78,6 @@ Once done, your geolocation will be changed to your desired location.
 
 ![add your fake firefox location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Use The Location Guard Firefox Extension
 
 Another way you can protect your location from websites is to use the "[Location Guard](https://addons.mozilla.org/en-US/firefox/addon/location-guard/)" add-on in Mozilla Firefox. It is generally recognized as an extension, also available in the Add-Ons Store of Firefox. The steps to add "Location Guard" and use it to alter your location are following:
@@ -93,10 +93,6 @@ Another way you can protect your location from websites is to use the "[Location
 **Step 3:** Using its "Fixed Location" feature from the left sidebar, you can change your location. Here, select any location from the map by placing the "Marker" on it to change your browser's location.
 
 ![set the fixed location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Fake Your Location in Mozilla Firefox on Phones
 
@@ -115,6 +111,10 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 **Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
 
 ![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **On iPhone**
 
@@ -248,6 +248,10 @@ You can also remotely wipe sensitive data and settings from any device at any ti
 
 Setting a virtual location is one of the prime role Dr.Fone plays.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -265,6 +269,10 @@ Setting a virtual location is one of the prime role Dr.Fone plays.
 Downloading Dr.Fone - Virtual Location (for iOS or Android) is the first thing that has to be taken. After that, run the executable file to begin using the application.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** After going through all of the available choices, choose "Virtual Location," and then connect your iPhone or Android phone to your computer. Select "Get Started" from the drop-down menu.
 
@@ -290,6 +298,10 @@ For iPhone users, after the program has been linked via a USB cord, it is possib
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: FAQs
 
 ### 1\. What are Life360 events?
@@ -306,16 +318,12 @@ Find out about things like your highest speed and whether or not you text while 
 
 When Circle members are on the road, whether driving, using public transportation, or traveling with companions, keep an eye on their peak speed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Why does life360 show walking instead of driving?
 
 In brief, it is because walking is less likely to be used for commuting than driving. For example, if you live in a rural area, you may not have access to public transportation, and therefore, you would have to walk to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. What does it mean when life360 doesn't update?
@@ -356,6 +364,10 @@ The Process
 
 ![ispoofer location change](https://drfone.wondershare.com/2020/ispoofer_location_change.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to change GPS on Android?
 
 Faking GPS on android is also super easy and it allows the users to spoof the location with ease and perfection. It is not only easy to do but it also makes sure that you get 100% results. The process which you need to follow is mentioned as under.
@@ -369,7 +381,7 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 ![enable developer options android](https://drfone.wondershare.com/2020/enable_developer_options_android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** Enable the mock locations on android and select the fake GPS application to get the results.
@@ -379,10 +391,6 @@ Faking GPS on android is also super easy and it allows the users to spoof the lo
 **Step 4.** Select the location where you want to spoof and then press the play button. Your location will be changed and your phone will also show and lock your spoofed location.
 
 ![spoof location on android](https://drfone.wondershare.com/2020/spoof_location_on_android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to share a fake GPS on Uber for iPhone
 
@@ -401,10 +409,6 @@ To select the best application for iPhone it is advised to keep in mind the foll
 ### 2.2 App and desktop which is better
 
 For Uber GPS spoofing the desktop application is awesome. It allows more control and therefore it also lets the users get the best results. The desktop application will also let the users know about the exact location as compared to the mobile application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Best Desktop Location Spoofer for iPhone
 
@@ -430,6 +434,10 @@ First of all download and install the program to begin the process.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Go for Virtual Location**
 
 Connect the iPhone with the system and click the get started on the computer to make sure that you begin the process.
@@ -442,10 +450,6 @@ To make sure that you get yourself located make sure that you press the “cente
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Teleportation**
 
 From the upper right corner click on the icon on the third and this will make sure that the process of teleportation begins.
@@ -457,10 +461,6 @@ From the upper right corner click on the icon on the third and this will make su
 Click move here and you will get to the teleported location. It will also make sure that the program is working correctly.
 
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6: Complete the Process**
 
@@ -476,6 +476,10 @@ For Uber fake GPS 2019 this is the best and the easiest method that you can perf
 
 ![Hola fake GPS android](https://drfone.wondershare.com/2020/Hola_fake_GPS_android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Use Fake GPS Go
 
 This is another important method that can be used to make sure to easily fake GPS Uber 2019. Just select the settings to GPS only > choose the location > press the Go button and fake GPS will be inserted into your device.
@@ -487,10 +491,6 @@ This is another important method that can be used to make sure to easily fake GP
 It is also one of the easiest ways to make sure that the location is changed. You need to enable mock location on your android and select this application to get the work done. It is a 100% practical method to get the work done.
 
 ![location changer android](https://drfone.wondershare.com/2020/location_changer_android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -510,24 +510,18 @@ No matter whatever the process you use for the location spoofing it is the [Dr.F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-ios-guide-your-step-by-step-vr-video-experience/"><u>[New] IOS Guide Your Step-by-Step VR Video Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>[Updated] In 2024, Navigating the Social Network Crossroad Instagram & TikTok</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-efficient-methods-for-android-screen-recordings/"><u>2024 Approved Efficient Methods for Android Screen Recordings</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-12-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 12 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 12R without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-x50-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/5-essential-tools-for-following-trending-topics-on-twitter-with-ease/"><u>5 Essential Tools for Following Trending Topics on Twitter with Ease</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-c53-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-the-ultimate-sound-samsung-galaxy-budsplus-review-and-test/"><u>Experience the Ultimate Sound: Samsung Galaxy Buds+ Review & Test</u></a></li>
-<li><a href="https://win-forum.techidaily.com/grayscale-conversion-black-and-white-effect-monochrome-and-simple-editing-tools/"><u>Grayscale Conversion, Black & White Effect, Monochrome, and Simple Editing Tools.</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-a59-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A59 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/how-to-safeguard-your-files-against-tampering-or-loss-in-windows-environments-with-tips-by-yl-software/"><u>How to Safeguard Your Files Against Tampering or Loss in Windows Environments with Tips by YL Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-your-webex-microphone-issues/"><u>How to Troubleshoot Your Webex Microphone Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triumphant-pc-restarts-windows-factory-fresh-edition/"><u>Triumphant PC Restarts: Windows Factory Fresh Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>[New] In 2024, Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-price-programs-to-take-your-videos-from-average-to-amazing/"><u>9 Zero Price Programs to Take Your Videos From Average to Amazing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/demystifying-av1-a-first-time-guide/"><u>Demystifying AV1 A First-Time Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-the-best-video-recording-tools-of-2024-expert-opinions/"><u>Discover the Best Video Recording Tools of 2024 – Expert Opinions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v29-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V29 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-y36-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Y36 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-enhanced-joy-in-switchs-hd-gameplay-through-cards/"><u>In 2024, Enhanced Joy in Switch's HD Gameplay Through Cards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-lannister-line-up-top-list-of-websites-for-game-ringtones/"><u>The Lannister Line-Up Top List of Websites for Game Ringtones</u></a></li>
 </ul></div>
 

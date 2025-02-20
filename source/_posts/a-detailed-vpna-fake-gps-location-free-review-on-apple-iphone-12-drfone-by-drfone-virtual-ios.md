@@ -1,7 +1,7 @@
 ---
 title: A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 12 | Dr.fone
-date: 2025-01-22T19:24:18.676Z
-updated: 2025-01-29T21:27:38.156Z
+date: 2025-02-18T21:18:38.806Z
+updated: 2025-02-19T18:50:41.150Z
 tags: 
   - virtual location chang
   - location changer
@@ -66,10 +66,6 @@ To set up a mock location app, you need to first enable the Developer Options on
 
 ![enable developer options om your phone](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once it is done, go to its Settings > Developer Options and turn on the option to set a mock location on your phone.
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
@@ -86,15 +82,27 @@ That's it! Whenever you wish to change the location of your device, simply launc
 
 ![spoof your android](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Later, you can move the pin around and drop it anywhere you like. Tap on the Start button and confirm your choice to spoof your device's location.
 
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
 
 While Android users can take the assistance of VPNa Fake GPS, iOS users often find it hard to change their device location. Well, in this case, you can consider [Dr.Fone - Virtual Location(iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . It is a user-friendly application that can spoof your Apple iPhone 12 location to any other place by entering its address or exact coordinates. Besides that, you can also simulate the movement of your device between different spots.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Connect your Apple iPhone 12 and launch the tool
 
@@ -108,19 +116,15 @@ The application will automatically detect your device's location and would displ
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Change your Apple iPhone 12's location
 
 After entering the target location, the interface would also change. You can move the pin, zoom in/out, and drop it to the designated place. In the end, just click on the "Move Here" button to spoof your Apple iPhone 12's location.
 
 ![spoof your phone's location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This brings us to the end of this detailed VPNa Fake GPS Location Free review. To help you use the VPNa Fake GPS APK, I have listed its features, pros, cons, and even a detailed tutorial. On the other hand, if you are an iPhone user, then you can simply use [Dr.Fone - Virtual Location(iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) and change your device's location to anywhere you want.
 
@@ -137,6 +141,10 @@ In this article, we'll show you how to apply clear and easy security measures to
 Location spoofing is a way for people to manipulate the location of GPS data shared by their devices. Faking your GPS is used for various actions, including accessing geo-blocked contents of an application, circumventing games or movies with country restrictions, or maintaining your privacy.
 
 Using fake GPS software sends out false GPS signals from your device, hiding or changing your location. This sidesteps security as well as trust and safety terms of applications that rely on location signals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Ways to Fake Your GPS Location on Android and iOS
 
@@ -169,7 +177,7 @@ Begin with the launch of Dr.Fone - Virtual Location on your computer and establi
 ![select the desired location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Move to the Targeted Location and Verify It**
@@ -177,10 +185,6 @@ Begin with the launch of Dr.Fone - Virtual Location on your computer and establi
 Upon completion of the initial setup, proceed to teleport to the targeted location by clicking "Move Here" on the map screen. This action prompts the cursor to relocate to the specified location on the map. It also simultaneously adjusts the location of your Android or iOS device. To validate the successful location change, access your smartphone and open a map application.
 
 ![click the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Why is GPS Spoofing a Problem?
 
@@ -230,12 +234,16 @@ Faking your GPS is easy nowadays. You can download an application and tinker wit
 
 Knowing the telltale signs of a fake GPS is a must to ensure you will not be deceived when transacting online. In the end, the most effective way to detect if someone is faking their GPS is by checking if their smartphone has a GPS spoofing app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Best Route Generator Apps You Should Try On Apple iPhone 12
 
 ![change location](https://images.wondershare.com/drfone/images2023/virtual-location.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Do you find it hard to look for places without an active internet connection? Well, in this case, you should consider using a route generator app. For instance, with a reliable GPX file generator, you can easily track a route offline. This can help you navigate your way without an active internet connection or even let you excel in games like Pokemon Go. Therefore, in this post, I will let you know about running route generator and Pokemon map generator apps in detail.
@@ -271,7 +279,7 @@ Price: Free or $9.99
 ![Route4Me GPX Generator](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. **Routes: GPX KML Generator**
@@ -319,6 +327,10 @@ _Price_: Free or $1.99 monthly
 
 ![GPX Creator iPhone App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **GPX Viewer: Tracks, Routes, and Waypoints**
 
 Often considered as the best Pokemon Map Generator, this is a highly resourceful app that is used to generate maps for numerous games. You can also customize specific waypoints that would let you locate Pokemons and other game-related details.
@@ -334,14 +346,6 @@ _Price_: Free or $1.99
 
 ![GPX Viewer Android App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to View GPX Files Offline on your PC?
 
 As you can see, with the help of a GPX file generator, you can easily save your routes offline. Though, if you are looking for a Pokemon Map Generator app or a solution to view your GPX files on your PC, then try Dr.Fone – Virtual Location (iOS). Developed by Wondershare, it can be used to view GPX files, spoof the location of your device, and even simulate its movement.
@@ -355,10 +359,6 @@ As you can see, with the help of a GPX file generator, you can easily save your 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![drfone](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 I’m sure that after reading this guide, you would be able to pick the best route generator app to meet your requirements. I have listed Pokemon map generator as well as running route generator apps that you can consider. Once you have got a GPX generator, you can also use a tool like [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to import/export GPX files and can also use it to play Pokemon Go remotely with its location spoofing feature.
 
@@ -376,21 +376,22 @@ I’m sure that after reading this guide, you would be able to pick the best rou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-poco-c51-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-yuva-2-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Yuva 2 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-x-flip-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo X Flip? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-poco-c55-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-def-zoom-manipulator-for-2024/"><u>High-Def Zoom Manipulator for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-15-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 15 & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-micro-videos-whats-the-gist/"><u>In 2024, Micro Videos What's the Gist?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>In 2024, Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reign-in-windows-stop-unwanted-screen-movement/"><u>Reign In Windows: Stop Unwanted Screen Movement</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g14-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G14 Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-masterminds-of-chatgpt-technology/"><u>Unveiling the Masterminds of ChatGPT Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-reducing-system-overheads/"><u>Windows 10: Reducing System Overheads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-best-cameras-for-capturing-live-dynamic-music-events-in-hd4k/"><u>[New] 2024 Approved Best Cameras for Capturing Live, Dynamic Music Events in HD/4K</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-securing-group-discussions-on-hangouts/"><u>[Updated] In 2024, Securing Group Discussions on Hangouts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-10-drone-propeller-choices-for-enhanced-aerial-mobility/"><u>[Updated] Top 10 Drone Propeller Choices for Enhanced Aerial Mobility</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-t2x-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo T2x 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-the-best-romer-battery-charging-led-flashlight-for-night-hikers-and-campers/"><u>Comprehensive Guide: The Best Romer Battery Charging LED Flashlight for Night Hikers and Campers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289355055-dvd/"><u>DVD暗号化を解除するのは合法か違法か？疑問を解消します</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-release-nomad-goods-unveils-vibrant-electric-blue-sports-bands-for-apple-watch-shop-now/"><u>Exclusive Release: Nomad Goods Unveils Vibrant Electric Blue Sports Bands for Apple Watch - Shop Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-compilation-ringtone-renaissance-sites/"><u>In 2024, Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/zoom-transcoding-mastery-essential-three-step-approach/"><u>Zoom Transcoding Mastery Essential Three-Step Approach</u></a></li>
 </ul></div>
 
